@@ -1,0 +1,8 @@
+{
+  "name": "Daily English",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "468423eb"
+}
