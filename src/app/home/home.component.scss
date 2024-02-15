@@ -1,0 +1,43 @@
+
+.welcomeMessage{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 50px;
+}
+
+.levelNavigate{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  font-family: Apple Chancery, cursive;
+  font-size: 20px;
+}
+.card{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 5%;
+}
+
+.selectLevet{
+  padding-top: 30px;
+}
+
+.homeGrid{
+  display: grid;
+  gap: 10px;
+  width: 70%;
+}
+
+.allLevelButtons{
+  gap: 20px;
+}
+.levelButton{
+  width: 100%;
+  height: 80px;
+  font-size: 18px;
+}
