@@ -9,11 +9,15 @@ import { ActivatedRoute } from '@angular/router';
 export class GamesComponent implements OnInit {
 
   private activatedRoute = inject(ActivatedRoute);
+  public level: string = "";
 
-constructor(){}
+constructor(){
+}
+
   ngOnInit(): void {
     this.activatedRoute.params.subscribe(params => {
-      console.log('Game level:', params["level"]);
+      this.level = params["level"];
+      console.log('Game level:', this.level);
     });
   }
 
