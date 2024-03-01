@@ -5,6 +5,7 @@ import { GamesPageRoutingModule } from './games.page-routing.module';
 import { IonicModule } from '@ionic/angular';
 import {GamesComponent} from './games.page'
 import { ImageMatchComponent } from './image-match/image-match.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -12,7 +13,9 @@ import { ImageMatchComponent } from './image-match/image-match.component';
   imports: [
     CommonModule,
     GamesPageRoutingModule,
-    IonicModule
+    IonicModule,
+    FormsModule,
+
   ]
 })
 export class GamesPageModule { }

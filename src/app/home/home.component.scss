@@ -4,18 +4,43 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    font-family: Brush Script MT, Brush Script Std, cursive;
-    font-size: 50px;
+    font-family: monospace;
+    padding-top: 50px;
+    color: #fff;
 }
 
-.levelNavigate{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 20px;
-  font-family: Apple Chancery, cursive;
-  font-size: 20px;
+
+.welcomeMessage span {
+  opacity: 0;
+  display: inline-block;
+  animation: fadeInAnimation 1s ease forwards;
+  padding: 10px;
+  font-size: 17px;
+
 }
+
+@keyframes fadeInAnimation {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.welcomeMessage span:nth-child(1) {
+  animation-delay: 0.1s;
+}
+.welcomeMessage span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.welcomeMessage span:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+
 .card{
   display: flex;
   justify-content: center;
@@ -23,21 +48,99 @@
   top: 5%;
 }
 
-.selectLevet{
-  padding-top: 30px;
-}
 
 .homeGrid{
   display: grid;
-  gap: 10px;
-  width: 70%;
+  gap: 30px;
+  padding-top: 20px;
 }
 
 .allLevelButtons{
   gap: 20px;
 }
-.levelButton{
-  width: 100%;
-  height: 80px;
-  font-size: 18px;
+
+.selectLevel{
+  padding-top: 50px;
 }
+
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #000;
+}
+
+
+.levelButton {
+  --borderWidth: 3px;
+  background: #1D1F20;
+  position: relative;
+  border-radius: var(--borderWidth);
+  display: block;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  text-align: center;
+  transition: 0.5s;
+  z-index: 1;
+
+ &:after {
+    content: '';
+    position: absolute;
+    top: calc(-1 * var(--borderWidth));
+    left: calc(-1 * var(--borderWidth));
+    height: calc(100% + var(--borderWidth) * 2);
+    width: calc(100% + var(--borderWidth) * 2);
+    background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-radius: calc(2 * var(--borderWidth));
+    z-index: -1;
+    animation: animatedgradient 3s ease alternate infinite;
+    background-size: 300% 300%;
+    filter: blur(3px);
+  }
+}
+
+@keyframes animatedgradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+.autoWriter{
+  display: flex;
+  padding-top: 30px;
+}
+
+.autoWriter h1 {
+  overflow: hidden;
+  border-right: .15em solid #fff;
+  white-space: nowrap;
+  margin: 0 auto;
+  font-size: 15px;
+  font-family: monospace;
+  color: #fff;
+  animation:
+    typing 3.5s steps(100, end),
+    blink-caret 1s step-end infinite alternate;
+}
+
+@keyframes typing {
+  from { width: 0% }
+  to { width: 86% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #fff; }
+}
+

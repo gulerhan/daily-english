@@ -1,37 +1,39 @@
 <div class="home">
   <div class="welcomeMessage">
-    <p>Merhaba, Hosgeldin!</p>
+      <span>Daily English'e</span>
+      <br>
+      <span>Hoşgeldin</span>
+      <br>
   </div>
-  <div class="levelNavigate">
-    <p>Lütfen seviyenizi seçin</p>
+  <div class="autoWriter">
+    <h1>Lütfen bir seviye seç ve oynamaya başla</h1>
   </div>
- <div class="selectLevet">
+ <div class="selectLevel">
   <ion-grid class="homeGrid">
-    <ion-row class="allLevelButtons" >
-      <ion-col>
-        <ion-button class="levelButton" color="secondary" [routerLink]="['/games/a1']">A1</ion-button>
+    <ion-row class="allLevelButtons">
+      <ion-col class="selectedLevel">
+        <ion-button class="levelButton" color="dark" [routerLink]="['/games/a1']">A1</ion-button>
       </ion-col>
-      <ion-col>
-        <ion-button class="levelButton" color="secondary"[routerLink]="['/games/a2']">A2</ion-button>
+      <ion-col class="selectedLevel">
+        <ion-button class="levelButton" color="dark"[routerLink]="['/games/a2']">A2</ion-button>
       </ion-col>
     </ion-row>
     <ion-row class="allLevelButtons">
-      <ion-col>
-        <ion-button class="levelButton" color="secondary"[routerLink]="['/games/b1']">B1</ion-button>
+      <ion-col class="selectedLevel">
+        <ion-button class="levelButton" color="dark"[routerLink]="['/games/b1']">B1</ion-button>
       </ion-col>
-      <ion-col>
-        <ion-button class="levelButton" color="secondary"[routerLink]="['/games/b2']">B2</ion-button>
+      <ion-col class="selectedLevel">
+        <ion-button class="levelButton" color="dark"[routerLink]="['/games/b2']">B2</ion-button>
       </ion-col>
     </ion-row >
     <ion-row class="allLevelButtons">
-      <ion-col>
-        <ion-button class="levelButton" color="secondary"[routerLink]="['/games/c1']">C1</ion-button>
+      <ion-col class="selectedLevel">
+        <ion-button class="levelButton" color="dark"[routerLink]="['/games/c1']">C1</ion-button>
       </ion-col>
-      <ion-col>
-        <ion-button class="levelButton" color="secondary"[routerLink]="['/games/c2']">C2</ion-button>
+      <ion-col class="selectedLevel">
+        <ion-button class="levelButton" color="dark"[routerLink]="['/games/c2']">C2</ion-button>
       </ion-col>
     </ion-row>
   </ion-grid>
  </div>
 </div>
-

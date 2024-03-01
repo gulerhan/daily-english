@@ -1,2 +1,21 @@
-<ion-router-outlet id="main-content"></ion-router-outlet>
+<ion-app >
+  <ion-content class="ion-padding" >
+    <ion-menu contentId="main-content" >
+      <app-header-menu/>
+    </ion-menu>
+    <div class="ion-page" id="main-content" >
+      <ion-header>
+        <ion-toolbar color="dark">
+          <ion-buttons slot="start">
+            <ion-menu-button ></ion-menu-button>
+          </ion-buttons>
+          <ion-title>Menu</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content class="ion-padding">
+        <ion-router-outlet ion-router-outlet id="main-content" class="routerStill"></ion-router-outlet>
+      </ion-content>
+    </div>
+  </ion-content>
+</ion-app>
 

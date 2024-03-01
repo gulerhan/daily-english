@@ -1,0 +1,2458 @@
+{
+  "words":
+  [
+    {
+     "en": "assume",
+     "tr": "farz etmek"
+    },
+    {
+     "en": "attach",
+     "tr": "eklemek"
+    },
+    {
+     "en": "autonomy",
+     "tr": "özerklik"
+    },
+    {
+     "en": "aware",
+     "tr": "farkında olmak"
+    },
+    {
+     "en": "belligerent",
+     "tr": "savaşan"
+    },
+    {
+     "en": "bias",
+     "tr": "ön yargı"
+    },
+    {
+     "en": "capacity",
+     "tr": "kapasite"
+    },
+    {
+     "en": "cattle",
+     "tr": "sığırlar"
+    },
+    {
+     "en": "challenge",
+     "tr": "meydan okumak"
+    },
+    {
+     "en": "citizen",
+     "tr": "vatandaş"
+    },
+    {
+     "en": "coincide",
+     "tr": "çakmak"
+    },
+    {
+     "en": "collapse",
+     "tr": "yıkılmak"
+    },
+    {
+     "en": "commence",
+     "tr": "başlamak"
+    },
+    {
+     "en": "commission",
+     "tr": "komisyon"
+    },
+    {
+     "en": "compile",
+     "tr": "derlemek"
+    },
+    {
+     "en": "compose",
+     "tr": "bestelemek"
+    },
+    {
+     "en": "conceive",
+     "tr": "gebe kalmak"
+    },
+    {
+     "en": "concurrent",
+     "tr": "eşzamanlı"
+    },
+    {
+     "en": "congratulate",
+     "tr": "tebrik etmek"
+    },
+    {
+     "en": "conquer",
+     "tr": "fethetmek"
+    },
+    {
+     "en": "conquest",
+     "tr": "fethetmek"
+    },
+    {
+     "en": "conscience",
+     "tr": "vicdan"
+    },
+    {
+     "en": "contiguous",
+     "tr": "bitişik"
+    },
+    {
+     "en": "controversy",
+     "tr": "tartışma"
+    },
+    {
+     "en": "convenient",
+     "tr": "uygun"
+    },
+    {
+     "en": "culpable",
+     "tr": "suçlu"
+    },
+    {
+     "en": "cultivate",
+     "tr": "yetiştirmek"
+    },
+    {
+     "en": "curtail",
+     "tr": "azaltmak"
+    },
+    {
+     "en": "declare",
+     "tr": "ilan etmek"
+    },
+    {
+     "en": "deduce",
+     "tr": "sonuç çıkarmak"
+    },
+    {
+     "en": "defendant",
+     "tr": "sanık"
+    },
+    {
+     "en": "delineate",
+     "tr": "betimlemek"
+    },
+    {
+     "en": "denote",
+     "tr": "belirtmek"
+    },
+    {
+     "en": "deteriorate",
+     "tr": "bozulmak"
+    },
+    {
+     "en": "diligent",
+     "tr": "gayretli"
+    },
+    {
+     "en": "displace",
+     "tr": "yerinden çıkarmak"
+    },
+    {
+     "en": "domain",
+     "tr": "ihtisas"
+    },
+    {
+     "en": "duplicate",
+     "tr": "kopyalamak"
+    },
+    {
+     "en": "elicit",
+     "tr": "çıkarmak"
+    },
+    {
+     "en": "emphasis",
+     "tr": "vurgu"
+    },
+    {
+     "en": "empire",
+     "tr": "imparatorluk"
+    },
+    {
+     "en": "enchant",
+     "tr": "büyülemek"
+    },
+    {
+     "en": "enclosure",
+     "tr": "muhafaza"
+    },
+    {
+     "en": "endeavour",
+     "tr": "çaba"
+    },
+    {
+     "en": "energy",
+     "tr": "enerji"
+    },
+    {
+     "en": "entity",
+     "tr": "varlık"
+    },
+    {
+     "en": "equate",
+     "tr": "kıyaslanmak"
+    },
+    {
+     "en": "erode",
+     "tr": "aşındırmak"
+    },
+    {
+     "en": "erroneous",
+     "tr": "hatalı"
+    },
+    {
+     "en": "exacerbate",
+     "tr": "şiddetlendirmek"
+    },
+    {
+     "en": "explicit",
+     "tr": "açık"
+    },
+    {
+     "en": "extol",
+     "tr": "yığın"
+    },
+    {
+     "en": "exuberant",
+     "tr": "coşkulu"
+    },
+    {
+     "en": "finite",
+     "tr": "son"
+    },
+    {
+     "en": "gender",
+     "tr": "cinsiyet"
+    },
+    {
+     "en": "grace",
+     "tr": "lütuf"
+    },
+    {
+     "en": "gregarious",
+     "tr": "sokulgan"
+    },
+    {
+     "en": "heterogeneous",
+     "tr": "heterojen"
+    },
+    {
+     "en": "homogeneous",
+     "tr": "homojen"
+    },
+    {
+     "en": "imminent",
+     "tr": "yakın"
+    },
+    {
+     "en": "incentive",
+     "tr": "teşvik"
+    },
+    {
+     "en": "induce",
+     "tr": "indüklemek"
+    },
+    {
+     "en": "indulgent",
+     "tr": "anlayışlı"
+    },
+    {
+     "en": "infer",
+     "tr": "anlam çıkarmak"
+    },
+    {
+     "en": "ingenuous",
+     "tr": "ustaca"
+    },
+    {
+     "en": "intimate",
+     "tr": "samimi"
+    },
+    {
+     "en": "intuition",
+     "tr": "sezgi"
+    },
+    {
+     "en": "levy",
+     "tr": "vergi"
+    },
+    {
+     "en": "mechanism",
+     "tr": "mekanizma"
+    },
+    {
+     "en": "neglect",
+     "tr": "ihmal etmek"
+    },
+    {
+     "en": "obey",
+     "tr": "itaat etmek"
+    },
+    {
+     "en": "opaque",
+     "tr": "opak"
+    },
+    {
+     "en": "pejorative",
+     "tr": "aşağılayıcı"
+    },
+    {
+     "en": "philanthropy",
+     "tr": "hayırseverlik"
+    },
+    {
+     "en": "philosophy",
+     "tr": "Felsefe"
+    },
+    {
+     "en": "practitioner",
+     "tr": "uygulayıcı"
+    },
+    {
+     "en": "prodigy",
+     "tr": "müthiş"
+    },
+    {
+     "en": "prohibit",
+     "tr": "yasaklamak"
+    },
+    {
+     "en": "proliferate",
+     "tr": "çoğalmak"
+    },
+    {
+     "en": "provident",
+     "tr": "ilahi"
+    },
+    {
+     "en": "prudent",
+     "tr": "ihtiyatlı"
+    },
+    {
+     "en": "reflection",
+     "tr": "refleks"
+    },
+    {
+     "en": "rival",
+     "tr": "rakip"
+    },
+    {
+     "en": "sentient",
+     "tr": "duyarlı"
+    },
+    {
+     "en": "serendipity",
+     "tr": "tesadüf"
+    },
+    {
+     "en": "speculate",
+     "tr": "spekülasyon yapmak"
+    },
+    {
+     "en": "sporadic",
+     "tr": "ara sıra olan"
+    },
+    {
+     "en": "stagnation",
+     "tr": "durgunluk"
+    },
+    {
+     "en": "succumb",
+     "tr": "yenik düşmek"
+    },
+    {
+     "en": "superfluous",
+     "tr": "gereksiz"
+    },
+    {
+     "en": "surreptitious",
+     "tr": "gizli"
+    },
+    {
+     "en": "tenacious",
+     "tr": "inatçı"
+    },
+    {
+     "en": "verisimilitude",
+     "tr": "verisimilite"
+    },
+    {
+     "en": "vestige",
+     "tr": "vasat"
+    },
+    {
+     "en": "vindicate",
+     "tr": "onaylamak"
+    },
+    {
+     "en": "Overcome",
+     "tr": "Üstesinden gelmek"
+    },
+    {
+     "en": "Workaholic",
+     "tr": "İşkolik"
+    },
+    {
+     "en": "Restricted",
+     "tr": "Sınırlı"
+    },
+    {
+     "en": "Downside",
+     "tr": "Dezavantaj"
+    },
+    {
+     "en": "Resume",
+     "tr": "Sürdürmek"
+    },
+    {
+     "en": "Tangible",
+     "tr": "Somut"
+    },
+    {
+     "en": "Alterations",
+     "tr": "Değişiklik"
+    },
+    {
+     "en": "Tweak",
+     "tr": "Çimdik"
+    },
+    {
+     "en": "Consolidation",
+     "tr": "Birleştirme"
+    },
+    {
+     "en": "Inhibition",
+     "tr": "Engelleme"
+    },
+    {
+     "en": "Imposter",
+     "tr": "Sahtekar"
+    },
+    {
+     "en": "Dupe",
+     "tr": "Çubuk"
+    },
+    {
+     "en": "Panicked",
+     "tr": "Panikli"
+    },
+    {
+     "en": "Trait",
+     "tr": "Karakter"
+    },
+    {
+     "en": "Jittery",
+     "tr": "Gergin"
+    },
+    {
+     "en": "Insightful",
+     "tr": "Anlayışlı"
+    },
+    {
+     "en": "Introspective",
+     "tr": "İçgözlemsel"
+    },
+    {
+     "en": "Sumptuous",
+     "tr": "Görkemli"
+    },
+    {
+     "en": "Introvert",
+     "tr": "İçe dönük"
+    },
+    {
+     "en": "Vocation",
+     "tr": "Meslek"
+    },
+    {
+     "en": "Deter",
+     "tr": "Caydırmak"
+    },
+    {
+     "en": "Overwhelmed",
+     "tr": "Ezilmiş"
+    },
+    {
+     "en": "Helm",
+     "tr": "Dümen"
+    },
+    {
+     "en": "Revert",
+     "tr": "Geri dönmek"
+    },
+    {
+     "en": "Incite",
+     "tr": "Tetiklemek"
+    },
+    {
+     "en": "Man-handle",
+     "tr": "Adam"
+    },
+    {
+     "en": "Backfire",
+     "tr": "Geri tepme"
+    },
+    {
+     "en": "Relocate",
+     "tr": "Yerini değiştirmek"
+    },
+    {
+     "en": "Overboard",
+     "tr": "Denize"
+    },
+    {
+     "en": "Objectionable",
+     "tr": "Sakıncalı"
+    },
+    {
+     "en": "Forego",
+     "tr": "Vazgeçmek"
+    },
+    {
+     "en": "Discard",
+     "tr": "Atmak \/ Çıkarmak"
+    },
+    {
+     "en": "Mobilize",
+     "tr": "Harekete geçirmek"
+    },
+    {
+     "en": "Religiously",
+     "tr": "Dini olarak"
+    },
+    {
+     "en": "Glaring",
+     "tr": "Göz kamaştırıcı"
+    },
+    {
+     "en": "Cranky",
+     "tr": "Huysuz"
+    },
+    {
+     "en": "Conducive",
+     "tr": "Elverişli"
+    },
+    {
+     "en": "Stringent",
+     "tr": "Sıkı"
+    },
+    {
+     "en": "Resilient",
+     "tr": "Esnek"
+    },
+    {
+     "en": "Spell-bound",
+     "tr": "Büyüyle ilgili"
+    },
+    {
+     "en": "Gripping",
+     "tr": "Sürükleyici"
+    },
+    {
+     "en": "Contemporary",
+     "tr": "Modern"
+    },
+    {
+     "en": "Accolades",
+     "tr": "Övgü"
+    },
+    {
+     "en": "Stranded",
+     "tr": "Mahsur"
+    },
+    {
+     "en": "Connotation",
+     "tr": "Çağrışım"
+    },
+    {
+     "en": "Displease",
+     "tr": "Hoşnutsuzluk"
+    },
+    {
+     "en": "Distinct",
+     "tr": "Belirgin"
+    },
+    {
+     "en": "Utter",
+     "tr": "Söylemek"
+    },
+    {
+     "en": "Mediocre",
+     "tr": "Vasat"
+    },
+    {
+     "en": "Peek",
+     "tr": "Dikizlemek"
+    },
+    {
+     "en": "abject",
+     "tr": "sefil"
+    },
+    {
+     "en": "Slam",
+     "tr": "Çarpmak"
+    },
+    {
+     "en": "Enormity",
+     "tr": "Çok büyüklük"
+    },
+    {
+     "en": "Paraphernalia",
+     "tr": "Gereç"
+    },
+    {
+     "en": "Envisage",
+     "tr": "Tasavvur"
+    },
+    {
+     "en": "Foresee",
+     "tr": "Öngörmek"
+    },
+    {
+     "en": "Contemplate",
+     "tr": "Düşünmek"
+    },
+    {
+     "en": "Hypocrite",
+     "tr": "İkiyüzlü"
+    },
+    {
+     "en": "Vain",
+     "tr": "Boşuna"
+    },
+    {
+     "en": "Deride",
+     "tr": "Dere"
+    },
+    {
+     "en": "Brag",
+     "tr": "Övünmek"
+    },
+    {
+     "en": "Envision",
+     "tr": "Öngörmek"
+    },
+    {
+     "en": "Balk",
+     "tr": "Sıyrık"
+    },
+    {
+     "en": "Lucid",
+     "tr": "Berrak"
+    },
+    {
+     "en": "Vulnerable",
+     "tr": "Hassas"
+    },
+    {
+     "en": "Nonplussed",
+     "tr": "Püskürtülmemiş"
+    },
+    {
+     "en": "Ironic",
+     "tr": "İronik"
+    },
+    {
+     "en": "Comply",
+     "tr": "Uymak"
+    },
+    {
+     "en": "Consensus",
+     "tr": "Uzlaşma"
+    },
+    {
+     "en": "Impertinent",
+     "tr": "Küstah"
+    },
+    {
+     "en": "Futile",
+     "tr": "Beyhude"
+    },
+    {
+     "en": "Pragmatic",
+     "tr": "Pragmatik"
+    },
+    {
+     "en": "Defame",
+     "tr": "Karalamak"
+    },
+    {
+     "en": "Embezzle",
+     "tr": "Zimmetine geçirmek"
+    },
+    {
+     "en": "Cumulative",
+     "tr": "Kümülatif"
+    },
+    {
+     "en": "Inappropriate",
+     "tr": "Uygunsuz"
+    },
+    {
+     "en": "Diminutive",
+     "tr": "Küçültücü"
+    },
+    {
+     "en": "Disguise",
+     "tr": "Kılık değiştirmek"
+    },
+    {
+     "en": "Benevolence",
+     "tr": "Hayırseverlik"
+    },
+    {
+     "en": "Complacent",
+     "tr": "Şikayetçi"
+    },
+    {
+     "en": "Amicable",
+     "tr": "Dostane"
+    },
+    {
+     "en": "Articulate",
+     "tr": "İfade"
+    },
+    {
+     "en": "Congenial",
+     "tr": "Uygun"
+    },
+    {
+     "en": "Pretentious",
+     "tr": "İddialı"
+    },
+    {
+     "en": "Epitome",
+     "tr": "Somut örnek"
+    },
+    {
+     "en": "Egalitarian",
+     "tr": "Eşitlikçi"
+    },
+    {
+     "en": "Revel",
+     "tr": "Cümbüş"
+    },
+    {
+     "en": "Frigid",
+     "tr": "Soğuk"
+    },
+    {
+     "en": "Defend",
+     "tr": "Savunmak"
+    },
+    {
+     "en": "Accomplished",
+     "tr": "Başarılı"
+    },
+    {
+     "en": "Colossal",
+     "tr": "Muazzam"
+    },
+    {
+     "en": "Exasperating",
+     "tr": "Bıkkın"
+    },
+    {
+     "en": "Vibrant",
+     "tr": "Canlı"
+    },
+    {
+     "en": "Sturdy",
+     "tr": "Sağlam"
+    },
+    {
+     "en": "Decrepit",
+     "tr": "Yıpranmak"
+    },
+    {
+     "en": "Intimidate",
+     "tr": "Korkutmak"
+    },
+    {
+     "en": "accomplishment",
+     "tr": "başarı"
+    },
+    {
+     "en": "appreciate",
+     "tr": "takdirle karşılamak"
+    },
+    {
+     "en": "confidence",
+     "tr": "kendinden emin"
+    },
+    {
+     "en": "consider",
+     "tr": "dikkate almak"
+    },
+    {
+     "en": "demonstrate",
+     "tr": "göstermek"
+    },
+    {
+     "en": "effective",
+     "tr": "etkili"
+    },
+    {
+     "en": "exaggerate",
+     "tr": "abartmak"
+    },
+    {
+     "en": "expect",
+     "tr": "beklemek"
+    },
+    {
+     "en": "impress",
+     "tr": "etkilemek"
+    },
+    {
+     "en": "lead to",
+     "tr": "yol açmak"
+    },
+    {
+     "en": "maintain",
+     "tr": "sürdürmek"
+    },
+    {
+     "en": "offensive",
+     "tr": "saldırgan"
+    },
+    {
+     "en": "professional",
+     "tr": "profesyonel"
+    },
+    {
+     "en": "punctual",
+     "tr": "dakik"
+    },
+    {
+     "en": "research",
+     "tr": "araştırma"
+    },
+    {
+     "en": "responsible",
+     "tr": "sorumlu"
+    },
+    {
+     "en": "select",
+     "tr": "seçme"
+    },
+    {
+     "en": "slang",
+     "tr": "argo"
+    },
+    {
+     "en": "stranger",
+     "tr": "yabancı"
+    },
+    {
+     "en": "weakness",
+     "tr": "zayıflık"
+    },
+    {
+     "en": "at risk",
+     "tr": "riskli"
+    },
+    {
+     "en": "balanced",
+     "tr": "dengeli"
+    },
+    {
+     "en": "be made up of",
+     "tr": "birşeyden yapılmak"
+    },
+    {
+     "en": "concept",
+     "tr": "kavram"
+    },
+    {
+     "en": "consume",
+     "tr": "tüketmek"
+    },
+    {
+     "en": "cuisine",
+     "tr": "yerel mutfak"
+    },
+    {
+     "en": "identify",
+     "tr": "tanımlamak"
+    },
+    {
+     "en": "influence",
+     "tr": "etkilemek"
+    },
+    {
+     "en": "likely",
+     "tr": "büyük ihtimalle"
+    },
+    {
+     "en": "method",
+     "tr": "yöntem"
+    },
+    {
+     "en": "portion",
+     "tr": "porsiyon"
+    },
+    {
+     "en": "practice",
+     "tr": "pratik"
+    },
+    {
+     "en": "principle",
+     "tr": "prensip"
+    },
+    {
+     "en": "property",
+     "tr": "mülk"
+    },
+    {
+     "en": "region",
+     "tr": "bölge"
+    },
+    {
+     "en": "recognize",
+     "tr": "tanımak"
+    },
+    {
+     "en": "sensitive",
+     "tr": "hassas"
+    },
+    {
+     "en": "system",
+     "tr": "sistem"
+    },
+    {
+     "en": "typically",
+     "tr": "tipik"
+    },
+    {
+     "en": "benefit",
+     "tr": "fayda"
+    },
+    {
+     "en": "confession",
+     "tr": "itiraf"
+    },
+    {
+     "en": "data",
+     "tr": "veri"
+    },
+    {
+     "en": "discover",
+     "tr": "keşfetmek"
+    },
+    {
+     "en": "eventually",
+     "tr": "sonunda"
+    },
+    {
+     "en": "experiment",
+     "tr": "deney"
+    },
+    {
+     "en": "lifestyle",
+     "tr": "yaşam tarzı"
+    },
+    {
+     "en": "limitation",
+     "tr": "sınırlama"
+    },
+    {
+     "en": "manufacturer",
+     "tr": "üretici firma"
+    },
+    {
+     "en": "obey",
+     "tr": "itaat etmek"
+    },
+    {
+     "en": "obstacle",
+     "tr": "engel"
+    },
+    {
+     "en": "occasion",
+     "tr": "durum"
+    },
+    {
+     "en": "occur",
+     "tr": "meydana gelmek"
+    },
+    {
+     "en": "rare",
+     "tr": "nadir"
+    },
+    {
+     "en": "regret",
+     "tr": "pişmanlık"
+    },
+    {
+     "en": "respond",
+     "tr": "yanıtlamak"
+    },
+    {
+     "en": "sense",
+     "tr": "algı"
+    },
+    {
+     "en": "survive",
+     "tr": "hayatta kalmak"
+    },
+    {
+     "en": "annoying",
+     "tr": "sinir bozucu"
+    },
+    {
+     "en": "annual",
+     "tr": "yıllık"
+    },
+    {
+     "en": "anticipation",
+     "tr": "Beklenti"
+    },
+    {
+     "en": "appealing",
+     "tr": "çekici"
+    },
+    {
+     "en": "appear",
+     "tr": "belli olmak"
+    },
+    {
+     "en": "broadcasting",
+     "tr": "yayıncılık"
+    },
+    {
+     "en": "donation",
+     "tr": "bağış"
+    },
+    {
+     "en": "entertain",
+     "tr": "eğlendirmek"
+    },
+    {
+     "en": "exposure",
+     "tr": "maruziyet"
+    },
+    {
+     "en": "claim",
+     "tr": "iddia"
+    },
+    {
+     "en": "come close to",
+     "tr": "Yaklaşmak"
+    },
+    {
+     "en": "critic",
+     "tr": "eleştirmen"
+    },
+    {
+     "en": "deceptive",
+     "tr": "aldatıcı"
+    },
+    {
+     "en": "figure out",
+     "tr": "çözmek"
+    },
+    {
+     "en": "hire",
+     "tr": "kiralamak"
+    },
+    {
+     "en": "particularly",
+     "tr": "özellikle"
+    },
+    {
+     "en": "memorable",
+     "tr": "unutulmaz"
+    },
+    {
+     "en": "support",
+     "tr": "Destek"
+    },
+    {
+     "en": "surrounding",
+     "tr": "çevreleyen"
+    },
+    {
+     "en": "Magnanimous",
+     "tr": "Bağışlayıcı"
+    },
+    {
+     "en": "Exhilarating",
+     "tr": "Canlandırıcı"
+    },
+    {
+     "en": "Vicissitude",
+     "tr": "Zeka"
+    },
+    {
+     "en": "Enigmatic",
+     "tr": "Esrarengiz"
+    },
+    {
+     "en": "Altruistic",
+     "tr": "Fedakar"
+    },
+    {
+     "en": "Inscrutable",
+     "tr": "Anlaşılmaz"
+    },
+    {
+     "en": "Melancholy",
+     "tr": "Melankoli"
+    },
+    {
+     "en": "Nebulous",
+     "tr": "Belirsiz"
+    },
+    {
+     "en": "Ostentatious",
+     "tr": "Gösterişli"
+    },
+    {
+     "en": "Plenitude",
+     "tr": "Bolluk"
+    },
+    {
+     "en": "Reticent",
+     "tr": "Suskun"
+    },
+    {
+     "en": "Supercilious",
+     "tr": "Üstün"
+    },
+    {
+     "en": "Surreptitious",
+     "tr": "Gizli"
+    },
+    {
+     "en": "Veracity",
+     "tr": "Doğruluk"
+    },
+    {
+     "en": "Audacious",
+     "tr": "Cüretkâr"
+    },
+    {
+     "en": "Ephemeral",
+     "tr": "Geçici"
+    },
+    {
+     "en": "Grandiose",
+     "tr": "Görkemli"
+    },
+    {
+     "en": "Imperious",
+     "tr": "Zorunlu"
+    },
+    {
+     "en": "Immaculate",
+     "tr": "Tertemiz"
+    },
+    {
+     "en": "Ineffable",
+     "tr": "Etkisiz"
+    },
+    {
+     "en": "Indomitable",
+     "tr": "Yılmaz"
+    },
+    {
+     "en": "Inimitable",
+     "tr": "Eşsiz"
+    },
+    {
+     "en": "Insatiable",
+     "tr": "Doyumsuz"
+    },
+    {
+     "en": "Labyrinthine",
+     "tr": "Labirent"
+    },
+    {
+     "en": "Mellifluous",
+     "tr": "Mürkahip"
+    },
+    {
+     "en": "Mercurial",
+     "tr": "Cıva"
+    },
+    {
+     "en": "Myriad",
+     "tr": "Sayısız"
+    },
+    {
+     "en": "Omnipotent",
+     "tr": "Her şeye kadir"
+    },
+    {
+     "en": "Penultimate",
+     "tr": "Sondan bir önceki"
+    },
+    {
+     "en": "Pernicious",
+     "tr": "Zararlı"
+    },
+    {
+     "en": "Perspicacious",
+     "tr": "Göze çarpan"
+    },
+    {
+     "en": "Propensity",
+     "tr": "Eğilim"
+    },
+    {
+     "en": "Quagmire",
+     "tr": "Bataklık"
+    },
+    {
+     "en": "Sagacious",
+     "tr": "Sarkık"
+    },
+    {
+     "en": "Serendipity",
+     "tr": "Tesadüf"
+    },
+    {
+     "en": "Sublime",
+     "tr": "Yüce"
+    },
+    {
+     "en": "Superfluous",
+     "tr": "Gereksiz"
+    },
+    {
+     "en": "Ubiquitous",
+     "tr": "Her yerde bulunan"
+    },
+    {
+     "en": "Unassailable",
+     "tr": "Zorunlu"
+    },
+    {
+     "en": "Vicarious",
+     "tr": "Vicdanlı"
+    },
+    {
+     "en": "Venerable",
+     "tr": "Saygıdeğer"
+    },
+    {
+     "en": "Acumen",
+     "tr": "Zekâ"
+    },
+    {
+     "en": "Apex",
+     "tr": "Tepe"
+    },
+    {
+     "en": "Aspiration",
+     "tr": "İstek"
+    },
+    {
+     "en": "Catalyst",
+     "tr": "Katalizör"
+    },
+    {
+     "en": "Charisma",
+     "tr": "Karizma"
+    },
+    {
+     "en": "Compendium",
+     "tr": "Özet"
+    },
+    {
+     "en": "Dexterity",
+     "tr": "El becerisi"
+    },
+    {
+     "en": "Eccentricity",
+     "tr": "Eksantriklik"
+    },
+    {
+     "en": "Epiphany",
+     "tr": "Aydınlanma"
+    },
+    {
+     "en": "Facade",
+     "tr": "Cephe"
+    },
+    {
+     "en": "Galvanize",
+     "tr": "Galvanizlemek"
+    },
+    {
+     "en": "Harbinger",
+     "tr": "Habercilik"
+    },
+    {
+     "en": "Impetus",
+     "tr": "İvme"
+    },
+    {
+     "en": "Intuition",
+     "tr": "Sezgi"
+    },
+    {
+     "en": "Juxtapose",
+     "tr": "Yan yana koymak"
+    },
+    {
+     "en": "Kinetic",
+     "tr": "Kinetik"
+    },
+    {
+     "en": "Lucid",
+     "tr": "Berrak"
+    },
+    {
+     "en": "Nostalgia",
+     "tr": "Nostalji"
+    },
+    {
+     "en": "Overture",
+     "tr": "Uvertür"
+    },
+    {
+     "en": "Paradox",
+     "tr": "Paradoks"
+    },
+    {
+     "en": "Quandary",
+     "tr": "Çirkin"
+    },
+    {
+     "en": "Solace",
+     "tr": "Teselli"
+    },
+    {
+     "en": "Tenacity",
+     "tr": "Azim"
+    },
+    {
+     "en": "Utopia",
+     "tr": "Ütopya"
+    },
+    {
+     "en": "Vanguard",
+     "tr": "Öncü"
+    },
+    {
+     "en": "Whimsical",
+     "tr": "Kaprisli"
+    },
+    {
+     "en": "Ambiguous",
+     "tr": "Belirsiz"
+    },
+    {
+     "en": "Axiom",
+     "tr": "Aksiyom"
+    },
+    {
+     "en": "Catalyst",
+     "tr": "Katalizör"
+    },
+    {
+     "en": "Convoluted",
+     "tr": "Kıvrımlı"
+    },
+    {
+     "en": "Dilemma",
+     "tr": "İkilem"
+    },
+    {
+     "en": "Eccentric",
+     "tr": "Eksantrik"
+    },
+    {
+     "en": "Exemplify",
+     "tr": "Örnek almak"
+    },
+    {
+     "en": "Facetious",
+     "tr": "Yüzlü"
+    },
+    {
+     "en": "Glorious",
+     "tr": "Görkemli"
+    },
+    {
+     "en": "Hierarchy",
+     "tr": "Hiyerarşi"
+    },
+    {
+     "en": "Implicate",
+     "tr": "İma etmek"
+    },
+    {
+     "en": "Judicious",
+     "tr": "Akıllı"
+    },
+    {
+     "en": "Kinetic",
+     "tr": "Kinetik"
+    },
+    {
+     "en": "Luminous",
+     "tr": "Aydınlık"
+    },
+    {
+     "en": "Metamorphosis",
+     "tr": "Metamorfoz"
+    },
+    {
+     "en": "Nonchalant",
+     "tr": "Şalteri olmayan"
+    },
+    {
+     "en": "Ostensible",
+     "tr": "Göstermelik"
+    },
+    {
+     "en": "Paramount",
+     "tr": "En önemli şey"
+    },
+    {
+     "en": "Quandary",
+     "tr": "Çirkin"
+    },
+    {
+     "en": "Redolent",
+     "tr": "Kızarmış"
+    },
+    {
+     "en": "Serene",
+     "tr": "Sakin"
+    },
+    {
+     "en": "Trepidation",
+     "tr": "Dehşet"
+    },
+    {
+     "en": "Ubiquity",
+     "tr": "Her yerde bulunma"
+    },
+    {
+     "en": "Vindicate",
+     "tr": "Onaylamak"
+    },
+    {
+     "en": "Whimsical",
+     "tr": "Kaprisli"
+    },
+    {
+     "en": "Aesthetic",
+     "tr": "Estetik"
+    },
+    {
+     "en": "Bellicose",
+     "tr": "Küstah"
+    },
+    {
+     "en": "Disparate",
+     "tr": "Farklı"
+    },
+    {
+     "en": "Flagrant",
+     "tr": "Çirkin"
+    },
+    {
+     "en": "Hapless",
+     "tr": "Şanssız"
+    },
+    {
+     "en": "Implore",
+     "tr": "Katılmak"
+    },
+    {
+     "en": "Juxtaposition",
+     "tr": "Yan yana yerleştirme"
+    },
+    {
+     "en": "Kindle",
+     "tr": "Tutuşmak"
+    },
+    {
+     "en": "Languid",
+     "tr": "Titiz"
+    },
+    {
+     "en": "Mellifluous",
+     "tr": "Mürkahip"
+    },
+    {
+     "en": "Nefarious",
+     "tr": "Hain"
+    },
+    {
+     "en": "Opulent",
+     "tr": "Zengin"
+    },
+    {
+     "en": "Paradoxical",
+     "tr": "Paradoksal"
+    },
+    {
+     "en": "Reverberate",
+     "tr": "Yansımak"
+    },
+    {
+     "en": "Scrupulous",
+     "tr": "Titiz"
+    },
+    {
+     "en": "Tenuous",
+     "tr": "İnatçı"
+    },
+    {
+     "en": "Unprecedented",
+     "tr": "Benzeri görülmemiş"
+    },
+    {
+     "en": "Vanguard",
+     "tr": "Öncü"
+    },
+    {
+     "en": "Zephyr",
+     "tr": "Zefir"
+    },
+    {
+     "en": "Allegiance",
+     "tr": "Bağlılık"
+    },
+    {
+     "en": "Benevolent",
+     "tr": "Yardımsever"
+    },
+    {
+     "en": "Capitulate",
+     "tr": "Teslim olmak"
+    },
+    {
+     "en": "Derivative",
+     "tr": "Türev"
+    },
+    {
+     "en": "Emulate",
+     "tr": "Benzemeye çalışmak"
+    },
+    {
+     "en": "Furtive",
+     "tr": "Kaçamak"
+    },
+    {
+     "en": "Guileless",
+     "tr": "Suçsuz"
+    },
+    {
+     "en": "Homage",
+     "tr": "Hile"
+    },
+    {
+     "en": "Impervious",
+     "tr": "Geçimsiz"
+    },
+    {
+     "en": "Jaunty",
+     "tr": "Şakacı"
+    },
+    {
+     "en": "Lament",
+     "tr": "Ağıt"
+    },
+    {
+     "en": "Malaise",
+     "tr": "Halsizlik"
+    },
+    {
+     "en": "Ominous",
+     "tr": "Uğursuz"
+    },
+    {
+     "en": "Quiescent",
+     "tr": "Hareketsiz"
+    },
+    {
+     "en": "Revere",
+     "tr": "Saygısızlık etmek"
+    },
+    {
+     "en": "Scrutinize",
+     "tr": "İncelemek"
+    },
+    {
+     "en": "Trepidation",
+     "tr": "Dehşet"
+    },
+    {
+     "en": "Unfettered",
+     "tr": "Sınırsız"
+    },
+    {
+     "en": "Vindicate",
+     "tr": "Onaylamak"
+    },
+    {
+     "en": "Wary",
+     "tr": "Müstehcen"
+    },
+    {
+     "en": "Zealous",
+     "tr": "Hevesli"
+    },
+    {
+     "en": "Allure",
+     "tr": "Cazibe"
+    },
+    {
+     "en": "Bucolic",
+     "tr": "Kırsal"
+    },
+    {
+     "en": "Candor",
+     "tr": "Samimiyet"
+    },
+    {
+     "en": "Deft",
+     "tr": "Beceriksiz"
+    },
+    {
+     "en": "Eclectic",
+     "tr": "Eklektik"
+    },
+    {
+     "en": "Fervent",
+     "tr": "Ateşli"
+    },
+    {
+     "en": "Hallowed",
+     "tr": "Kutsal"
+    },
+    {
+     "en": "Imbue",
+     "tr": "Emmek"
+    },
+    {
+     "en": "Jovial",
+     "tr": "Neşeli"
+    },
+    {
+     "en": "Knack",
+     "tr": "Zımpara"
+    },
+    {
+     "en": "Lithe",
+     "tr": "Kıvrak"
+    },
+    {
+     "en": "Meticulous",
+     "tr": "Titiz"
+    },
+    {
+     "en": "Nuance",
+     "tr": "Nüans"
+    },
+    {
+     "en": "Odious",
+     "tr": "İğrenç"
+    },
+    {
+     "en": "Palpable",
+     "tr": "Elle tutulur"
+    },
+    {
+     "en": "Rapture",
+     "tr": "Mukavemet"
+    },
+    {
+     "en": "Staunch",
+     "tr": "Sadık"
+    },
+    {
+     "en": "Tactile",
+     "tr": "Dokunaklı"
+    },
+    {
+     "en": "Vacillate",
+     "tr": "Boşaltmak"
+    },
+    {
+     "en": "Wan",
+     "tr": "bitik"
+    },
+    {
+     "en": "Yearn",
+     "tr": "Burnunda tütmek"
+    },
+    {
+     "en": "Zestful",
+     "tr": "Lezzetli"
+    },
+    {
+     "en": "Ambivalence",
+     "tr": "Kararsızlık"
+    },
+    {
+     "en": "Belligerent",
+     "tr": "Savaşan"
+    },
+    {
+     "en": "Capricious",
+     "tr": "Kaprisli"
+    },
+    {
+     "en": "Discernment",
+     "tr": "Ayırt etme"
+    },
+    {
+     "en": "Enthrall",
+     "tr": "Büyüleyici"
+    },
+    {
+     "en": "Fastidious",
+     "tr": "Zor gelişen"
+    },
+    {
+     "en": "Garrulous",
+     "tr": "Garip"
+    },
+    {
+     "en": "Hapless",
+     "tr": "Şanssız"
+    },
+    {
+     "en": "Iconoclast",
+     "tr": "İkonoklast"
+    },
+    {
+     "en": "Jettison",
+     "tr": "Şanzıman"
+    },
+    {
+     "en": "Languish",
+     "tr": "Çürümek"
+    },
+    {
+     "en": "Mitigate",
+     "tr": "Azaltmak"
+    },
+    {
+     "en": "Nadir",
+     "tr": "Nadir"
+    },
+    {
+     "en": "Obstinate",
+     "tr": "İnatçı"
+    },
+    {
+     "en": "Palatial",
+     "tr": "Sarmal"
+    },
+    {
+     "en": "Quandary",
+     "tr": "Çirkin"
+    },
+    {
+     "en": "Rancor",
+     "tr": "Kibir"
+    },
+    {
+     "en": "Sardonic",
+     "tr": "Alaycı"
+    },
+    {
+     "en": "Taciturn",
+     "tr": "Suskun"
+    },
+    {
+     "en": "Ubiquity",
+     "tr": "Her yerde bulunma"
+    },
+    {
+     "en": "Whet",
+     "tr": "Uyandırmak"
+    },
+    {
+     "en": "Xenophobia",
+     "tr": "Yabancı düşmanlığı"
+    },
+    {
+     "en": "Yearning",
+     "tr": "Hasret"
+    },
+    {
+     "en": "Zephyr",
+     "tr": "Zefir"
+    },
+    {
+     "en": "Elaborate",
+     "tr": "Detaylandırmak"
+    },
+    {
+     "en": "Proficient",
+     "tr": "Yetkin"
+    },
+    {
+     "en": "Sophisticated",
+     "tr": "Komplike"
+    },
+    {
+     "en": "Exemplary",
+     "tr": "Örnek"
+    },
+    {
+     "en": "Magnificent",
+     "tr": "Muhteşem"
+    },
+    {
+     "en": "Ingenious",
+     "tr": "Ustaca"
+    },
+    {
+     "en": "Pinnacle",
+     "tr": "Zirve"
+    },
+    {
+     "en": "Profound",
+     "tr": "Engin"
+    },
+    {
+     "en": "Astute",
+     "tr": "Zekice"
+    },
+    {
+     "en": "Exquisite",
+     "tr": "Zarif"
+    },
+    {
+     "en": "Resilient",
+     "tr": "Esnek"
+    },
+    {
+     "en": "Erudite",
+     "tr": "Bilgili"
+    },
+    {
+     "en": "Serendipity",
+     "tr": "Tesadüf"
+    },
+    {
+     "en": "Eloquent",
+     "tr": "Güzel"
+    },
+    {
+     "en": "Transcendent",
+     "tr": "Aşkın"
+    },
+    {
+     "en": "Ingenious",
+     "tr": "Ustaca"
+    },
+    {
+     "en": "Nuanced",
+     "tr": "Detaylı"
+    },
+    {
+     "en": "Perspicacious",
+     "tr": "Göze çarpan"
+    },
+    {
+     "en": "Sagacious",
+     "tr": "Sarkık"
+    },
+    {
+     "en": "Infallible",
+     "tr": "Yanılmaz"
+    },
+    {
+     "en": "Discerning",
+     "tr": "Ayırt edici"
+    },
+    {
+     "en": "Intrepid",
+     "tr": "Cesur"
+    },
+    {
+     "en": "Reverence",
+     "tr": "Saygısızlık"
+    },
+    {
+     "en": "Sublime",
+     "tr": "Yüce"
+    },
+    {
+     "en": "Consummate",
+     "tr": "Tamamlamak"
+    },
+    {
+     "en": "Quintessential",
+     "tr": "Özlü"
+    },
+    {
+     "en": "Veracity",
+     "tr": "Doğruluk"
+    },
+    {
+     "en": "Venerable",
+     "tr": "Saygıdeğer"
+    },
+    {
+     "en": "Ephemeral",
+     "tr": "Geçici"
+    },
+    {
+     "en": "Inscrutable",
+     "tr": "Anlaşılmaz"
+    },
+    {
+     "en": "Extemporaneous",
+     "tr": "Eşzamanlı"
+    },
+    {
+     "en": "Myriad",
+     "tr": "Sayısız"
+    },
+    {
+     "en": "Inexorable",
+     "tr": "Acımasız"
+    },
+    {
+     "en": "Ebullient",
+     "tr": "Saçma"
+    },
+    {
+     "en": "Grandiose",
+     "tr": "Görkemli"
+    },
+    {
+     "en": "Exhilarating",
+     "tr": "Canlandırıcı"
+    },
+    {
+     "en": "Quixotic",
+     "tr": "Kekik"
+    },
+    {
+     "en": "Unassailable",
+     "tr": "Zorunlu"
+    },
+    {
+     "en": "Omnipotent",
+     "tr": "Her şeye kadir"
+    },
+    {
+     "en": "Incisive",
+     "tr": "Keskin"
+    },
+    {
+     "en": "Inimitable",
+     "tr": "Eşsiz"
+    },
+    {
+     "en": "Penultimate",
+     "tr": "Sondan bir önceki"
+    },
+    {
+     "en": "Superfluous",
+     "tr": "Gereksiz"
+    },
+    {
+     "en": "Impeccable",
+     "tr": "Kusursuz"
+    },
+    {
+     "en": "Mercurial",
+     "tr": "Cıva"
+    },
+    {
+     "en": "Incognito",
+     "tr": "Gizli"
+    },
+    {
+     "en": "Alacrity",
+     "tr": "Alacrite"
+    },
+    {
+     "en": "Vehement",
+     "tr": "Şiddetli"
+    },
+    {
+     "en": "Exonerate",
+     "tr": "Temize çıkarmak"
+    },
+    {
+     "en": "Labyrinthine",
+     "tr": "Labirent"
+    },
+    {
+     "en": "Altruistic",
+     "tr": "Fedakar"
+    },
+    {
+     "en": "Proclivity",
+     "tr": "Eğilim"
+    },
+    {
+     "en": "Perspicacity",
+     "tr": "Özlem"
+    },
+    {
+     "en": "Audacious",
+     "tr": "Cüretkâr"
+    },
+    {
+     "en": "Exuberant",
+     "tr": "Coşkulu"
+    },
+    {
+     "en": "Plenitude",
+     "tr": "Bolluk"
+    },
+    {
+     "en": "Quagmire",
+     "tr": "Bataklık"
+    },
+    {
+     "en": "Sagacious",
+     "tr": "Sarkık"
+    },
+    {
+     "en": "Immaculate",
+     "tr": "Tertemiz"
+    },
+    {
+     "en": "Pernicious",
+     "tr": "Zararlı"
+    },
+    {
+     "en": "Ephemeral",
+     "tr": "Geçici"
+    },
+    {
+     "en": "Serendipity",
+     "tr": "Tesadüf"
+    },
+    {
+     "en": "Vicissitude",
+     "tr": "Zeka"
+    },
+    {
+     "en": "Surreptitious",
+     "tr": "Gizli"
+    },
+    {
+     "en": "Insatiable",
+     "tr": "Doyumsuz"
+    },
+    {
+     "en": "Mellifluous",
+     "tr": "Mürkahip"
+    },
+    {
+     "en": "Inexorable",
+     "tr": "Acımasız"
+    },
+    {
+     "en": "Ostentatious",
+     "tr": "Gösterişli"
+    },
+    {
+     "en": "Perfidious",
+     "tr": "Kibar"
+    },
+    {
+     "en": "Inscrutable",
+     "tr": "Anlaşılmaz"
+    },
+    {
+     "en": "Propensity",
+     "tr": "Eğilim"
+    },
+    {
+     "en": "Supercilious",
+     "tr": "Üstün"
+    },
+    {
+     "en": "Venerable",
+     "tr": "Saygıdeğer"
+    },
+    {
+     "en": "Esoteric",
+     "tr": "Ezoterik"
+    },
+    {
+     "en": "Inscrutable",
+     "tr": "Anlaşılmaz"
+    },
+    {
+     "en": "Perspicacious",
+     "tr": "Göze çarpan"
+    },
+    {
+     "en": "Auspicious",
+     "tr": "Hayırlı"
+    },
+    {
+     "en": "Beleaguer",
+     "tr": "Kuşatan kimse"
+    },
+    {
+     "en": "Chicanery",
+     "tr": "Şık"
+    },
+    {
+     "en": "Diaphanous",
+     "tr": "Diyafat"
+    },
+    {
+     "en": "Effulgent",
+     "tr": "Verimli"
+    },
+    {
+     "en": "Garrulity",
+     "tr": "Martı"
+    },
+    {
+     "en": "Halcyon",
+     "tr": "Halyon"
+    },
+    {
+     "en": "Inculcate",
+     "tr": "Aşılamak"
+    },
+    {
+     "en": "Knell",
+     "tr": "Çırpmak"
+    },
+    {
+     "en": "Mellifluent",
+     "tr": "Mellifluent"
+    },
+    {
+     "en": "Nonpareil",
+     "tr": "Olmayan"
+    },
+    {
+     "en": "Obstreperous",
+     "tr": "Gözlemsiz"
+    },
+    {
+     "en": "Pernicious",
+     "tr": "Zararlı"
+    },
+    {
+     "en": "Quixotism",
+     "tr": "Kekiklik"
+    },
+    {
+     "en": "Redoubtable",
+     "tr": "Tekrarlanabilir"
+    },
+    {
+     "en": "Sanguine",
+     "tr": "Sanguin"
+    },
+    {
+     "en": "Trenchant",
+     "tr": "Keskin"
+    },
+    {
+     "en": "Vicissitudes",
+     "tr": "Zaferler"
+    },
+    {
+     "en": "Abrogate",
+     "tr": "İptal etmek"
+    },
+    {
+     "en": "Bombastic",
+     "tr": "Bombardıman"
+    },
+    {
+     "en": "Circumlocution",
+     "tr": "Sünnet"
+    },
+    {
+     "en": "Discombobulate",
+     "tr": "Kapatmak"
+    },
+    {
+     "en": "Enervate",
+     "tr": "Korumak"
+    },
+    {
+     "en": "Facetious",
+     "tr": "Yüzlü"
+    },
+    {
+     "en": "Grandiloquent",
+     "tr": "Büyük"
+    },
+    {
+     "en": "Hyperbolic",
+     "tr": "Hiperbolik"
+    },
+    {
+     "en": "Kismet",
+     "tr": "Kısmet"
+    },
+    {
+     "en": "Lugubrious",
+     "tr": "Zahmetli"
+    },
+    {
+     "en": "Malfeasance",
+     "tr": "Kötüye kullanma"
+    },
+    {
+     "en": "Nefarious",
+     "tr": "Hain"
+    },
+    {
+     "en": "Obsequious",
+     "tr": "Yaltakçı"
+    },
+    {
+     "en": "Quotidian",
+     "tr": "Quotidian"
+    },
+    {
+     "en": "Surreptitious",
+     "tr": "Gizli"
+    },
+    {
+     "en": "Trepidation",
+     "tr": "Dehşet"
+    },
+    {
+     "en": "Vehement",
+     "tr": "Şiddetli"
+    },
+    {
+     "en": "Whimsical",
+     "tr": "Kaprisli"
+    },
+    {
+     "en": "Xenophobia",
+     "tr": "Yabancı düşmanlığı"
+    },
+    {
+     "en": "Yielding",
+     "tr": "Verimli"
+    },
+    {
+     "en": "Zeitgeist",
+     "tr": "Zeitgeist"
+    },
+    {
+     "en": "Acerbic",
+     "tr": "Acerbik"
+    },
+    {
+     "en": "Callow",
+     "tr": "Arayan"
+    },
+    {
+     "en": "Denigrate",
+     "tr": "Karalamak"
+    },
+    {
+     "en": "Grandiose",
+     "tr": "Görkemli"
+    },
+    {
+     "en": "Hubris",
+     "tr": "Kibir"
+    },
+    {
+     "en": "Kleptomaniac",
+     "tr": "Kleptomanyak"
+    },
+    {
+     "en": "Noxious",
+     "tr": "Zararlı"
+    },
+    {
+     "en": "Obtuse",
+     "tr": "Geniş"
+    },
+    {
+     "en": "Pedantic",
+     "tr": "Bilgiç"
+    },
+    {
+     "en": "Quiescent",
+     "tr": "Hareketsiz"
+    },
+    {
+     "en": "Rancorous",
+     "tr": "Zalim"
+    },
+    {
+     "en": "Taciturn",
+     "tr": "Suskun"
+    },
+    {
+     "en": "Ubiquity",
+     "tr": "Her yerde bulunma"
+    },
+    {
+     "en": "Visceral",
+     "tr": "İçkili"
+    },
+    {
+     "en": "Whet",
+     "tr": "Uyandırmak"
+    },
+    {
+     "en": "Yonder",
+     "tr": "Yonder"
+    },
+    {
+     "en": "Zephyr",
+     "tr": "Zefir"
+    },
+    {
+     "en": "Aberration",
+     "tr": "Sapma"
+    },
+    {
+     "en": "Didactic",
+     "tr": "Didaktik"
+    },
+    {
+     "en": "Enigmatic",
+     "tr": "Esrarengiz"
+    },
+    {
+     "en": "Fallacious",
+     "tr": "Yanıltıcı"
+    },
+    {
+     "en": "Grandeur",
+     "tr": "İhtişam"
+    },
+    {
+     "en": "Harbinger",
+     "tr": "Habercilik"
+    },
+    {
+     "en": "Insidious",
+     "tr": "Sinsi"
+    },
+    {
+     "en": "Luminous",
+     "tr": "Aydınlık"
+    },
+    {
+     "en": "Obfuscate",
+     "tr": "Şaşırtmak"
+    },
+    {
+     "en": "Transient",
+     "tr": "Geçici"
+    },
+    {
+     "en": "Wistful",
+     "tr": "Hüzünlü"
+    },
+    {
+     "en": "Dearth",
+     "tr": "Can atma"
+    },
+    {
+     "en": "Effervescence",
+     "tr": "Eferves"
+    },
+    {
+     "en": "Facet",
+     "tr": "Fason"
+    },
+    {
+     "en": "Lugubrious",
+     "tr": "Zahmetli"
+    },
+    {
+     "en": "Mellifluous",
+     "tr": "Mürkahip"
+    },
+    {
+     "en": "Pernicious",
+     "tr": "Zararlı"
+    },
+    {
+     "en": "Serendipity",
+     "tr": "Tesadüf"
+    },
+    {
+     "en": "Trepidation",
+     "tr": "Dehşet"
+    },
+    {
+     "en": "Vehement",
+     "tr": "Şiddetli"
+    },
+    {
+     "en": "Whimsical",
+     "tr": "Kaprisli"
+    },
+    {
+     "en": "Xenophobia",
+     "tr": "Yabancı düşmanlığı"
+    },
+    {
+     "en": "Acrimony",
+     "tr": "Acımasızlık"
+    },
+    {
+     "en": "Benevolent",
+     "tr": "Yardımsever"
+    },
+    {
+     "en": "Epitome",
+     "tr": "Somut örnek"
+    },
+    {
+     "en": "Fathom",
+     "tr": "Kavrama"
+    },
+    {
+     "en": "Grandiloquence",
+     "tr": "Büyük şey"
+    },
+    {
+     "en": "Hedonism",
+     "tr": "hazcılık"
+    },
+    {
+     "en": "Languor",
+     "tr": "Aralık"
+    },
+    {
+     "en": "Salient",
+     "tr": "Göze çarpan"
+    },
+    {
+     "en": "Altruism",
+     "tr": "Fedakarlık"
+    },
+    {
+     "en": "Bucolic",
+     "tr": "Kırsal"
+    },
+    {
+     "en": "Dissonance",
+     "tr": "Uyumsuzluk"
+    },
+    {
+     "en": "Ambivalence",
+     "tr": "Kararsızlık"
+    },
+    {
+     "en": "Conundrum",
+     "tr": "Muamma"
+    },
+    {
+     "en": "Felicity",
+     "tr": "Sadakat"
+    }
+   ]
+
+}

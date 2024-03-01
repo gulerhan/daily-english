@@ -1,38 +1,41 @@
-<ion-app>
-  <ion-content>
-      <ion-grid>
-          <ion-row>
+  <ion-content color="dark">
+      <ion-grid class="gamesGrid">
               <ion-col>
-                <ion-card [routerLink]="'/games/' + level + '/guess'">
-                  <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
-                  <ion-card-header>
-                    <ion-card-title>Resim Bilme Oyunu</ion-card-title>
-                    <ion-card-subtitle>Daily English</ion-card-subtitle>
-                  </ion-card-header>
-
-                  <ion-card-content>
-                    Bir resim verilir ve resmin karşılığının ingilizce olarak yazılması istenir.
-                  </ion-card-content>
-                </ion-card>
+                <div class="cardBox gradientBorder">
+                  <ion-card [routerLink]="'/games/' + level + '/guess'" color="dark" >
+                    <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" class="gamesImg"/>
+                    <ion-card-header class="gamesTitle">
+                      <ion-card-title>Resim Bilme Oyunu</ion-card-title>
+                      <ion-card-subtitle>Daily English</ion-card-subtitle>
+                    </ion-card-header>
+                    <ion-card-content class="gamesContent">
+                      Bir resim verilir ve resmin karşılığının ingilizce olarak yazılması istenir.
+                    </ion-card-content>
+                  </ion-card>
+                </div>
               </ion-col>
               <ion-col>
-                <ion-card [routerLink]="'/games/' + level + '/wordMatch'">
-                  <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
-                  <ion-card-header>
-                    <ion-card-title>Kelime Eşleştirme Oyunu</ion-card-title>
-                    <ion-card-subtitle>Daily English</ion-card-subtitle>
-                  </ion-card-header>
+                <div class="cardBox gradientBorder">
+                  <ion-card [routerLink]="'/games/' + level + '/wordMatch'" color="dark">
+                    <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
+                    <ion-card-header>
+                      <ion-card-title>Kelime Eşleştirme Oyunu</ion-card-title>
+                      <ion-card-subtitle>Daily English</ion-card-subtitle>
+                    </ion-card-header>
 
-                  <ion-card-content>
-                    Yukarıda kısımda çıkan kelimenin doğru olanı alttaki kelimelerden seçilir ve kontrol ettirilir.
-                  </ion-card-content>
-                </ion-card>
+                    <ion-card-content>
+                      Yukarıda kısımda çıkan kelimenin doğru olanı alttaki kelimelerden seçilir ve kontrol ettirilir.
+                    </ion-card-content>
+                  </ion-card>
+
+                </div>
               </ion-col>
               <ion-col>
-                <ion-card [routerLink]="'/games/' + level + '/hearMatch'">
+               <div class="cardBox gradientBorder">
+                <ion-card [routerLink]="'/games/' + level + '/hearMatch'" color="dark">
                   <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
                   <ion-card-header>
-                    <ion-card-title>Duyduğunu Eşleştirme</ion-card-title>
+                    <ion-card-title>Duyduğunu Eşleştirme Oyunu</ion-card-title>
                     <ion-card-subtitle>Daily English</ion-card-subtitle>
                   </ion-card-header>
 
@@ -40,12 +43,13 @@
                     Bir metin seslendirilir. Altında da seslendirilen metinin kelimeleri bulunur. Bu kelimelerin doğru sırayla sıralanması istenir.
                   </ion-card-content>
                 </ion-card>
+               </div>
               </ion-col>
 
-          </ion-row>
-          <ion-row>
+
             <ion-col>
-              <ion-card [routerLink]="'/games/' + level + '/sentenceTrans'">
+            <div class="cardBox gradientBorder">
+              <ion-card [routerLink]="'/games/' + level + '/sentenceTrans'" color="dark">
                 <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
                 <ion-card-header>
                   <ion-card-title>Cümle Çevirme Oyunu</ion-card-title>
@@ -57,9 +61,11 @@
                 </ion-card-content>
               </ion-card>
 
+            </div>
             </ion-col>
             <ion-col>
-              <ion-card [routerLink]="'/games/' + level + '/gapFill'">
+             <div class="cardBox gradientBorder">
+              <ion-card [routerLink]="'/games/' + level + '/gapFill'" color="dark">
                 <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
                 <ion-card-header>
                   <ion-card-title>Boşluk Doldurma Oyunu</ion-card-title>
@@ -70,16 +76,12 @@
                   Bir cümle verilir ve bir kısmı boş bırakılır. Altta verilen kelimeler bu boş olan kısmı uygun olduğu taktirde seçilir ve kontrol ettirilir.
                 </ion-card-content>
               </ion-card>
+             </div>
             </ion-col>
 
 
-        </ion-row>
       </ion-grid>
   </ion-content>
-</ion-app>
-
-
-<ion-grid>
 
 
 

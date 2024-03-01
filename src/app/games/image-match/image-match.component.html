@@ -1,11 +1,38 @@
-<ion-card>
-  <ion-card-header >
+
+<ion-card *ngIf="showCard" [@slideInOut] [class.shake] = "wrongAnswer">
+  <ion-card-header class="cardTop">
     <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
-    <ion-card-title class="cardTitle">Card Title</ion-card-title>
+    <ion-card-title class="cardTitle">{{selectedWord.tr | titlecase }}</ion-card-title>
   </ion-card-header>
 </ion-card>
-<ion-input placeholder="Cevabı buraya yazın" class="answerInput"></ion-input>
+<ion-input placeholder="Cevabı buraya yazın" class="answerInput" [(ngModel)]="userInput" (keydown.enter)="handleAnswer()"></ion-input>
 
 <div class="actions">
-  <ion-button color="secondary" class="checkBtn">Kontrol et</ion-button>
+  <ion-button (click)="handleAnswer()"color="dark" class="ımgActionsBtn" >Kontrol et</ion-button>
+  <ion-button id="present-alert" color="danger" class="finishGame">Oyunu bitir</ion-button>
+  <ion-alert
+    trigger="present-alert"
+    [buttons]="alertButtons"
+    header="Oyunu bitirmek istiyor musun ?"
+  ></ion-alert>
 </div>
+<ion-toast
+    [isOpen]="showInfo"
+    [message]="messageInfo"
+    [duration]="700"
+    (didDismiss)="setOpen(false)"
+    color="success"
+    class="toasts"
+  ></ion-toast>
+
+  <ion-toast
+    [isOpen]="showFalse"
+    [message]="messageFalse"
+    [duration]="700"
+    (didDismiss)="setOpen(false)"
+    color="danger"
+    [class.shake] = "wrongAnswer"
+    class="toasts"
+  ></ion-toast>
+
+

@@ -1,26 +1,24 @@
-.gamesGrid{
-  display: grid;
-  gap: 30px;
-  padding-top: 30px;
-}
-
-.cardBox {
+body{
   display: flex;
-  align-items: center;
   justify-content: center;
-  color: white;
-  font-family: 'Raleway';
-  font-size: 2.5rem;
+  align-items: center;
+  min-height: 100vh;
+  background: #000;
+}
 
-ion-card{
-  margin: 0;
-}
-}
-.gradientBorder {
+.menuInButton {
   --borderWidth: 3px;
   background: #1D1F20;
   position: relative;
-  border-radius: var(--borderWidth);
+  border-radius: calc(var(--borderWidth) * 4);
+  display: block;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  text-align: center;
+  transition: 0.5s;
+  z-index: 1;
 
  &:after {
     content: '';
@@ -35,6 +33,7 @@ ion-card{
     animation: animatedgradient 3s ease alternate infinite;
     background-size: 300% 300%;
     filter: blur(3px);
+    border-radius: 10px;
   }
 }
 
@@ -49,3 +48,10 @@ ion-card{
 		background-position: 0% 50%;
 	}
 }
+
+.menuInHeader{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+

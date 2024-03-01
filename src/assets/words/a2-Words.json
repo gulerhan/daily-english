@@ -1,0 +1,4656 @@
+{
+  "words":
+  [
+    {
+     "en": "cell",
+     "tr": "hücre"
+    },
+    {
+     "en": "clock",
+     "tr": "saat"
+    },
+    {
+     "en": "computer",
+     "tr": "bilgisayar"
+    },
+    {
+     "en": "cooker",
+     "tr": "Ocak"
+    },
+    {
+     "en": "digital",
+     "tr": "dijital"
+    },
+    {
+     "en": "bag",
+     "tr": "çanta"
+    },
+    {
+     "en": "bathing",
+     "tr": "banyo"
+    },
+    {
+     "en": "belt",
+     "tr": "kemer"
+    },
+    {
+     "en": "blouse",
+     "tr": "bluz"
+    },
+    {
+     "en": "boot",
+     "tr": "bot"
+    },
+    {
+     "en": "bracelet",
+     "tr": "bileklik"
+    },
+    {
+     "en": "cap",
+     "tr": "kapak"
+    },
+    {
+     "en": "chain",
+     "tr": "zincir"
+    },
+    {
+     "en": "clothes",
+     "tr": "kıyafetler"
+    },
+    {
+     "en": "coat",
+     "tr": "kaban"
+    },
+    {
+     "en": "costume",
+     "tr": "kostüm"
+    },
+    {
+     "en": "dress",
+     "tr": "elbise"
+    },
+    {
+     "en": "earring",
+     "tr": "küpe"
+    },
+    {
+     "en": "black",
+     "tr": "siyah"
+    },
+    {
+     "en": "blue",
+     "tr": "mavi"
+    },
+    {
+     "en": "brown",
+     "tr": "kahverengi"
+    },
+    {
+     "en": "dark",
+     "tr": "karanlık"
+    },
+    {
+     "en": "address",
+     "tr": "adres"
+    },
+    {
+     "en": "call",
+     "tr": "Arama"
+    },
+    {
+     "en": "chat",
+     "tr": "sohbet"
+    },
+    {
+     "en": "computer",
+     "tr": "bilgisayar"
+    },
+    {
+     "en": "conversation",
+     "tr": "konuşma"
+    },
+    {
+     "en": "article",
+     "tr": "madde"
+    },
+    {
+     "en": "bill",
+     "tr": "fatura"
+    },
+    {
+     "en": "book",
+     "tr": "kitap"
+    },
+    {
+     "en": "card",
+     "tr": "kart"
+    },
+    {
+     "en": "comic",
+     "tr": "çizgi roman"
+    },
+    {
+     "en": "advanced",
+     "tr": "gelişmiş"
+    },
+    {
+     "en": "beginner",
+     "tr": "acemi"
+    },
+    {
+     "en": "biology",
+     "tr": "Biyoloji"
+    },
+    {
+     "en": "blackboard",
+     "tr": "kara tahta"
+    },
+    {
+     "en": "board",
+     "tr": "pano"
+    },
+    {
+     "en": "book",
+     "tr": "kitap"
+    },
+    {
+     "en": "bookshelf",
+     "tr": "kitaplık"
+    },
+    {
+     "en": "chemistry",
+     "tr": "kimya"
+    },
+    {
+     "en": "class",
+     "tr": "sınıf"
+    },
+    {
+     "en": "classmate",
+     "tr": "sınıf arkadaşı"
+    },
+    {
+     "en": "classroom",
+     "tr": "sınıf"
+    },
+    {
+     "en": "clever",
+     "tr": "akıllı"
+    },
+    {
+     "en": "coach",
+     "tr": "koç"
+    },
+    {
+     "en": "college",
+     "tr": "kolej"
+    },
+    {
+     "en": "act",
+     "tr": "davranmak"
+    },
+    {
+     "en": "actor",
+     "tr": "aktör"
+    },
+    {
+     "en": "adventure",
+     "tr": "macera"
+    },
+    {
+     "en": "advertisement",
+     "tr": "reklamcılık"
+    },
+    {
+     "en": "art",
+     "tr": "sanat"
+    },
+    {
+     "en": "article",
+     "tr": "madde"
+    },
+    {
+     "en": "board",
+     "tr": "pano"
+    },
+    {
+     "en": "book",
+     "tr": "kitap"
+    },
+    {
+     "en": "card",
+     "tr": "kart"
+    },
+    {
+     "en": "cartoon",
+     "tr": "karikatür"
+    },
+    {
+     "en": "chess",
+     "tr": "satranç"
+    },
+    {
+     "en": "cinema",
+     "tr": "sinema"
+    },
+    {
+     "en": "classical",
+     "tr": "klasik"
+    },
+    {
+     "en": "competition",
+     "tr": "yarışma"
+    },
+    {
+     "en": "concert",
+     "tr": "konser"
+    },
+    {
+     "en": "dance",
+     "tr": "dans"
+    },
+    {
+     "en": "dancer",
+     "tr": "dansçı"
+    },
+    {
+     "en": "aunt",
+     "tr": "hala"
+    },
+    {
+     "en": "boy",
+     "tr": "erkek çocuk"
+    },
+    {
+     "en": "brother",
+     "tr": "Erkek kardeş"
+    },
+    {
+     "en": "child",
+     "tr": "çocuk"
+    },
+    {
+     "en": "cousin",
+     "tr": "kuzen"
+    },
+    {
+     "en": "dad",
+     "tr": "baba"
+    },
+    {
+     "en": "daughter",
+     "tr": "kız çocuğu"
+    },
+    {
+     "en": "family",
+     "tr": "aile"
+    },
+    {
+     "en": "father",
+     "tr": "baba"
+    },
+    {
+     "en": "friend",
+     "tr": "arkadaş"
+    },
+    {
+     "en": "friendly",
+     "tr": "arkadaşça"
+    },
+    {
+     "en": "apple",
+     "tr": "elma"
+    },
+    {
+     "en": "bake",
+     "tr": "pişmek"
+    },
+    {
+     "en": "banana",
+     "tr": "muz"
+    },
+    {
+     "en": "barbecue",
+     "tr": "Barbekü"
+    },
+    {
+     "en": "biscuit",
+     "tr": "bisküvi"
+    },
+    {
+     "en": "boil",
+     "tr": "kaynamak"
+    },
+    {
+     "en": "boiled",
+     "tr": "haşlanmış"
+    },
+    {
+     "en": "bottle",
+     "tr": "şişe"
+    },
+    {
+     "en": "bowl",
+     "tr": "tas"
+    },
+    {
+     "en": "box",
+     "tr": "kutu"
+    },
+    {
+     "en": "bread",
+     "tr": "ekmek"
+    },
+    {
+     "en": "break",
+     "tr": "kırmak"
+    },
+    {
+     "en": "breakfast",
+     "tr": "kahvaltı"
+    },
+    {
+     "en": "burger",
+     "tr": "burger"
+    },
+    {
+     "en": "butter",
+     "tr": "tereyağı"
+    },
+    {
+     "en": "cafecafé",
+     "tr": "kafe"
+    },
+    {
+     "en": "cafeteria",
+     "tr": "kafeterya"
+    },
+    {
+     "en": "cake",
+     "tr": "kek"
+    },
+    {
+     "en": "candy",
+     "tr": "Şeker"
+    },
+    {
+     "en": "carrot",
+     "tr": "havuç"
+    },
+    {
+     "en": "cereal",
+     "tr": "mısır gevreği"
+    },
+    {
+     "en": "cheese",
+     "tr": "peynir"
+    },
+    {
+     "en": "chef",
+     "tr": "şef"
+    },
+    {
+     "en": "chicken",
+     "tr": "tavuk"
+    },
+    {
+     "en": "chilli",
+     "tr": "Şili"
+    },
+    {
+     "en": "chips",
+     "tr": "fişek"
+    },
+    {
+     "en": "accident",
+     "tr": "kaza"
+    },
+    {
+     "en": "ambulance",
+     "tr": "ambulans"
+    },
+    {
+     "en": "appointment",
+     "tr": "randevu"
+    },
+    {
+     "en": "arm",
+     "tr": "kol"
+    },
+    {
+     "en": "baby",
+     "tr": "Bebek"
+    },
+    {
+     "en": "back",
+     "tr": "geri"
+    },
+    {
+     "en": "blood",
+     "tr": "kan"
+    },
+    {
+     "en": "body",
+     "tr": "vücut"
+    },
+    {
+     "en": "brain",
+     "tr": "beyin"
+    },
+    {
+     "en": "break",
+     "tr": "kırmak"
+    },
+    {
+     "en": "check",
+     "tr": "kontrol etmek"
+    },
+    {
+     "en": "chemist",
+     "tr": "eczacı"
+    },
+    {
+     "en": "clean",
+     "tr": "temiz"
+    },
+    {
+     "en": "cold",
+     "tr": "soğuk"
+    },
+    {
+     "en": "comb",
+     "tr": "tarak"
+    },
+    {
+     "en": "cut",
+     "tr": "kesmek"
+    },
+    {
+     "en": "barbecue",
+     "tr": "Barbekü"
+    },
+    {
+     "en": "beach",
+     "tr": "sahil"
+    },
+    {
+     "en": "bicycle",
+     "tr": "bisiklet"
+    },
+    {
+     "en": "bike",
+     "tr": "bisiklet"
+    },
+    {
+     "en": "book",
+     "tr": "kitap"
+    },
+    {
+     "en": "en",
+     "tr": "tr"
+    },
+    {
+     "en": "camp",
+     "tr": "kamp"
+    },
+    {
+     "en": "camping",
+     "tr": "kamp yapmak"
+    },
+    {
+     "en": "campsite",
+     "tr": "kamp alanı"
+    },
+    {
+     "en": "go",
+     "tr": "Gitmek"
+    },
+    {
+     "en": "address",
+     "tr": "adres"
+    },
+    {
+     "en": "apartment",
+     "tr": "apartman"
+    },
+    {
+     "en": "armchair",
+     "tr": "koltuk"
+    },
+    {
+     "en": "bath(tub)",
+     "tr": "küvet)"
+    },
+    {
+     "en": "bathroom",
+     "tr": "banyo"
+    },
+    {
+     "en": "bed",
+     "tr": "yatak"
+    },
+    {
+     "en": "bedroom",
+     "tr": "yatak odası"
+    },
+    {
+     "en": "bin",
+     "tr": "çöp Kutusu"
+    },
+    {
+     "en": "blanket",
+     "tr": "battaniye"
+    },
+    {
+     "en": "bookcase",
+     "tr": "kitaplık"
+    },
+    {
+     "en": "bookshelf",
+     "tr": "kitaplık"
+    },
+    {
+     "en": "bowl",
+     "tr": "tas"
+    },
+    {
+     "en": "box",
+     "tr": "kutu"
+    },
+    {
+     "en": "carpet",
+     "tr": "halı"
+    },
+    {
+     "en": "chair",
+     "tr": "sandalye"
+    },
+    {
+     "en": "centimetre",
+     "tr": "santimetre"
+    },
+    {
+     "en": "centimeter",
+     "tr": "santimetre"
+    },
+    {
+     "en": "litre",
+     "tr": "litre"
+    },
+    {
+     "en": "able",
+     "tr": "hünerli"
+    },
+    {
+     "en": "afraid",
+     "tr": "korkmuş"
+    },
+    {
+     "en": "alone",
+     "tr": "yalnız"
+    },
+    {
+     "en": "amazing",
+     "tr": "inanılmaz"
+    },
+    {
+     "en": "angry",
+     "tr": "sinirli"
+    },
+    {
+     "en": "bad",
+     "tr": "kötü"
+    },
+    {
+     "en": "beautiful",
+     "tr": "Güzel"
+    },
+    {
+     "en": "better",
+     "tr": "daha iyi"
+    },
+    {
+     "en": "big",
+     "tr": "büyük"
+    },
+    {
+     "en": "bored",
+     "tr": "sıkılmış"
+    },
+    {
+     "en": "boring",
+     "tr": "sıkıcı"
+    },
+    {
+     "en": "brave",
+     "tr": "cesur"
+    },
+    {
+     "en": "brilliant",
+     "tr": "muhteşem"
+    },
+    {
+     "en": "busy",
+     "tr": "Meşgul"
+    },
+    {
+     "en": "careful",
+     "tr": "dikkatli olmak"
+    },
+    {
+     "en": "clear",
+     "tr": "temizlemek"
+    },
+    {
+     "en": "clever",
+     "tr": "akıllı"
+    },
+    {
+     "en": "cool",
+     "tr": "Serin"
+    },
+    {
+     "en": "different",
+     "tr": "farklı"
+    },
+    {
+     "en": "apartment",
+     "tr": "apartman"
+    },
+    {
+     "en": "bank",
+     "tr": "banka"
+    },
+    {
+     "en": "block",
+     "tr": "engellemek"
+    },
+    {
+     "en": "bookshop",
+     "tr": "kitapçı"
+    },
+    {
+     "en": "bookstore",
+     "tr": "kitapçı"
+    },
+    {
+     "en": "building",
+     "tr": "bina"
+    },
+    {
+     "en": "cafecafé",
+     "tr": "kafe"
+    },
+    {
+     "en": "cafeteria",
+     "tr": "kafeterya"
+    },
+    {
+     "en": "castle",
+     "tr": "kale"
+    },
+    {
+     "en": "cinema",
+     "tr": "sinema"
+    },
+    {
+     "en": "college",
+     "tr": "kolej"
+    },
+    {
+     "en": "area",
+     "tr": "alan"
+    },
+    {
+     "en": "beach",
+     "tr": "sahil"
+    },
+    {
+     "en": "campsite",
+     "tr": "kamp alanı"
+    },
+    {
+     "en": "farm",
+     "tr": "çiftlik"
+    },
+    {
+     "en": "field",
+     "tr": "alan"
+    },
+    {
+     "en": "airport",
+     "tr": "havalimanı"
+    },
+    {
+     "en": "bridge",
+     "tr": "köprü"
+    },
+    {
+     "en": "bus",
+     "tr": "otobüs"
+    },
+    {
+     "en": "bus",
+     "tr": "otobüs"
+    },
+    {
+     "en": "car",
+     "tr": "araba"
+    },
+    {
+     "en": "bank",
+     "tr": "banka"
+    },
+    {
+     "en": "cafe",
+     "tr": "kafe"
+    },
+    {
+     "en": "cafeteria",
+     "tr": "kafeterya"
+    },
+    {
+     "en": "cinema",
+     "tr": "sinema"
+    },
+    {
+     "en": "dentist",
+     "tr": "dişçi"
+    },
+    {
+     "en": "ad",
+     "tr": "reklam"
+    },
+    {
+     "en": "assistant",
+     "tr": "asistan"
+    },
+    {
+     "en": "bill",
+     "tr": "fatura"
+    },
+    {
+     "en": "bookshop",
+     "tr": "kitapçı"
+    },
+    {
+     "en": "buy",
+     "tr": "satın almak"
+    },
+    {
+     "en": "cash",
+     "tr": "peşin"
+    },
+    {
+     "en": "cent",
+     "tr": "yüzyıl"
+    },
+    {
+     "en": "change",
+     "tr": "değiştirmek"
+    },
+    {
+     "en": "cheap",
+     "tr": "ucuz"
+    },
+    {
+     "en": "ball",
+     "tr": "top"
+    },
+    {
+     "en": "badminton",
+     "tr": "badminton"
+    },
+    {
+     "en": "baseball",
+     "tr": "beyzbol"
+    },
+    {
+     "en": "basketball",
+     "tr": "Basketbol"
+    },
+    {
+     "en": "bat",
+     "tr": "yarasa"
+    },
+    {
+     "en": "bathing",
+     "tr": "banyo"
+    },
+    {
+     "en": "beach",
+     "tr": "sahil"
+    },
+    {
+     "en": "bicycle",
+     "tr": "bisiklet"
+    },
+    {
+     "en": "bike",
+     "tr": "bisiklet"
+    },
+    {
+     "en": "boat",
+     "tr": "bot"
+    },
+    {
+     "en": "catch",
+     "tr": "yakalamak"
+    },
+    {
+     "en": "climb",
+     "tr": "tırmanmak"
+    },
+    {
+     "en": "club",
+     "tr": "kulüp"
+    },
+    {
+     "en": "coach",
+     "tr": "koç"
+    },
+    {
+     "en": "competition",
+     "tr": "yarışma"
+    },
+    {
+     "en": "cricket",
+     "tr": "kriket"
+    },
+    {
+     "en": "cycling",
+     "tr": "bisikletçilik"
+    },
+    {
+     "en": "enter",
+     "tr": "girmek"
+    },
+    {
+     "en": "fishing",
+     "tr": "Balık tutma"
+    },
+    {
+     "en": "air",
+     "tr": "hava"
+    },
+    {
+     "en": "autumn",
+     "tr": "sonbahar"
+    },
+    {
+     "en": "beach",
+     "tr": "sahil"
+    },
+    {
+     "en": "bee",
+     "tr": "bal arısı"
+    },
+    {
+     "en": "country",
+     "tr": "ülke"
+    },
+    {
+     "en": "countryside",
+     "tr": "kırsal kesim"
+    },
+    {
+     "en": "desert",
+     "tr": "çöl"
+    },
+    {
+     "en": "east",
+     "tr": "doğu"
+    },
+    {
+     "en": "explorer",
+     "tr": "kaşif"
+    },
+    {
+     "en": "field",
+     "tr": "alan"
+    },
+    {
+     "en": "afternoon",
+     "tr": "öğleden sonra"
+    },
+    {
+     "en": "half",
+     "tr": "yarım"
+    },
+    {
+     "en": "appointment",
+     "tr": "randevu"
+    },
+    {
+     "en": "autumn",
+     "tr": "sonbahar"
+    },
+    {
+     "en": "birthday",
+     "tr": "doğum günü"
+    },
+    {
+     "en": "calendar",
+     "tr": "takvim"
+    },
+    {
+     "en": "century",
+     "tr": "yüzyıl"
+    },
+    {
+     "en": "clock",
+     "tr": "saat"
+    },
+    {
+     "en": "daily",
+     "tr": "günlük"
+    },
+    {
+     "en": "date",
+     "tr": "tarih"
+    },
+    {
+     "en": "day",
+     "tr": "gün"
+    },
+    {
+     "en": "diary",
+     "tr": "günlük"
+    },
+    {
+     "en": "plane",
+     "tr": "uçak"
+    },
+    {
+     "en": "airport",
+     "tr": "havalimanı"
+    },
+    {
+     "en": "ambulance",
+     "tr": "ambulans"
+    },
+    {
+     "en": "backpack",
+     "tr": "sırt çantası"
+    },
+    {
+     "en": "boat",
+     "tr": "bot"
+    },
+    {
+     "en": "bridge",
+     "tr": "köprü"
+    },
+    {
+     "en": "bus",
+     "tr": "otobüs"
+    },
+    {
+     "en": "car",
+     "tr": "araba"
+    },
+    {
+     "en": "case",
+     "tr": "dava"
+    },
+    {
+     "en": "coach",
+     "tr": "koç"
+    },
+    {
+     "en": "country",
+     "tr": "ülke"
+    },
+    {
+     "en": "delay",
+     "tr": "gecikme"
+    },
+    {
+     "en": "delayed",
+     "tr": "gecikmiş"
+    },
+    {
+     "en": "drive",
+     "tr": "sürmek"
+    },
+    {
+     "en": "driver",
+     "tr": "şoför"
+    },
+    {
+     "en": "drivingdriver’s",
+     "tr": "Drivingdriver’ın"
+    },
+    {
+     "en": "engine",
+     "tr": "motor"
+    },
+    {
+     "en": "engineer",
+     "tr": "mühendis"
+    },
+    {
+     "en": "window",
+     "tr": "pencere"
+    },
+    {
+     "en": "cloud",
+     "tr": "bulut"
+    },
+    {
+     "en": "cloudy",
+     "tr": "bulutlu"
+    },
+    {
+     "en": "cold",
+     "tr": "soğuk"
+    },
+    {
+     "en": "fog",
+     "tr": "sis"
+    },
+    {
+     "en": "foggy",
+     "tr": "sisli"
+    },
+    {
+     "en": "actor",
+     "tr": "aktör"
+    },
+    {
+     "en": "artist",
+     "tr": "sanatçı"
+    },
+    {
+     "en": "boss",
+     "tr": "patron"
+    },
+    {
+     "en": "break",
+     "tr": "kırmak"
+    },
+    {
+     "en": "business",
+     "tr": "işletme"
+    },
+    {
+     "en": "businessman",
+     "tr": "işadamı"
+    },
+    {
+     "en": "businesswoman",
+     "tr": "iş kadını"
+    },
+    {
+     "en": "chemist",
+     "tr": "eczacı"
+    },
+    {
+     "en": "cleaner",
+     "tr": "temizleyici"
+    },
+    {
+     "en": "coach",
+     "tr": "koç"
+    },
+    {
+     "en": "company",
+     "tr": "şirket"
+    },
+    {
+     "en": "computer",
+     "tr": "bilgisayar"
+    },
+    {
+     "en": "cook",
+     "tr": "aşçı"
+    },
+    {
+     "en": "customer",
+     "tr": "müşteri"
+    },
+    {
+     "en": "dentist",
+     "tr": "dişçi"
+    },
+    {
+     "en": "desk",
+     "tr": "çalışma masası"
+    },
+    {
+     "en": "diary",
+     "tr": "günlük"
+    },
+    {
+     "en": "DVD",
+     "tr": "DVD"
+    },
+    {
+     "en": "electric",
+     "tr": "elektrik"
+    },
+    {
+     "en": "phone",
+     "tr": "telefon"
+    },
+    {
+     "en": "fridge",
+     "tr": "buzdolabı"
+    },
+    {
+     "en": "gas",
+     "tr": "gaz"
+    },
+    {
+     "en": "heating",
+     "tr": "ısıtma"
+    },
+    {
+     "en": "en",
+     "tr": "tr"
+    },
+    {
+     "en": "fashion",
+     "tr": "moda"
+    },
+    {
+     "en": "suit",
+     "tr": "uygun olmak"
+    },
+    {
+     "en": "glasses",
+     "tr": "gözlük"
+    },
+    {
+     "en": "glove",
+     "tr": "eldiven"
+    },
+    {
+     "en": "handbag",
+     "tr": "el çantası"
+    },
+    {
+     "en": "hat",
+     "tr": "şapka"
+    },
+    {
+     "en": "jacket",
+     "tr": "ceket"
+    },
+    {
+     "en": "jeans",
+     "tr": "kot"
+    },
+    {
+     "en": "jewellery",
+     "tr": "mücevher"
+    },
+    {
+     "en": "jumper",
+     "tr": "tulum"
+    },
+    {
+     "en": "kit",
+     "tr": "set"
+    },
+    {
+     "en": "necklace",
+     "tr": "kolye"
+    },
+    {
+     "en": "pocket",
+     "tr": "cep"
+    },
+    {
+     "en": "golden",
+     "tr": "altın"
+    },
+    {
+     "en": "green",
+     "tr": "yeşil"
+    },
+    {
+     "en": "grey",
+     "tr": "gri"
+    },
+    {
+     "en": "light",
+     "tr": "ışık"
+    },
+    {
+     "en": "digital",
+     "tr": "dijital"
+    },
+    {
+     "en": "download",
+     "tr": "indirmek"
+    },
+    {
+     "en": "phone",
+     "tr": "telefon"
+    },
+    {
+     "en": "file",
+     "tr": "dosya"
+    },
+    {
+     "en": "internet",
+     "tr": "internet"
+    },
+    {
+     "en": "keyboard",
+     "tr": "tuş takımı"
+    },
+    {
+     "en": "menu",
+     "tr": "Menü"
+    },
+    {
+     "en": "email",
+     "tr": "e -posta"
+    },
+    {
+     "en": "form",
+     "tr": "biçim"
+    },
+    {
+     "en": "letter",
+     "tr": "mektup"
+    },
+    {
+     "en": "licence",
+     "tr": "lisans"
+    },
+    {
+     "en": "course",
+     "tr": "kurs"
+    },
+    {
+     "en": "desk",
+     "tr": "çalışma masası"
+    },
+    {
+     "en": "dictionary",
+     "tr": "sözlük"
+    },
+    {
+     "en": "diploma",
+     "tr": "diploma"
+    },
+    {
+     "en": "eraser",
+     "tr": "silgi"
+    },
+    {
+     "en": "exam(ination)",
+     "tr": "Sınav (ination)"
+    },
+    {
+     "en": "geography",
+     "tr": "coğrafya"
+    },
+    {
+     "en": "history",
+     "tr": "tarih"
+    },
+    {
+     "en": "homework",
+     "tr": "Ev ödevi"
+    },
+    {
+     "en": "information",
+     "tr": "bilgi"
+    },
+    {
+     "en": "instructions",
+     "tr": "talimatlar"
+    },
+    {
+     "en": "know",
+     "tr": "Bilmek"
+    },
+    {
+     "en": "language",
+     "tr": "dil"
+    },
+    {
+     "en": "learn",
+     "tr": "öğrenmek"
+    },
+    {
+     "en": "draw",
+     "tr": "çizmek"
+    },
+    {
+     "en": "drawing",
+     "tr": "çizim"
+    },
+    {
+     "en": "disco",
+     "tr": "disko"
+    },
+    {
+     "en": "drum",
+     "tr": "davul"
+    },
+    {
+     "en": "DVD",
+     "tr": "DVD"
+    },
+    {
+     "en": "exhibition",
+     "tr": "sergi"
+    },
+    {
+     "en": "game",
+     "tr": "oyun"
+    },
+    {
+     "en": "film",
+     "tr": "film"
+    },
+    {
+     "en": "fun",
+     "tr": "eğlence"
+    },
+    {
+     "en": "go",
+     "tr": "Gitmek"
+    },
+    {
+     "en": "group",
+     "tr": "grup"
+    },
+    {
+     "en": "guitar",
+     "tr": "gitar"
+    },
+    {
+     "en": "hip",
+     "tr": "belki"
+    },
+    {
+     "en": "instrument",
+     "tr": "enstrüman"
+    },
+    {
+     "en": "keyboard",
+     "tr": "tuş takımı"
+    },
+    {
+     "en": "laugh",
+     "tr": "gülmek"
+    },
+    {
+     "en": "listen",
+     "tr": "Dinlemek"
+    },
+    {
+     "en": "look",
+     "tr": "Bakmak"
+    },
+    {
+     "en": "girl",
+     "tr": "kız"
+    },
+    {
+     "en": "grandchild",
+     "tr": "torun"
+    },
+    {
+     "en": "grand",
+     "tr": "büyük"
+    },
+    {
+     "en": "granddaughter",
+     "tr": "kız torun"
+    },
+    {
+     "en": "grandfather",
+     "tr": "Büyük baba"
+    },
+    {
+     "en": "grandma",
+     "tr": "büyükanne"
+    },
+    {
+     "en": "grandmother",
+     "tr": "Nene"
+    },
+    {
+     "en": "grandpa",
+     "tr": "büyükbaba"
+    },
+    {
+     "en": "grandparent",
+     "tr": "büyükanne ve büyükbaba"
+    },
+    {
+     "en": "grandson",
+     "tr": "erkek torun"
+    },
+    {
+     "en": "granny",
+     "tr": "büyükanne"
+    },
+    {
+     "en": "chocolate",
+     "tr": "çikolata"
+    },
+    {
+     "en": "coffee",
+     "tr": "Kahve"
+    },
+    {
+     "en": "cola",
+     "tr": "Kola"
+    },
+    {
+     "en": "cook",
+     "tr": "aşçı"
+    },
+    {
+     "en": "cooker",
+     "tr": "Ocak"
+    },
+    {
+     "en": "cream",
+     "tr": "krem"
+    },
+    {
+     "en": "cup",
+     "tr": "bardak"
+    },
+    {
+     "en": "curry",
+     "tr": "köri"
+    },
+    {
+     "en": "cut",
+     "tr": "kesmek"
+    },
+    {
+     "en": "delicious",
+     "tr": "lezzetli"
+    },
+    {
+     "en": "dessert",
+     "tr": "tatlı"
+    },
+    {
+     "en": "dinner",
+     "tr": "akşam yemeği"
+    },
+    {
+     "en": "dish",
+     "tr": "tabak"
+    },
+    {
+     "en": "drink",
+     "tr": "içmek"
+    },
+    {
+     "en": "eat",
+     "tr": "yemek yemek"
+    },
+    {
+     "en": "egg",
+     "tr": "Yumurta"
+    },
+    {
+     "en": "fish",
+     "tr": "balık"
+    },
+    {
+     "en": "food",
+     "tr": "yiyecek"
+    },
+    {
+     "en": "fork",
+     "tr": "çatal"
+    },
+    {
+     "en": "fridge",
+     "tr": "buzdolabı"
+    },
+    {
+     "en": "fried",
+     "tr": "kızarmış"
+    },
+    {
+     "en": "fruit",
+     "tr": "meyve"
+    },
+    {
+     "en": "garlic",
+     "tr": "sarımsak"
+    },
+    {
+     "en": "glass",
+     "tr": "bardak"
+    },
+    {
+     "en": "grape",
+     "tr": "üzüm"
+    },
+    {
+     "en": "grilled",
+     "tr": "ızgara"
+    },
+    {
+     "en": "honey",
+     "tr": "Bal"
+    },
+    {
+     "en": "danger",
+     "tr": "tehlike"
+    },
+    {
+     "en": "dangerous",
+     "tr": "tehlikeli"
+    },
+    {
+     "en": "dead",
+     "tr": "ölü"
+    },
+    {
+     "en": "dentist",
+     "tr": "dişçi"
+    },
+    {
+     "en": "die",
+     "tr": "ölmek"
+    },
+    {
+     "en": "doctor",
+     "tr": "doktor"
+    },
+    {
+     "en": "Dr",
+     "tr": "Dr."
+    },
+    {
+     "en": "ear",
+     "tr": "kulak"
+    },
+    {
+     "en": "exercise",
+     "tr": "egzersiz yapmak"
+    },
+    {
+     "en": "eye",
+     "tr": "göz"
+    },
+    {
+     "en": "face",
+     "tr": "yüz"
+    },
+    {
+     "en": "fall",
+     "tr": "düşmek"
+    },
+    {
+     "en": "finger",
+     "tr": "parmak"
+    },
+    {
+     "en": "fit",
+     "tr": "yerleştirmek"
+    },
+    {
+     "en": "foot",
+     "tr": "ayak"
+    },
+    {
+     "en": "CD",
+     "tr": "CD"
+    },
+    {
+     "en": "club",
+     "tr": "kulüp"
+    },
+    {
+     "en": "collect",
+     "tr": "TOPLAMAK"
+    },
+    {
+     "en": "computer",
+     "tr": "bilgisayar"
+    },
+    {
+     "en": "cycling",
+     "tr": "bisikletçilik"
+    },
+    {
+     "en": "dance",
+     "tr": "dans"
+    },
+    {
+     "en": "draw",
+     "tr": "çizmek"
+    },
+    {
+     "en": "DVD",
+     "tr": "DVD"
+    },
+    {
+     "en": "festival",
+     "tr": "Festival"
+    },
+    {
+     "en": "out",
+     "tr": "dışarı"
+    },
+    {
+     "en": "clock",
+     "tr": "saat"
+    },
+    {
+     "en": "computer",
+     "tr": "bilgisayar"
+    },
+    {
+     "en": "cooker",
+     "tr": "Ocak"
+    },
+    {
+     "en": "cupboard",
+     "tr": "büfe"
+    },
+    {
+     "en": "curtain",
+     "tr": "perde"
+    },
+    {
+     "en": "desk",
+     "tr": "çalışma masası"
+    },
+    {
+     "en": "dining",
+     "tr": "yemek"
+    },
+    {
+     "en": "door",
+     "tr": "kapı"
+    },
+    {
+     "en": "downstairs",
+     "tr": "alt kat"
+    },
+    {
+     "en": "drawer",
+     "tr": "çekmece"
+    },
+    {
+     "en": "DVD",
+     "tr": "DVD"
+    },
+    {
+     "en": "entrance",
+     "tr": "giriş"
+    },
+    {
+     "en": "flat",
+     "tr": "düz"
+    },
+    {
+     "en": "floor",
+     "tr": "zemin"
+    },
+    {
+     "en": "fridge",
+     "tr": "buzdolabı"
+    },
+    {
+     "en": "liter",
+     "tr": "litre"
+    },
+    {
+     "en": "difficult",
+     "tr": "zor"
+    },
+    {
+     "en": "excellent",
+     "tr": "harika"
+    },
+    {
+     "en": "famous",
+     "tr": "ünlü"
+    },
+    {
+     "en": "fast",
+     "tr": "hızlı"
+    },
+    {
+     "en": "favourite",
+     "tr": "favori"
+    },
+    {
+     "en": "fine",
+     "tr": "iyi"
+    },
+    {
+     "en": "free",
+     "tr": "özgür"
+    },
+    {
+     "en": "friendly",
+     "tr": "arkadaşça"
+    },
+    {
+     "en": "funny",
+     "tr": "eğlenceli"
+    },
+    {
+     "en": "good",
+     "tr": "iyi"
+    },
+    {
+     "en": "great",
+     "tr": "Harika"
+    },
+    {
+     "en": "happy",
+     "tr": "mutlu"
+    },
+    {
+     "en": "hard",
+     "tr": "zor"
+    },
+    {
+     "en": "heavy",
+     "tr": "ağır"
+    },
+    {
+     "en": "high",
+     "tr": "yüksek"
+    },
+    {
+     "en": "hungry",
+     "tr": "aç"
+    },
+    {
+     "en": "important",
+     "tr": "önemli"
+    },
+    {
+     "en": "interested",
+     "tr": "ilgili"
+    },
+    {
+     "en": "interesting",
+     "tr": "ilginç"
+    },
+    {
+     "en": "department",
+     "tr": "departman"
+    },
+    {
+     "en": "disco",
+     "tr": "disko"
+    },
+    {
+     "en": "elevator",
+     "tr": "asansör"
+    },
+    {
+     "en": "entrance",
+     "tr": "giriş"
+    },
+    {
+     "en": "exit",
+     "tr": "çıkış"
+    },
+    {
+     "en": "factory",
+     "tr": "fabrika"
+    },
+    {
+     "en": "flat",
+     "tr": "düz"
+    },
+    {
+     "en": "garage",
+     "tr": "garaj"
+    },
+    {
+     "en": "grocery",
+     "tr": "bakkal"
+    },
+    {
+     "en": "guest-house",
+     "tr": "misafirhane"
+    },
+    {
+     "en": "hospital",
+     "tr": "hastane"
+    },
+    {
+     "en": "forest",
+     "tr": "orman"
+    },
+    {
+     "en": "hill",
+     "tr": "tepe"
+    },
+    {
+     "en": "island",
+     "tr": "ada"
+    },
+    {
+     "en": "lake",
+     "tr": "göl"
+    },
+    {
+     "en": "mountain",
+     "tr": "dağ"
+    },
+    {
+     "en": "city",
+     "tr": "şehir"
+    },
+    {
+     "en": "corner",
+     "tr": "köşe"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "stop",
+     "tr": "durmak"
+    },
+    {
+     "en": "park",
+     "tr": "park"
+    },
+    {
+     "en": "doctor",
+     "tr": "doktor"
+    },
+    {
+     "en": "hotel",
+     "tr": "otel"
+    },
+    {
+     "en": "library",
+     "tr": "kütüphane"
+    },
+    {
+     "en": "museum",
+     "tr": "müze"
+    },
+    {
+     "en": "close",
+     "tr": "kapalı"
+    },
+    {
+     "en": "closed",
+     "tr": "kapalı"
+    },
+    {
+     "en": "cost",
+     "tr": "maliyet"
+    },
+    {
+     "en": "credit",
+     "tr": "kredi"
+    },
+    {
+     "en": "customer",
+     "tr": "müşteri"
+    },
+    {
+     "en": "department",
+     "tr": "departman"
+    },
+    {
+     "en": "dollar",
+     "tr": "dolar"
+    },
+    {
+     "en": "euro",
+     "tr": "euro"
+    },
+    {
+     "en": "football",
+     "tr": "Futbol"
+    },
+    {
+     "en": "football",
+     "tr": "Futbol"
+    },
+    {
+     "en": "game",
+     "tr": "oyun"
+    },
+    {
+     "en": "goal",
+     "tr": "amaç"
+    },
+    {
+     "en": "golf",
+     "tr": "golf"
+    },
+    {
+     "en": "suit",
+     "tr": "uygun olmak"
+    },
+    {
+     "en": "kit",
+     "tr": "set"
+    },
+    {
+     "en": "luck",
+     "tr": "şans"
+    },
+    {
+     "en": "member",
+     "tr": "üye"
+    },
+    {
+     "en": "play",
+     "tr": "oynamak"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "pool",
+     "tr": "havuz"
+    },
+    {
+     "en": "practice",
+     "tr": "pratik"
+    },
+    {
+     "en": "practise",
+     "tr": "pratik"
+    },
+    {
+     "en": "prize",
+     "tr": "ödül"
+    },
+    {
+     "en": "race",
+     "tr": "ırk"
+    },
+    {
+     "en": "racket",
+     "tr": "raket"
+    },
+    {
+     "en": "rest",
+     "tr": "dinlenmek"
+    },
+    {
+     "en": "ride",
+     "tr": "sürmek"
+    },
+    {
+     "en": "fire",
+     "tr": "ateş"
+    },
+    {
+     "en": "flower",
+     "tr": "çiçek"
+    },
+    {
+     "en": "forest",
+     "tr": "orman"
+    },
+    {
+     "en": "grass",
+     "tr": "çimen"
+    },
+    {
+     "en": "grow",
+     "tr": "büyümek"
+    },
+    {
+     "en": "hill",
+     "tr": "tepe"
+    },
+    {
+     "en": "hot",
+     "tr": "sıcak"
+    },
+    {
+     "en": "ice",
+     "tr": "buz"
+    },
+    {
+     "en": "island",
+     "tr": "ada"
+    },
+    {
+     "en": "lake",
+     "tr": "göl"
+    },
+    {
+     "en": "evening",
+     "tr": "akşam"
+    },
+    {
+     "en": "night",
+     "tr": "gece"
+    },
+    {
+     "en": "holidays",
+     "tr": "Bayram"
+    },
+    {
+     "en": "hour",
+     "tr": "saat"
+    },
+    {
+     "en": "January",
+     "tr": "Ocak"
+    },
+    {
+     "en": "meeting",
+     "tr": "toplantı"
+    },
+    {
+     "en": "midnight",
+     "tr": "gece yarısı"
+    },
+    {
+     "en": "minute",
+     "tr": "dakika"
+    },
+    {
+     "en": "moment",
+     "tr": "an"
+    },
+    {
+     "en": "Monday",
+     "tr": "Pazartesi"
+    },
+    {
+     "en": "month",
+     "tr": "ay"
+    },
+    {
+     "en": "monthly",
+     "tr": "aylık"
+    },
+    {
+     "en": "explorer",
+     "tr": "kaşif"
+    },
+    {
+     "en": "far",
+     "tr": "uzak"
+    },
+    {
+     "en": "flight",
+     "tr": "uçuş"
+    },
+    {
+     "en": "fly",
+     "tr": "uçmak"
+    },
+    {
+     "en": "garage",
+     "tr": "garaj"
+    },
+    {
+     "en": "helicopter",
+     "tr": "helikopter"
+    },
+    {
+     "en": "journey",
+     "tr": "seyahat"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "stop",
+     "tr": "durmak"
+    },
+    {
+     "en": "light",
+     "tr": "ışık"
+    },
+    {
+     "en": "luggage",
+     "tr": "bagaj"
+    },
+    {
+     "en": "machine",
+     "tr": "makine"
+    },
+    {
+     "en": "map",
+     "tr": "harita"
+    },
+    {
+     "en": "mechanic",
+     "tr": "tamirci"
+    },
+    {
+     "en": "mirror",
+     "tr": "ayna"
+    },
+    {
+     "en": "miss",
+     "tr": "kayıp"
+    },
+    {
+     "en": "motorbike",
+     "tr": "motosiklet"
+    },
+    {
+     "en": "licence",
+     "tr": "lisans"
+    },
+    {
+     "en": "move",
+     "tr": "taşınmak"
+    },
+    {
+     "en": "oil",
+     "tr": "yağ"
+    },
+    {
+     "en": "hot",
+     "tr": "sıcak"
+    },
+    {
+     "en": "ice",
+     "tr": "buz"
+    },
+    {
+     "en": "rain",
+     "tr": "yağmur"
+    },
+    {
+     "en": "snow",
+     "tr": "kar"
+    },
+    {
+     "en": "storm",
+     "tr": "fırtına"
+    },
+    {
+     "en": "diploma",
+     "tr": "diploma"
+    },
+    {
+     "en": "doctor",
+     "tr": "doktor"
+    },
+    {
+     "en": "Dr",
+     "tr": "Dr."
+    },
+    {
+     "en": "driver",
+     "tr": "şoför"
+    },
+    {
+     "en": "earn",
+     "tr": "para kazanmak"
+    },
+    {
+     "en": "email",
+     "tr": "e -posta"
+    },
+    {
+     "en": "engineer",
+     "tr": "mühendis"
+    },
+    {
+     "en": "explorer",
+     "tr": "kaşif"
+    },
+    {
+     "en": "factory",
+     "tr": "fabrika"
+    },
+    {
+     "en": "farm",
+     "tr": "çiftlik"
+    },
+    {
+     "en": "farmer",
+     "tr": "çiftçi"
+    },
+    {
+     "en": "footballer",
+     "tr": "futbolcu"
+    },
+    {
+     "en": "football",
+     "tr": "Futbol"
+    },
+    {
+     "en": "guest",
+     "tr": "misafir"
+    },
+    {
+     "en": "guide",
+     "tr": "rehber"
+    },
+    {
+     "en": "instructions",
+     "tr": "talimatlar"
+    },
+    {
+     "en": "job",
+     "tr": "iş"
+    },
+    {
+     "en": "laptop",
+     "tr": "dizüstü bilgisayar"
+    },
+    {
+     "en": "lights",
+     "tr": "ışık"
+    },
+    {
+     "en": "electricity",
+     "tr": "elektrik"
+    },
+    {
+     "en": "MP3",
+     "tr": "Mp3"
+    },
+    {
+     "en": "oven",
+     "tr": "fırın"
+    },
+    {
+     "en": "PC",
+     "tr": "Pc"
+    },
+    {
+     "en": "lamp",
+     "tr": "lamba"
+    },
+    {
+     "en": "purse",
+     "tr": "el çantası"
+    },
+    {
+     "en": "get",
+     "tr": "elde etmek"
+    },
+    {
+     "en": "ring",
+     "tr": "yüzük"
+    },
+    {
+     "en": "scarf",
+     "tr": "atkı"
+    },
+    {
+     "en": "shirt",
+     "tr": "gömlek"
+    },
+    {
+     "en": "shoes",
+     "tr": "ayakkabı"
+    },
+    {
+     "en": "shorts",
+     "tr": "şort"
+    },
+    {
+     "en": "skirt",
+     "tr": "etek"
+    },
+    {
+     "en": "suit",
+     "tr": "uygun olmak"
+    },
+    {
+     "en": "sunglasses",
+     "tr": "Güneş gözlüğü"
+    },
+    {
+     "en": "sweater",
+     "tr": "Kazak"
+    },
+    {
+     "en": "swimming",
+     "tr": "yüzme"
+    },
+    {
+     "en": "orange",
+     "tr": "turuncu"
+    },
+    {
+     "en": "pale",
+     "tr": "solgun"
+    },
+    {
+     "en": "purple",
+     "tr": "mor"
+    },
+    {
+     "en": "laptop",
+     "tr": "dizüstü bilgisayar"
+    },
+    {
+     "en": "MP3",
+     "tr": "Mp3"
+    },
+    {
+     "en": "envelope",
+     "tr": "mektup"
+    },
+    {
+     "en": "PC",
+     "tr": "Pc"
+    },
+    {
+     "en": "photography",
+     "tr": "fotoğrafçılık"
+    },
+    {
+     "en": "phone",
+     "tr": "telefon"
+    },
+    {
+     "en": "postcard",
+     "tr": "kartpostal"
+    },
+    {
+     "en": "message",
+     "tr": "İleti"
+    },
+    {
+     "en": "newspaper",
+     "tr": "gazete"
+    },
+    {
+     "en": "note",
+     "tr": "Not"
+    },
+    {
+     "en": "notebook",
+     "tr": "not defteri"
+    },
+    {
+     "en": "lesson",
+     "tr": "ders"
+    },
+    {
+     "en": "level",
+     "tr": "seviyesi"
+    },
+    {
+     "en": "library",
+     "tr": "kütüphane"
+    },
+    {
+     "en": "mark",
+     "tr": "işaret"
+    },
+    {
+     "en": "mathsmathematics",
+     "tr": "matematik"
+    },
+    {
+     "en": "note",
+     "tr": "Not"
+    },
+    {
+     "en": "physics",
+     "tr": "fizik"
+    },
+    {
+     "en": "practice",
+     "tr": "pratik"
+    },
+    {
+     "en": "practise",
+     "tr": "pratik"
+    },
+    {
+     "en": "project",
+     "tr": "proje"
+    },
+    {
+     "en": "pupil",
+     "tr": "öğrenci"
+    },
+    {
+     "en": "read",
+     "tr": "Okumak"
+    },
+    {
+     "en": "remember",
+     "tr": "Unutma"
+    },
+    {
+     "en": "rubber",
+     "tr": "lastik"
+    },
+    {
+     "en": "magazine",
+     "tr": "dergi"
+    },
+    {
+     "en": "MP3",
+     "tr": "Mp3"
+    },
+    {
+     "en": "museum",
+     "tr": "müze"
+    },
+    {
+     "en": "music",
+     "tr": "müzik"
+    },
+    {
+     "en": "musician",
+     "tr": "müzisyen"
+    },
+    {
+     "en": "news",
+     "tr": "haberler"
+    },
+    {
+     "en": "festival",
+     "tr": "Festival"
+    },
+    {
+     "en": "opera",
+     "tr": "opera"
+    },
+    {
+     "en": "paint",
+     "tr": "boyamak"
+    },
+    {
+     "en": "out",
+     "tr": "dışarı"
+    },
+    {
+     "en": "photograph",
+     "tr": "fotoğraf"
+    },
+    {
+     "en": "photographer",
+     "tr": "fotoğrafçı"
+    },
+    {
+     "en": "hop",
+     "tr": "atlama"
+    },
+    {
+     "en": "piano",
+     "tr": "piyano"
+    },
+    {
+     "en": "picture",
+     "tr": "resim"
+    },
+    {
+     "en": "play",
+     "tr": "oynamak"
+    },
+    {
+     "en": "to",
+     "tr": "ile"
+    },
+    {
+     "en": "at",
+     "tr": "-den"
+    },
+    {
+     "en": "group",
+     "tr": "grup"
+    },
+    {
+     "en": "guest",
+     "tr": "misafir"
+    },
+    {
+     "en": "guy",
+     "tr": "adam"
+    },
+    {
+     "en": "husband",
+     "tr": "koca"
+    },
+    {
+     "en": "love",
+     "tr": "Aşk"
+    },
+    {
+     "en": "married",
+     "tr": "evli"
+    },
+    {
+     "en": "Miss",
+     "tr": "Kayıp"
+    },
+    {
+     "en": "mother",
+     "tr": "anne"
+    },
+    {
+     "en": "Mr",
+     "tr": "Bay"
+    },
+    {
+     "en": "Mrs",
+     "tr": "Bayan"
+    },
+    {
+     "en": "hungry",
+     "tr": "aç"
+    },
+    {
+     "en": "ice",
+     "tr": "buz"
+    },
+    {
+     "en": "ice",
+     "tr": "buz"
+    },
+    {
+     "en": "jam",
+     "tr": "reçel"
+    },
+    {
+     "en": "juice",
+     "tr": "Meyve suyu"
+    },
+    {
+     "en": "kitchen",
+     "tr": "mutfak"
+    },
+    {
+     "en": "knife",
+     "tr": "bıçak"
+    },
+    {
+     "en": "lemon",
+     "tr": "limon"
+    },
+    {
+     "en": "lemonade",
+     "tr": "limonata"
+    },
+    {
+     "en": "lunch",
+     "tr": "öğle yemeği"
+    },
+    {
+     "en": "main",
+     "tr": "ana"
+    },
+    {
+     "en": "meal",
+     "tr": "yemek"
+    },
+    {
+     "en": "meat",
+     "tr": "et"
+    },
+    {
+     "en": "melon",
+     "tr": "kavun"
+    },
+    {
+     "en": "menu",
+     "tr": "Menü"
+    },
+    {
+     "en": "milk",
+     "tr": "süt"
+    },
+    {
+     "en": "mineral",
+     "tr": "mineral"
+    },
+    {
+     "en": "mushroom",
+     "tr": "mantar"
+    },
+    {
+     "en": "oil",
+     "tr": "yağ"
+    },
+    {
+     "en": "omelette",
+     "tr": "omlet"
+    },
+    {
+     "en": "onion",
+     "tr": "soğan"
+    },
+    {
+     "en": "orange",
+     "tr": "turuncu"
+    },
+    {
+     "en": "pasta",
+     "tr": "makarna"
+    },
+    {
+     "en": "pear",
+     "tr": "armut"
+    },
+    {
+     "en": "pepper",
+     "tr": "biber"
+    },
+    {
+     "en": "picnic",
+     "tr": "piknik"
+    },
+    {
+     "en": "piece",
+     "tr": "parça"
+    },
+    {
+     "en": "hair",
+     "tr": "saç"
+    },
+    {
+     "en": "hand",
+     "tr": "el"
+    },
+    {
+     "en": "head",
+     "tr": "KAFA"
+    },
+    {
+     "en": "health",
+     "tr": "sağlık"
+    },
+    {
+     "en": "hear",
+     "tr": "duymak"
+    },
+    {
+     "en": "heart",
+     "tr": "kalp"
+    },
+    {
+     "en": "hospital",
+     "tr": "hastane"
+    },
+    {
+     "en": "hurt",
+     "tr": "acıtmak"
+    },
+    {
+     "en": "ill",
+     "tr": "hasta"
+    },
+    {
+     "en": "leg",
+     "tr": "bacak"
+    },
+    {
+     "en": "lie",
+     "tr": "yalan"
+    },
+    {
+     "en": "medicine",
+     "tr": "ilaç"
+    },
+    {
+     "en": "feel",
+     "tr": "hissetmek"
+    },
+    {
+     "en": "nose",
+     "tr": "burun"
+    },
+    {
+     "en": "nurse",
+     "tr": "hemşire"
+    },
+    {
+     "en": "pain",
+     "tr": "ağrı"
+    },
+    {
+     "en": "go",
+     "tr": "Gitmek"
+    },
+    {
+     "en": "guitar",
+     "tr": "gitar"
+    },
+    {
+     "en": "hobby",
+     "tr": "hobi"
+    },
+    {
+     "en": "holidays",
+     "tr": "Bayram"
+    },
+    {
+     "en": "join",
+     "tr": "katılmak"
+    },
+    {
+     "en": "magazine",
+     "tr": "dergi"
+    },
+    {
+     "en": "member",
+     "tr": "üye"
+    },
+    {
+     "en": "MP3",
+     "tr": "Mp3"
+    },
+    {
+     "en": "museum",
+     "tr": "müze"
+    },
+    {
+     "en": "video",
+     "tr": "video"
+    },
+    {
+     "en": "furniture",
+     "tr": "mobilya"
+    },
+    {
+     "en": "garage",
+     "tr": "garaj"
+    },
+    {
+     "en": "garden",
+     "tr": "bahçe"
+    },
+    {
+     "en": "gas",
+     "tr": "gaz"
+    },
+    {
+     "en": "gate",
+     "tr": "geçit"
+    },
+    {
+     "en": "hall",
+     "tr": "salon"
+    },
+    {
+     "en": "room",
+     "tr": "oda"
+    },
+    {
+     "en": "home",
+     "tr": "Ev"
+    },
+    {
+     "en": "house",
+     "tr": "ev"
+    },
+    {
+     "en": "key",
+     "tr": "anahtar"
+    },
+    {
+     "en": "kitchen",
+     "tr": "mutfak"
+    },
+    {
+     "en": "lamp",
+     "tr": "lamba"
+    },
+    {
+     "en": "light",
+     "tr": "ışık"
+    },
+    {
+     "en": "live",
+     "tr": "canlı"
+    },
+    {
+     "en": "living",
+     "tr": "yaşamak"
+    },
+    {
+     "en": "half",
+     "tr": "yarım"
+    },
+    {
+     "en": "cm",
+     "tr": "santimetre"
+    },
+    {
+     "en": "second",
+     "tr": "ikinci"
+    },
+    {
+     "en": "kind",
+     "tr": "tür"
+    },
+    {
+     "en": "lovely",
+     "tr": "sevimli"
+    },
+    {
+     "en": "lucky",
+     "tr": "şanslı"
+    },
+    {
+     "en": "married",
+     "tr": "evli"
+    },
+    {
+     "en": "modern",
+     "tr": "modern"
+    },
+    {
+     "en": "nice",
+     "tr": "Güzel"
+    },
+    {
+     "en": "noisy",
+     "tr": "gürültülü"
+    },
+    {
+     "en": "old",
+     "tr": "eskimiş"
+    },
+    {
+     "en": "pleasant",
+     "tr": "güzel"
+    },
+    {
+     "en": "poor",
+     "tr": "fakir"
+    },
+    {
+     "en": "pretty",
+     "tr": "tatlı"
+    },
+    {
+     "en": "quick",
+     "tr": "hızlı"
+    },
+    {
+     "en": "quiet",
+     "tr": "sessizlik"
+    },
+    {
+     "en": "ready",
+     "tr": "hazır"
+    },
+    {
+     "en": "real",
+     "tr": "gerçek"
+    },
+    {
+     "en": "rich",
+     "tr": "zengin"
+    },
+    {
+     "en": "right",
+     "tr": "Sağ"
+    },
+    {
+     "en": "slow",
+     "tr": "yavaş"
+    },
+    {
+     "en": "small",
+     "tr": "küçük"
+    },
+    {
+     "en": "store",
+     "tr": "mağaza"
+    },
+    {
+     "en": "house",
+     "tr": "ev"
+    },
+    {
+     "en": "library",
+     "tr": "kütüphane"
+    },
+    {
+     "en": "lift",
+     "tr": "kaldırmak"
+    },
+    {
+     "en": "museum",
+     "tr": "müze"
+    },
+    {
+     "en": "office",
+     "tr": "ofis"
+    },
+    {
+     "en": "pharmacy",
+     "tr": "eczane"
+    },
+    {
+     "en": "police",
+     "tr": "polis"
+    },
+    {
+     "en": "store",
+     "tr": "mağaza"
+    },
+    {
+     "en": "railway",
+     "tr": "demiryolu"
+    },
+    {
+     "en": "school",
+     "tr": "okul"
+    },
+    {
+     "en": "path",
+     "tr": "yol"
+    },
+    {
+     "en": "railway",
+     "tr": "demiryolu"
+    },
+    {
+     "en": "rainforest",
+     "tr": "yağmur ormanı"
+    },
+    {
+     "en": "river",
+     "tr": "nehir"
+    },
+    {
+     "en": "sea",
+     "tr": "deniz"
+    },
+    {
+     "en": "centre",
+     "tr": "merkez"
+    },
+    {
+     "en": "playground",
+     "tr": "oyun alanı"
+    },
+    {
+     "en": "market",
+     "tr": "pazar"
+    },
+    {
+     "en": "motorway",
+     "tr": "otoyol"
+    },
+    {
+     "en": "park",
+     "tr": "park"
+    },
+    {
+     "en": "petrol",
+     "tr": "benzin"
+    },
+    {
+     "en": "café",
+     "tr": "kafe"
+    },
+    {
+     "en": "restaurant",
+     "tr": "restoran"
+    },
+    {
+     "en": "sports",
+     "tr": "Spor Dalları"
+    },
+    {
+     "en": "swimming",
+     "tr": "yüzme"
+    },
+    {
+     "en": "advertisement",
+     "tr": "reklamcılık"
+    },
+    {
+     "en": "for",
+     "tr": "için"
+    },
+    {
+     "en": "go",
+     "tr": "Gitmek"
+    },
+    {
+     "en": "open",
+     "tr": "açık"
+    },
+    {
+     "en": "card",
+     "tr": "kart"
+    },
+    {
+     "en": "penny",
+     "tr": "kuruş"
+    },
+    {
+     "en": "store",
+     "tr": "mağaza"
+    },
+    {
+     "en": "price",
+     "tr": "fiyat"
+    },
+    {
+     "en": "receipt",
+     "tr": "fiş"
+    },
+    {
+     "en": "riding",
+     "tr": "binme"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "run",
+     "tr": "koşmak"
+    },
+    {
+     "en": "sailing",
+     "tr": "yelken"
+    },
+    {
+     "en": "sea",
+     "tr": "deniz"
+    },
+    {
+     "en": "hockey",
+     "tr": "hokey"
+    },
+    {
+     "en": "skateboard",
+     "tr": "kaykay"
+    },
+    {
+     "en": "ski",
+     "tr": "kayak"
+    },
+    {
+     "en": "skiing",
+     "tr": "kayak yapma"
+    },
+    {
+     "en": "snowboard",
+     "tr": "snowboard"
+    },
+    {
+     "en": "snowboarding",
+     "tr": "snowboard yapmak"
+    },
+    {
+     "en": "soccer",
+     "tr": "futbol"
+    },
+    {
+     "en": "versus",
+     "tr": "e karşı"
+    },
+    {
+     "en": "sports-centre",
+     "tr": "Spor Merkezi"
+    },
+    {
+     "en": "stadium",
+     "tr": "stadyum"
+    },
+    {
+     "en": "surf",
+     "tr": "sörf"
+    },
+    {
+     "en": "surfboard",
+     "tr": "sörf tahtası"
+    },
+    {
+     "en": "surfboarding",
+     "tr": "sörf tahtası"
+    },
+    {
+     "en": "swim",
+     "tr": "yüzmek"
+    },
+    {
+     "en": "moon",
+     "tr": "ay"
+    },
+    {
+     "en": "mountain",
+     "tr": "dağ"
+    },
+    {
+     "en": "north",
+     "tr": "kuzey"
+    },
+    {
+     "en": "plant",
+     "tr": "bitki"
+    },
+    {
+     "en": "rabbit",
+     "tr": "tavşan"
+    },
+    {
+     "en": "river",
+     "tr": "nehir"
+    },
+    {
+     "en": "sea",
+     "tr": "deniz"
+    },
+    {
+     "en": "sky",
+     "tr": "gökyüzü"
+    },
+    {
+     "en": "south",
+     "tr": "güney"
+    },
+    {
+     "en": "space",
+     "tr": "uzay"
+    },
+    {
+     "en": "morning",
+     "tr": "Sabah"
+    },
+    {
+     "en": "week",
+     "tr": "hafta"
+    },
+    {
+     "en": "noon",
+     "tr": "öğlen"
+    },
+    {
+     "en": "o’clock",
+     "tr": "saat"
+    },
+    {
+     "en": "quarter",
+     "tr": "çeyrek"
+    },
+    {
+     "en": "second",
+     "tr": "ikinci"
+    },
+    {
+     "en": "spring",
+     "tr": "bahar"
+    },
+    {
+     "en": "summer",
+     "tr": "yaz"
+    },
+    {
+     "en": "Sunday",
+     "tr": "Pazar"
+    },
+    {
+     "en": "today",
+     "tr": "Bugün"
+    },
+    {
+     "en": "tomorrow",
+     "tr": "Yarın"
+    },
+    {
+     "en": "park",
+     "tr": "park"
+    },
+    {
+     "en": "passenger",
+     "tr": "yolcu"
+    },
+    {
+     "en": "passport",
+     "tr": "pasaport"
+    },
+    {
+     "en": "petrol",
+     "tr": "benzin"
+    },
+    {
+     "en": "petrol",
+     "tr": "benzin"
+    },
+    {
+     "en": "pilot",
+     "tr": "pilot"
+    },
+    {
+     "en": "platform",
+     "tr": "platform"
+    },
+    {
+     "en": "leave",
+     "tr": "ayrılmak"
+    },
+    {
+     "en": "left",
+     "tr": "sol"
+    },
+    {
+     "en": "return",
+     "tr": "geri dönmek"
+    },
+    {
+     "en": "ride",
+     "tr": "sürmek"
+    },
+    {
+     "en": "right",
+     "tr": "Sağ"
+    },
+    {
+     "en": "road",
+     "tr": "yol"
+    },
+    {
+     "en": "roundabout",
+     "tr": "dönel kavşak"
+    },
+    {
+     "en": "sailing",
+     "tr": "yelken"
+    },
+    {
+     "en": "seat",
+     "tr": "koltuk"
+    },
+    {
+     "en": "ship",
+     "tr": "gemi"
+    },
+    {
+     "en": "motorway",
+     "tr": "otoyol"
+    },
+    {
+     "en": "stop",
+     "tr": "durmak"
+    },
+    {
+     "en": "straight",
+     "tr": "dümdüz"
+    },
+    {
+     "en": "sun",
+     "tr": "güneş"
+    },
+    {
+     "en": "sunny",
+     "tr": "güneşli"
+    },
+    {
+     "en": "thunderstorm",
+     "tr": "fırtına"
+    },
+    {
+     "en": "warm",
+     "tr": "ılık"
+    },
+    {
+     "en": "weather",
+     "tr": "hava durumu"
+    },
+    {
+     "en": "journalist",
+     "tr": "gazeteci"
+    },
+    {
+     "en": "king",
+     "tr": "kral"
+    },
+    {
+     "en": "letter",
+     "tr": "mektup"
+    },
+    {
+     "en": "manager",
+     "tr": "müdür"
+    },
+    {
+     "en": "mechanic",
+     "tr": "tamirci"
+    },
+    {
+     "en": "meeting",
+     "tr": "toplantı"
+    },
+    {
+     "en": "message",
+     "tr": "İleti"
+    },
+    {
+     "en": "musician",
+     "tr": "müzisyen"
+    },
+    {
+     "en": "nurse",
+     "tr": "hemşire"
+    },
+    {
+     "en": "occupation",
+     "tr": "meslek"
+    },
+    {
+     "en": "office",
+     "tr": "ofis"
+    },
+    {
+     "en": "painter",
+     "tr": "ressam"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "pilot",
+     "tr": "pilot"
+    },
+    {
+     "en": "police",
+     "tr": "polis"
+    },
+    {
+     "en": "queen",
+     "tr": "kraliçe"
+    },
+    {
+     "en": "receptionist",
+     "tr": "resepsiyonist"
+    },
+    {
+     "en": "radio",
+     "tr": "radyo"
+    },
+    {
+     "en": "telephone",
+     "tr": "telefon"
+    },
+    {
+     "en": "mobile",
+     "tr": "hareketli"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "washing",
+     "tr": "yıkama"
+    },
+    {
+     "en": "phone",
+     "tr": "telefon"
+    },
+    {
+     "en": "swimsuit",
+     "tr": "mayo"
+    },
+    {
+     "en": "dressed",
+     "tr": "giyinmiş"
+    },
+    {
+     "en": "tights",
+     "tr": "tayt"
+    },
+    {
+     "en": "trainers",
+     "tr": "eğitmenler"
+    },
+    {
+     "en": "trousers",
+     "tr": "pantolonlar"
+    },
+    {
+     "en": "try",
+     "tr": "denemek"
+    },
+    {
+     "en": "T-shirt",
+     "tr": "Tişört"
+    },
+    {
+     "en": "umbrella",
+     "tr": "şemsiye"
+    },
+    {
+     "en": "jewelry",
+     "tr": "takı"
+    },
+    {
+     "en": "wallet",
+     "tr": "cüzdan"
+    },
+    {
+     "en": "watch",
+     "tr": "kol saati"
+    },
+    {
+     "en": "wear",
+     "tr": "giymek"
+    },
+    {
+     "en": "costume",
+     "tr": "kostüm"
+    },
+    {
+     "en": "red",
+     "tr": "kırmızı"
+    },
+    {
+     "en": "silver",
+     "tr": "gümüş"
+    },
+    {
+     "en": "gray",
+     "tr": "gri"
+    },
+    {
+     "en": "yellow",
+     "tr": "sarı"
+    },
+    {
+     "en": "printer",
+     "tr": "yazıcı"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "password",
+     "tr": "şifre"
+    },
+    {
+     "en": "web",
+     "tr": "ağ"
+    },
+    {
+     "en": "website",
+     "tr": "İnternet sitesi"
+    },
+    {
+     "en": "project",
+     "tr": "proje"
+    },
+    {
+     "en": "text",
+     "tr": "metin"
+    },
+    {
+     "en": "textbook",
+     "tr": "ders kitabı"
+    },
+    {
+     "en": "ticket",
+     "tr": "bilet"
+    },
+    {
+     "en": "ruler",
+     "tr": "cetvel"
+    },
+    {
+     "en": "school",
+     "tr": "okul"
+    },
+    {
+     "en": "science",
+     "tr": "bilim"
+    },
+    {
+     "en": "student",
+     "tr": "öğrenci"
+    },
+    {
+     "en": "studies",
+     "tr": "çalışmalar"
+    },
+    {
+     "en": "study",
+     "tr": "çalışmak"
+    },
+    {
+     "en": "subject",
+     "tr": "ders"
+    },
+    {
+     "en": "teach",
+     "tr": "öğretmek"
+    },
+    {
+     "en": "teacher",
+     "tr": "Öğretmen"
+    },
+    {
+     "en": "term",
+     "tr": "terim"
+    },
+    {
+     "en": "test",
+     "tr": "Ölçek"
+    },
+    {
+     "en": "university",
+     "tr": "Üniversite"
+    },
+    {
+     "en": "practise",
+     "tr": "pratik"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "project",
+     "tr": "proje"
+    },
+    {
+     "en": "radio",
+     "tr": "radyo"
+    },
+    {
+     "en": "read",
+     "tr": "Okumak"
+    },
+    {
+     "en": "rock",
+     "tr": "kaynak"
+    },
+    {
+     "en": "newspaper",
+     "tr": "gazete"
+    },
+    {
+     "en": "show",
+     "tr": "göstermek"
+    },
+    {
+     "en": "sing",
+     "tr": "şarkı söylemek"
+    },
+    {
+     "en": "painter",
+     "tr": "ressam"
+    },
+    {
+     "en": "song",
+     "tr": "şarkı"
+    },
+    {
+     "en": "television",
+     "tr": "televizyon"
+    },
+    {
+     "en": "photography",
+     "tr": "fotoğrafçılık"
+    },
+    {
+     "en": "ticket",
+     "tr": "bilet"
+    },
+    {
+     "en": "video",
+     "tr": "video"
+    },
+    {
+     "en": "watch",
+     "tr": "kol saati"
+    },
+    {
+     "en": "pop",
+     "tr": "pop"
+    },
+    {
+     "en": "practice",
+     "tr": "pratik"
+    },
+    {
+     "en": "mum",
+     "tr": "anne"
+    },
+    {
+     "en": "neighbour",
+     "tr": "komşu"
+    },
+    {
+     "en": "parent",
+     "tr": "ebeveyn"
+    },
+    {
+     "en": "pen-friend",
+     "tr": "kalem arkadaşı"
+    },
+    {
+     "en": "sister",
+     "tr": "kız kardeş"
+    },
+    {
+     "en": "son",
+     "tr": "oğul"
+    },
+    {
+     "en": "surname",
+     "tr": "soyadı"
+    },
+    {
+     "en": "teenager",
+     "tr": "genç"
+    },
+    {
+     "en": "uncle",
+     "tr": "amca"
+    },
+    {
+     "en": "wife",
+     "tr": "eş"
+    },
+    {
+     "en": "pizza",
+     "tr": "Pizza"
+    },
+    {
+     "en": "plate",
+     "tr": "plaka"
+    },
+    {
+     "en": "cream",
+     "tr": "krem"
+    },
+    {
+     "en": "rice",
+     "tr": "pirinç"
+    },
+    {
+     "en": "roast",
+     "tr": "haşlamak"
+    },
+    {
+     "en": "salad",
+     "tr": "salata"
+    },
+    {
+     "en": "salt",
+     "tr": "tuz"
+    },
+    {
+     "en": "sandwich",
+     "tr": "sandviç"
+    },
+    {
+     "en": "sauce",
+     "tr": "Sos"
+    },
+    {
+     "en": "sausage",
+     "tr": "sosis"
+    },
+    {
+     "en": "course",
+     "tr": "kurs"
+    },
+    {
+     "en": "snack",
+     "tr": "atıştırmalık"
+    },
+    {
+     "en": "soup",
+     "tr": "çorba"
+    },
+    {
+     "en": "steak",
+     "tr": "biftek"
+    },
+    {
+     "en": "strawberry",
+     "tr": "çilek"
+    },
+    {
+     "en": "sugar",
+     "tr": "şeker"
+    },
+    {
+     "en": "water",
+     "tr": "su"
+    },
+    {
+     "en": "tea",
+     "tr": "çay"
+    },
+    {
+     "en": "thirsty",
+     "tr": "susuz"
+    },
+    {
+     "en": "toast",
+     "tr": "kızarmış ekmek"
+    },
+    {
+     "en": "tomato",
+     "tr": "domates"
+    },
+    {
+     "en": "vegetable",
+     "tr": "sebze"
+    },
+    {
+     "en": "waiter",
+     "tr": "garson"
+    },
+    {
+     "en": "waitress",
+     "tr": "Bayan garson"
+    },
+    {
+     "en": "wash",
+     "tr": "yıkamak"
+    },
+    {
+     "en": "yog(h)urt",
+     "tr": "yoğurt"
+    },
+    {
+     "en": "of",
+     "tr": "ile ilgili"
+    },
+    {
+     "en": "problem",
+     "tr": "sorun"
+    },
+    {
+     "en": "rest",
+     "tr": "dinlenmek"
+    },
+    {
+     "en": "run",
+     "tr": "koşmak"
+    },
+    {
+     "en": "sick",
+     "tr": "hasta"
+    },
+    {
+     "en": "soap",
+     "tr": "sabun"
+    },
+    {
+     "en": "stomach",
+     "tr": "karın"
+    },
+    {
+     "en": "stomach",
+     "tr": "karın"
+    },
+    {
+     "en": "swim",
+     "tr": "yüzmek"
+    },
+    {
+     "en": "temperature",
+     "tr": "sıcaklık"
+    },
+    {
+     "en": "tired",
+     "tr": "yorgun"
+    },
+    {
+     "en": "down",
+     "tr": "aşağı"
+    },
+    {
+     "en": "toothache",
+     "tr": "diş ağrısı"
+    },
+    {
+     "en": "neck",
+     "tr": "boyun"
+    },
+    {
+     "en": "walk",
+     "tr": "yürümek"
+    },
+    {
+     "en": "well",
+     "tr": "Peki"
+    },
+    {
+     "tr": "#VALUE!"
+    },
+    {
+     "en": "music",
+     "tr": "müzik"
+    },
+    {
+     "en": "musician",
+     "tr": "müzisyen"
+    },
+    {
+     "en": "paint",
+     "tr": "boyamak"
+    },
+    {
+     "en": "park",
+     "tr": "park"
+    },
+    {
+     "en": "party",
+     "tr": "Parti"
+    },
+    {
+     "en": "photograph",
+     "tr": "fotoğraf"
+    },
+    {
+     "en": "picnic",
+     "tr": "piknik"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "tent",
+     "tr": "çadır"
+    },
+    {
+     "en": "game",
+     "tr": "oyun"
+    },
+    {
+     "en": "oven",
+     "tr": "fırın"
+    },
+    {
+     "en": "pillow",
+     "tr": "yastık"
+    },
+    {
+     "en": "refrigerator",
+     "tr": "buzdolabı"
+    },
+    {
+     "en": "roof",
+     "tr": "çatı"
+    },
+    {
+     "en": "room",
+     "tr": "oda"
+    },
+    {
+     "en": "rubbish",
+     "tr": "zırva"
+    },
+    {
+     "en": "heating",
+     "tr": "ısıtma"
+    },
+    {
+     "en": "shelf",
+     "tr": "raf"
+    },
+    {
+     "en": "shower",
+     "tr": "duş"
+    },
+    {
+     "en": "sink",
+     "tr": "atmak"
+    },
+    {
+     "en": "sitting",
+     "tr": "oturma"
+    },
+    {
+     "en": "sofa",
+     "tr": "divan"
+    },
+    {
+     "en": "stay",
+     "tr": "kalmak"
+    },
+    {
+     "en": "toilet",
+     "tr": "tuvalet"
+    },
+    {
+     "en": "room",
+     "tr": "oda"
+    },
+    {
+     "en": "metre",
+     "tr": "metre"
+    },
+    {
+     "en": "hour",
+     "tr": "saat"
+    },
+    {
+     "en": "soft",
+     "tr": "yumuşak"
+    },
+    {
+     "en": "sorry",
+     "tr": "Üzgünüm"
+    },
+    {
+     "en": "special",
+     "tr": "özel"
+    },
+    {
+     "en": "strange",
+     "tr": "garip"
+    },
+    {
+     "en": "strong",
+     "tr": "güçlü"
+    },
+    {
+     "en": "sure",
+     "tr": "Elbette"
+    },
+    {
+     "en": "sweet",
+     "tr": "tatlı"
+    },
+    {
+     "en": "tall",
+     "tr": "uzun"
+    },
+    {
+     "en": "terrible",
+     "tr": "korkunç"
+    },
+    {
+     "en": "tired",
+     "tr": "yorgun"
+    },
+    {
+     "en": "unhappy",
+     "tr": "mutsuz"
+    },
+    {
+     "en": "useful",
+     "tr": "kullanışlı"
+    },
+    {
+     "en": "well",
+     "tr": "Peki"
+    },
+    {
+     "en": "worried",
+     "tr": "endişeli"
+    },
+    {
+     "en": "wrong",
+     "tr": "yanlış"
+    },
+    {
+     "en": "young",
+     "tr": "genç"
+    },
+    {
+     "en": "hotel",
+     "tr": "otel"
+    },
+    {
+     "en": "stadium",
+     "tr": "stadyum"
+    },
+    {
+     "en": "supermarket",
+     "tr": "süpermarket"
+    },
+    {
+     "en": "swimming",
+     "tr": "yüzme"
+    },
+    {
+     "en": "theatre",
+     "tr": "tiyatro"
+    },
+    {
+     "en": "university",
+     "tr": "Üniversite"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "post",
+     "tr": "postalamak"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "sky",
+     "tr": "gökyüzü"
+    },
+    {
+     "en": "village",
+     "tr": "köy"
+    },
+    {
+     "en": "wood",
+     "tr": "odun"
+    },
+    {
+     "en": "petrol",
+     "tr": "benzin"
+    },
+    {
+     "en": "street",
+     "tr": "sokak"
+    },
+    {
+     "en": "road",
+     "tr": "yol"
+    },
+    {
+     "en": "roundabout",
+     "tr": "dönel kavşak"
+    },
+    {
+     "en": "square",
+     "tr": "kare"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "garage",
+     "tr": "garaj"
+    },
+    {
+     "en": "centre",
+     "tr": "merkez"
+    },
+    {
+     "en": "pool",
+     "tr": "havuz"
+    },
+    {
+     "en": "cheque",
+     "tr": "kontrol etmek"
+    },
+    {
+     "en": "sale",
+     "tr": "satış"
+    },
+    {
+     "en": "shopping",
+     "tr": "alışveriş"
+    },
+    {
+     "en": "pay",
+     "tr": "ödemek"
+    },
+    {
+     "en": "spend",
+     "tr": "harcamak"
+    },
+    {
+     "en": "pound",
+     "tr": "pound"
+    },
+    {
+     "en": "supermarket",
+     "tr": "süpermarket"
+    },
+    {
+     "en": "try",
+     "tr": "denemek"
+    },
+    {
+     "en": "swimming",
+     "tr": "yüzme"
+    },
+    {
+     "en": "rugby",
+     "tr": "Ragbi"
+    },
+    {
+     "en": "swimming",
+     "tr": "yüzme"
+    },
+    {
+     "en": "swimsuit",
+     "tr": "mayo"
+    },
+    {
+     "en": "table",
+     "tr": "masa"
+    },
+    {
+     "en": "skate",
+     "tr": "paten"
+    },
+    {
+     "en": "tennis",
+     "tr": "tenis"
+    },
+    {
+     "en": "tennis",
+     "tr": "tenis"
+    },
+    {
+     "en": "throw",
+     "tr": "fırlatmak"
+    },
+    {
+     "en": "ticket",
+     "tr": "bilet"
+    },
+    {
+     "en": "tired",
+     "tr": "yorgun"
+    },
+    {
+     "en": "trainers",
+     "tr": "eğitmenler"
+    },
+    {
+     "en": "volleyball",
+     "tr": "voleybol"
+    },
+    {
+     "en": "walk",
+     "tr": "yürümek"
+    },
+    {
+     "en": "watch",
+     "tr": "kol saati"
+    },
+    {
+     "en": "win",
+     "tr": "kazanç"
+    },
+    {
+     "en": "windsurfing",
+     "tr": "rüzgâr sörfü"
+    },
+    {
+     "en": "winner",
+     "tr": "kazanan"
+    },
+    {
+     "en": "spring",
+     "tr": "bahar"
+    },
+    {
+     "en": "star",
+     "tr": "yıldız"
+    },
+    {
+     "en": "summer",
+     "tr": "yaz"
+    },
+    {
+     "en": "tree",
+     "tr": "ağaç"
+    },
+    {
+     "en": "water",
+     "tr": "su"
+    },
+    {
+     "en": "west",
+     "tr": "Batı"
+    },
+    {
+     "en": "winter",
+     "tr": "kış"
+    },
+    {
+     "en": "wood",
+     "tr": "odun"
+    },
+    {
+     "en": "wool",
+     "tr": "yün"
+    },
+    {
+     "en": "world",
+     "tr": "dünya"
+    },
+    {
+     "en": "tonight",
+     "tr": "bu akşam"
+    },
+    {
+     "en": "weekday",
+     "tr": "Hafta içi"
+    },
+    {
+     "en": "weekend",
+     "tr": "hafta sonu"
+    },
+    {
+     "en": "December",
+     "tr": "Aralık"
+    },
+    {
+     "en": "winter",
+     "tr": "kış"
+    },
+    {
+     "en": "working",
+     "tr": "çalışma"
+    },
+    {
+     "en": "year",
+     "tr": "yıl"
+    },
+    {
+     "en": "yesterday",
+     "tr": "Dün"
+    },
+    {
+     "en": "time",
+     "tr": "zaman"
+    },
+    {
+     "en": "street",
+     "tr": "sokak"
+    },
+    {
+     "en": "suitcase",
+     "tr": "bavul"
+    },
+    {
+     "en": "taxi",
+     "tr": "taksi"
+    },
+    {
+     "en": "ticket",
+     "tr": "bilet"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "tour",
+     "tr": "tur"
+    },
+    {
+     "en": "tourist",
+     "tr": "turist"
+    },
+    {
+     "en": "railway",
+     "tr": "demiryolu"
+    },
+    {
+     "en": "repair",
+     "tr": "tamirat"
+    },
+    {
+     "en": "traffic",
+     "tr": "trafik"
+    },
+    {
+     "en": "train",
+     "tr": "tren"
+    },
+    {
+     "en": "tram",
+     "tr": "tramvay"
+    },
+    {
+     "en": "travel",
+     "tr": "seyahat"
+    },
+    {
+     "en": "trip",
+     "tr": "seyahat"
+    },
+    {
+     "en": "tyre",
+     "tr": "yorulmak"
+    },
+    {
+     "en": "underground",
+     "tr": "yeraltı"
+    },
+    {
+     "en": "visit",
+     "tr": "ziyaret etmek"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "way",
+     "tr": "yol"
+    },
+    {
+     "en": "on",
+     "tr": "Açık"
+    },
+    {
+     "en": "wet",
+     "tr": "ıslak"
+    },
+    {
+     "en": "wind",
+     "tr": "rüzgâr"
+    },
+    {
+     "en": "windy",
+     "tr": "rüzgarlı"
+    },
+    {
+     "en": "secretary",
+     "tr": "Sekreter"
+    },
+    {
+     "en": "shop",
+     "tr": "mağaza"
+    },
+    {
+     "en": "shopper",
+     "tr": "alışveriş yapan kimse"
+    },
+    {
+     "en": "singer",
+     "tr": "şarkıcı"
+    },
+    {
+     "en": "staff",
+     "tr": "kadro"
+    },
+    {
+     "en": "student",
+     "tr": "öğrenci"
+    },
+    {
+     "en": "teacher",
+     "tr": "Öğretmen"
+    },
+    {
+     "en": "tennis",
+     "tr": "tenis"
+    },
+    {
+     "en": "tour",
+     "tr": "tur"
+    },
+    {
+     "en": "uniform",
+     "tr": "üniforma"
+    },
+    {
+     "en": "waiter",
+     "tr": "garson"
+    },
+    {
+     "en": "work",
+     "tr": "iş"
+    },
+    {
+     "en": "photographer",
+     "tr": "fotoğrafçı"
+    },
+    {
+     "en": "writer",
+     "tr": "yazar"
+    },
+    {
+     "en": "officer",
+     "tr": "subay"
+    },
+    {
+     "en": "television",
+     "tr": "televizyon"
+    },
+    {
+     "en": "video",
+     "tr": "video"
+    },
+    {
+     "en": "machine",
+     "tr": "makine"
+    },
+    {
+     "en": "raincoat",
+     "tr": "yağmurluk"
+    },
+    {
+     "en": "on",
+     "tr": "Açık"
+    },
+    {
+     "en": "sock",
+     "tr": "çorap"
+    },
+    {
+     "en": "pink",
+     "tr": "pembe"
+    },
+    {
+     "en": "talk",
+     "tr": "konuşmak"
+    },
+    {
+     "en": "video",
+     "tr": "video"
+    },
+    {
+     "en": "programme",
+     "tr": "program"
+    },
+    {
+     "en": "screen",
+     "tr": "ekran"
+    },
+    {
+     "en": "singer",
+     "tr": "şarkıcı"
+    },
+    {
+     "en": "theatre",
+     "tr": "tiyatro"
+    },
+    {
+     "en": "potato",
+     "tr": "patates"
+    },
+    {
+     "en": "slice",
+     "tr": "dilim"
+    },
+    {
+     "en": "sweet",
+     "tr": "tatlı"
+    },
+    {
+     "en": "up",
+     "tr": "yukarı"
+    },
+    {
+     "en": "cake",
+     "tr": "kek"
+    },
+    {
+     "en": "ache",
+     "tr": "ağrı"
+    },
+    {
+     "en": "tooth",
+     "tr": "diş"
+    },
+    {
+     "en": "toothbrush",
+     "tr": "diş fırçası"
+    },
+    {
+     "en": "quiz",
+     "tr": "sınav"
+    },
+    {
+     "en": "safe",
+     "tr": "güvenli"
+    },
+    {
+     "en": "room",
+     "tr": "oda"
+    },
+    {
+     "en": "towel",
+     "tr": "havlu"
+    },
+    {
+     "en": "minute",
+     "tr": "dakika"
+    },
+    {
+     "en": "shop",
+     "tr": "mağaza"
+    },
+    {
+     "en": "pool",
+     "tr": "havuz"
+    },
+    {
+     "en": "office",
+     "tr": "ofis"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "town",
+     "tr": "şehir"
+    },
+    {
+     "en": "underground",
+     "tr": "yeraltı"
+    },
+    {
+     "en": "zoo",
+     "tr": "hayvanat bahçesi"
+    },
+    {
+     "en": "theatre",
+     "tr": "tiyatro"
+    },
+    {
+     "en": "post",
+     "tr": "postalamak"
+    },
+    {
+     "en": "expensive",
+     "tr": "masraflı"
+    },
+    {
+     "en": "shop",
+     "tr": "mağaza"
+    },
+    {
+     "en": "shop",
+     "tr": "mağaza"
+    },
+    {
+     "en": "shopper",
+     "tr": "alışveriş yapan kimse"
+    },
+    {
+     "en": "store",
+     "tr": "mağaza"
+    },
+    {
+     "en": "on",
+     "tr": "Açık"
+    },
+    {
+     "en": "swimming",
+     "tr": "yüzme"
+    },
+    {
+     "en": "pool",
+     "tr": "havuz"
+    },
+    {
+     "en": "tennis",
+     "tr": "tenis"
+    },
+    {
+     "en": "team",
+     "tr": "takım"
+    },
+    {
+     "en": "player",
+     "tr": "oyuncu"
+    },
+    {
+     "en": "tie",
+     "tr": "bağlamak"
+    },
+    {
+     "en": "uniform",
+     "tr": "üniforma"
+    },
+    {
+     "en": "white",
+     "tr": "beyaz"
+    },
+    {
+     "en": "meter",
+     "tr": "metre"
+    },
+    {
+     "en": "week",
+     "tr": "hafta"
+    },
+    {
+     "en": "station",
+     "tr": "istasyon"
+    },
+    {
+     "en": "office",
+     "tr": "ofis"
+    },
+    {
+     "en": "rent",
+     "tr": "kira"
+    },
+    {
+     "en": "assistant",
+     "tr": "asistan"
+    },
+    {
+     "en": "costume",
+     "tr": "kostüm"
+    },
+    {
+     "en": "weekly",
+     "tr": "haftalık"
+    },
+    {
+     "en": "information",
+     "tr": "bilgi"
+    }
+   ]
+}

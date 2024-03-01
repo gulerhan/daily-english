@@ -117,3 +117,13 @@ ion-note {
 ion-item.selected {
   --color: var(--ion-color-primary);
 }
+
+.routerStill{
+  background-color: #191a1b;
+}
+
+ion-menu {
+  &::part(container){
+    background-color: #191a1b;
+  }
+}
