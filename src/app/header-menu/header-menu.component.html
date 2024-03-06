@@ -1,10 +1,71 @@
-
-<ion-header >
+<ion-header>
   <ion-toolbar color="dark" class="custom-toolbar">
-    <div class="menuInHeader" >
+    <div class="menuInHeader">
       <ion-title>Daily English</ion-title>
     </div>
   </ion-toolbar>
 </ion-header>
+<ion-menu-toggle>
+  <ion-button [routerLink]="'/'" class="menuInButton" color="dark"
+    >Ana Sayfa</ion-button
+  >
+</ion-menu-toggle>
 
-<ion-button [routerLink]="'/'" class="menuInButton" color="dark">Ana Sayfa</ion-button>
+<ion-accordion-group #accordionGroup color="dark">
+  <ion-accordion value="first" class="bgAccordion">
+    <ion-item slot="header" color="dark">
+      <ion-label class="gamesAccordion">Level / Oyunlar</ion-label>
+    </ion-item>
+    <div class="ion-padding" slot="content">
+      <ion-menu-toggle>
+        <ion-button
+          [routerLink]="['/games/a1']"
+          class="menuInButton"
+          color="dark"
+          >A1 Oyunları</ion-button
+        >
+      </ion-menu-toggle>
+
+      <ion-menu-toggle>
+        <ion-button
+          [routerLink]="['/games/a2']"
+          class="menuInButton"
+          color="dark"
+          >A2 Oyunları
+        </ion-button>
+      </ion-menu-toggle>
+      <ion-menu-toggle>
+        <ion-button
+          [routerLink]="['/games/b1']"
+          class="menuInButton"
+          color="dark"
+          >B1 Oyunları
+        </ion-button>
+      </ion-menu-toggle>
+      <ion-menu-toggle>
+        <ion-button
+          [routerLink]="['/games/b2']"
+          class="menuInButton"
+          color="dark"
+          >B2 Oyunları
+        </ion-button>
+      </ion-menu-toggle>
+      <ion-menu-toggle>
+        <ion-button
+          [routerLink]="['/games/c1']"
+          class="menuInButton"
+          color="dark"
+          >C1 Oyunları
+        </ion-button>
+      </ion-menu-toggle>
+      <ion-menu-toggle>
+        <ion-button
+          [routerLink]="['/games/c2']"
+          class="menuInButton"
+          color="dark"
+          >C2 Oyunları
+        </ion-button>
+      </ion-menu-toggle>
+    </div>
+  </ion-accordion>
+</ion-accordion-group>

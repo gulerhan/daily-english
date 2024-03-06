@@ -1,0 +1,1914 @@
+{
+  "sentences":
+  [
+    {
+     "en": "Her eyes sparkled",
+     "tr": "Gözleri parladı"
+    },
+    {
+     "en": "The flowers bloomed",
+     "tr": "Çiçekler çiçek açtı"
+    },
+    {
+     "en": "His laugh echoed",
+     "tr": "Onun gülüşü yankılandı"
+    },
+    {
+     "en": "Birds chirped softly",
+     "tr": "Kuşlar yumuşak bir şekilde cıvıltı"
+    },
+    {
+     "en": "The river flowed",
+     "tr": "Nehir aktı"
+    },
+    {
+     "en": "The sun set",
+     "tr": "Günbatımı"
+    },
+    {
+     "en": "Stars twinkled",
+     "tr": "Yıldızlar parıldadı"
+    },
+    {
+     "en": "Rain fell",
+     "tr": "Yağmur yağdı"
+    },
+    {
+     "en": "Waves crashed",
+     "tr": "Dalgalar çöktü"
+    },
+    {
+     "en": "Leaves rustled",
+     "tr": "Hışır kalır"
+    },
+    {
+     "en": "Snowflakes danced",
+     "tr": "Kar taneleri dans etti"
+    },
+    {
+     "en": "Clouds drifted",
+     "tr": "Bulutlar sürüklendi"
+    },
+    {
+     "en": "The fire crackled",
+     "tr": "Yangın çatladı"
+    },
+    {
+     "en": "Children played",
+     "tr": "Çocuklar oynadı"
+    },
+    {
+     "en": "Dogs barked",
+     "tr": "Köpekler havladı"
+    },
+    {
+     "en": "Cats purred",
+     "tr": "Kediler mırıldandı"
+    },
+    {
+     "en": "Books lined shelves",
+     "tr": "Kitap kaplı raflar"
+    },
+    {
+     "en": "Music played",
+     "tr": "Müzik çaldı"
+    },
+    {
+     "en": "Clocks ticked",
+     "tr": "Saatler işaretlendi"
+    },
+    {
+     "en": "Tea steeped",
+     "tr": "Çay dik"
+    },
+    {
+     "en": "Dreams lingered",
+     "tr": "Rüyalar devam etti"
+    },
+    {
+     "en": "Wishes whispered",
+     "tr": "Dilekler fısıldadı"
+    },
+    {
+     "en": "Butterflies fluttered",
+     "tr": "Kelebekler çırpındı"
+    },
+    {
+     "en": "Moon glowed",
+     "tr": "Ay parladı"
+    },
+    {
+     "en": "Thunder rumbled",
+     "tr": "Thunder gürledi"
+    },
+    {
+     "en": "Lightning flashed",
+     "tr": "Yıldırım parladı"
+    },
+    {
+     "en": "Shadows danced",
+     "tr": "Gölgeler dans etti"
+    },
+    {
+     "en": "Smiles brightened",
+     "tr": "Gülümsemeler parladı"
+    },
+    {
+     "en": "Hugs comforted",
+     "tr": "Sarılmalar rahat"
+    },
+    {
+     "en": "Laughter echoed",
+     "tr": "Kahkaha yankılandı"
+    },
+    {
+     "en": "Dreams soared",
+     "tr": "Rüyalar yükseldi"
+    },
+    {
+     "en": "Wishes came true",
+     "tr": "Dilekler gerçekleşti"
+    },
+    {
+     "en": "Birds migrated",
+     "tr": "Kuşlar göç etti"
+    },
+    {
+     "en": "Flowers wilted",
+     "tr": "Çiçekler solmuş"
+    },
+    {
+     "en": "Leaves changed",
+     "tr": "Yapraklar değişti"
+    },
+    {
+     "en": "Seasons shifted",
+     "tr": "Mevsimler değişti"
+    },
+    {
+     "en": "Love blossomed",
+     "tr": "Aşk çiçek açtı"
+    },
+    {
+     "en": "Hearts raced",
+     "tr": "Kalpler yarıştı"
+    },
+    {
+     "en": "Tears fell",
+     "tr": "Gözyaşları düştü"
+    },
+    {
+     "en": "Stars aligned",
+     "tr": "Yıldızlar hizalandı"
+    },
+    {
+     "en": "Mountains towered",
+     "tr": "Dağlar yükseldi"
+    },
+    {
+     "en": "Oceans roared",
+     "tr": "Okyanuslar kükredi"
+    },
+    {
+     "en": "Deserts stretched",
+     "tr": "Çöller gerildi"
+    },
+    {
+     "en": "Rivers meandered",
+     "tr": "Nehirler dolambaçlı"
+    },
+    {
+     "en": "Lakes shimmered",
+     "tr": "Göller parladı"
+    },
+    {
+     "en": "Valleys echoed",
+     "tr": "Vadiler yankılandı"
+    },
+    {
+     "en": "Canyons carved",
+     "tr": "Kanyonlar oyulmuş"
+    },
+    {
+     "en": "Meadows flourished",
+     "tr": "Meadows gelişti"
+    },
+    {
+     "en": "Forests whispered",
+     "tr": "Ormanlar fısıldadı"
+    },
+    {
+     "en": "Cities bustled",
+     "tr": "Şehirler patladı"
+    },
+    {
+     "en": "Streets hummed",
+     "tr": "Sokaklar mırıldandı"
+    },
+    {
+     "en": "Buildings soared",
+     "tr": "Binalar yükseldi"
+    },
+    {
+     "en": "Skyscrapers gleamed",
+     "tr": "Gökdelenler parladı"
+    },
+    {
+     "en": "Alleyways twisted",
+     "tr": "Alleyways bükülmüş"
+    },
+    {
+     "en": "Highways stretched",
+     "tr": "Karayolları gerildi"
+    },
+    {
+     "en": "Tunnels curved",
+     "tr": "Tünel kavisli"
+    },
+    {
+     "en": "Bridges spanned",
+     "tr": "Köprüler yayıldı"
+    },
+    {
+     "en": "Cars honked",
+     "tr": "Arabalar honked"
+    },
+    {
+     "en": "Trains rumbled",
+     "tr": "Trenler gürledi"
+    },
+    {
+     "en": "Planes soared",
+     "tr": "Uçaklar yükseldi"
+    },
+    {
+     "en": "Boats sailed",
+     "tr": "Tekneler yelken açtı"
+    },
+    {
+     "en": "Bicycles pedaled",
+     "tr": "Bisiklet pedallendi"
+    },
+    {
+     "en": "Joggers ran",
+     "tr": "Joggers koştu"
+    },
+    {
+     "en": "Walkers strolled",
+     "tr": "Yürüyüşçüler yürüyüşe çıktı"
+    },
+    {
+     "en": "Hikers trekked",
+     "tr": "Yürüyüşçüler trekked"
+    },
+    {
+     "en": "Climbers ascended",
+     "tr": "Dağcılar yükseldi"
+    },
+    {
+     "en": "Skiers glided",
+     "tr": "Kayakçılar kaydı"
+    },
+    {
+     "en": "Swimmers dove",
+     "tr": "Yüzücüler güvercin"
+    },
+    {
+     "en": "Surfers rode",
+     "tr": "Sörfçüler sürdü"
+    },
+    {
+     "en": "Dancers twirled",
+     "tr": "Dansçılar döndü"
+    },
+    {
+     "en": "Actors performed",
+     "tr": "Aktörler performans sergiledi"
+    },
+    {
+     "en": "Musicians played",
+     "tr": "Müzisyenler oynadı"
+    },
+    {
+     "en": "Singers sang",
+     "tr": "Şarkıcılar şarkı söyledi"
+    },
+    {
+     "en": "Painters created",
+     "tr": "Ressamlar yaratıldı"
+    },
+    {
+     "en": "Sculptors molded",
+     "tr": "Heykeltraşlar kalıplanmış"
+    },
+    {
+     "en": "Writers penned",
+     "tr": "Yazarlar kaleme aldı"
+    },
+    {
+     "en": "Poets rhymed",
+     "tr": "Şairler kafiyeli"
+    },
+    {
+     "en": "Thinkers pondered",
+     "tr": "Düşünürler düşündü"
+    },
+    {
+     "en": "Philosophers debated",
+     "tr": "Filozoflar tartıştı"
+    },
+    {
+     "en": "Scientists discovered",
+     "tr": "Bilim adamları keşfetti"
+    },
+    {
+     "en": "Inventors innovated",
+     "tr": "Mucitler yenilik yaptı"
+    },
+    {
+     "en": "Explorers journeyed",
+     "tr": "Kaşifler yolculuk yaptı"
+    },
+    {
+     "en": "Adventurers explored",
+     "tr": "Maceracılar keşfetti"
+    },
+    {
+     "en": "Pioneers forged",
+     "tr": "Öncüler dövüldü"
+    },
+    {
+     "en": "Settlers colonized",
+     "tr": "Yerleşimciler kolonileşti"
+    },
+    {
+     "en": "Revolutionaries rebelled",
+     "tr": "Devrimciler isyan etti"
+    },
+    {
+     "en": "Leaders guided",
+     "tr": "Liderler rehberlik etti"
+    },
+    {
+     "en": "Followers followed",
+     "tr": "Takipçiler takip etti"
+    },
+    {
+     "en": "Rebels resisted",
+     "tr": "İsyancılar direndi"
+    },
+    {
+     "en": "Outcasts wandered",
+     "tr": "Outcasts dolaştı"
+    },
+    {
+     "en": "Heroes emerged",
+     "tr": "Kahramanlar ortaya çıktı"
+    },
+    {
+     "en": "Villains schemed",
+     "tr": "Kötü adamlar planlandı"
+    },
+    {
+     "en": "Saviors rescued",
+     "tr": "Kurtarıcılar kurtarıldı"
+    },
+    {
+     "en": "Miracles happened",
+     "tr": "Mucizeler oldu"
+    },
+    {
+     "en": "Wonders amazed",
+     "tr": "Harikalar şaşırdı"
+    },
+    {
+     "en": "Mysteries intrigued",
+     "tr": "Gizemler ilgi duydu"
+    },
+    {
+     "en": "Secrets whispered",
+     "tr": "Sırlar fısıldadı"
+    },
+    {
+     "en": "Truths revealed",
+     "tr": "Gerçekler ortaya çıktı"
+    },
+    {
+     "en": "Lies exposed",
+     "tr": "Maruz kalır"
+    },
+    {
+     "en": "Deceptions shattered",
+     "tr": "Aldatmalar paramparça oldu"
+    },
+    {
+     "en": "Illusions dispelled",
+     "tr": "Yanılsamalar dağıldı"
+    },
+    {
+     "en": "Realities shifted",
+     "tr": "Gerçekler değişti"
+    },
+    {
+     "en": "Perceptions changed",
+     "tr": "Algılar değişti"
+    },
+    {
+     "en": "Perspectives broadened",
+     "tr": "Perspektifler genişledi"
+    },
+    {
+     "en": "Horizons expanded",
+     "tr": "Ufuklar genişledi"
+    },
+    {
+     "en": "Boundaries blurred",
+     "tr": "Sınırlar bulanık"
+    },
+    {
+     "en": "Limits pushed",
+     "tr": "Sınırlar itildi"
+    },
+    {
+     "en": "Barriers broke",
+     "tr": "Bariyerler kırıldı"
+    },
+    {
+     "en": "Walls crumbled",
+     "tr": "Duvarlar ufalandı"
+    },
+    {
+     "en": "Bridges built",
+     "tr": "Köprüler inşa edildi"
+    },
+    {
+     "en": "Connections formed",
+     "tr": "Bağlantılar oluşturuldu"
+    },
+    {
+     "en": "Relationships strengthened",
+     "tr": "İlişkiler güçlendi"
+    },
+    {
+     "en": "Friendships deepened",
+     "tr": "Arkadaşlıklar derinleşti"
+    },
+    {
+     "en": "Bonds forged",
+     "tr": "Tahviller dövülmüş"
+    },
+    {
+     "en": "Trust earned",
+     "tr": "Kazanılan güven"
+    },
+    {
+     "en": "Loyalties tested",
+     "tr": "Sadakatler test edildi"
+    },
+    {
+     "en": "Promises made",
+     "tr": "Vaatler verildi"
+    },
+    {
+     "en": "Vows exchanged",
+     "tr": "Sözler değiş tokuş etti"
+    },
+    {
+     "en": "Commitments solidified",
+     "tr": "Taahhütler sağlamlaştı"
+    },
+    {
+     "en": "Resolutions kept",
+     "tr": "Kararlar tutulur"
+    },
+    {
+     "en": "Challenges faced",
+     "tr": "Karşılaşılan zorluklar"
+    },
+    {
+     "en": "Obstacles overcome",
+     "tr": "Engellerin üstesinden gelir"
+    },
+    {
+     "en": "Adversities conquered",
+     "tr": "Sıkıntılar fethedildi"
+    },
+    {
+     "en": "Victories celebrated",
+     "tr": "Zaferler kutlandı"
+    },
+    {
+     "en": "Defeats endured",
+     "tr": "Yenilgiler katlandı"
+    },
+    {
+     "en": "Lessons learned",
+     "tr": "Dersler öğrenildi"
+    },
+    {
+     "en": "Wisdom gained",
+     "tr": "Bilgelik kazanıldı"
+    },
+    {
+     "en": "Knowledge shared",
+     "tr": "Bilgi paylaşıldı"
+    },
+    {
+     "en": "Insights gleaned",
+     "tr": "İçgörüler toparlandı"
+    },
+    {
+     "en": "Discoveries made",
+     "tr": "Keşifler yapılmış"
+    },
+    {
+     "en": "Innovations introduced",
+     "tr": "Yenilikler tanıtıldı"
+    },
+    {
+     "en": "Solutions found",
+     "tr": "Çözümler bulundu"
+    },
+    {
+     "en": "Problems solved",
+     "tr": "Sorunlar çözüldü"
+    },
+    {
+     "en": "Progress achieved",
+     "tr": "İlerleme sağlandı"
+    },
+    {
+     "en": "Advancements made",
+     "tr": "İlerlemeler yapıldı"
+    },
+    {
+     "en": "Breakthroughs reached",
+     "tr": "Atılımlar ulaştı"
+    },
+    {
+     "en": "Milestones marked",
+     "tr": "Kilometre taşları işaretlendi"
+    },
+    {
+     "en": "Records set",
+     "tr": "Kayıtlar Set"
+    },
+    {
+     "en": "Standards raised",
+     "tr": "Standartlar yükseltildi"
+    },
+    {
+     "en": "Expectations exceeded",
+     "tr": "Beklentiler aştı"
+    },
+    {
+     "en": "Accomplishments celebrated",
+     "tr": "Başarılar kutlandı"
+    },
+    {
+     "en": "Successes applauded",
+     "tr": "Başarılar alkışlandı"
+    },
+    {
+     "en": "Achievements recognized",
+     "tr": "Başarılar tanındı"
+    },
+    {
+     "en": "Efforts appreciated",
+     "tr": "Çabalar takdir edildi"
+    },
+    {
+     "en": "Hard work acknowledged",
+     "tr": "Sıkı çalışma kabul etti"
+    },
+    {
+     "en": "Dedication honored",
+     "tr": "Özveri onurlandırıldı"
+    },
+    {
+     "en": "Sacrifices remembered",
+     "tr": "Fedakarlıklar hatırlandı"
+    },
+    {
+     "en": "Dreams realized",
+     "tr": "Hayaller gerçekleşti"
+    },
+    {
+     "en": "Aspirations achieved",
+     "tr": "Özlemler elde edildi"
+    },
+    {
+     "en": "Goals accomplished",
+     "tr": "Hedefler gerçekleştirildi"
+    },
+    {
+     "en": "Ambitions pursued",
+     "tr": "Hırslar takip edildi"
+    },
+    {
+     "en": "Paths chosen",
+     "tr": "Seçilen yollar"
+    },
+    {
+     "en": "Journeys embarked",
+     "tr": "Yolculuklar başladı"
+    },
+    {
+     "en": "Destinations reached",
+     "tr": "Destinasyonlar ulaştı"
+    },
+    {
+     "en": "Roads traveled",
+     "tr": "Yollar seyahat etti"
+    },
+    {
+     "en": "Crossroads encountered",
+     "tr": "Crossroads karşılaştı"
+    },
+    {
+     "en": "Choices made",
+     "tr": "Seçimler yapıldı"
+    },
+    {
+     "en": "Risks taken",
+     "tr": "Alınan riskler"
+    },
+    {
+     "en": "Gambles won",
+     "tr": "Gambles kazandı"
+    },
+    {
+     "en": "Losses mourned",
+     "tr": "Kayıplar yaslandı"
+    },
+    {
+     "en": "Regrets acknowledged",
+     "tr": "Pişmanlık kabul etti"
+    },
+    {
+     "en": "Mistakes forgiven",
+     "tr": "Hatalar affedildi"
+    },
+    {
+     "en": "Lessons remembered",
+     "tr": "Dersler hatırlandı"
+    },
+    {
+     "en": "Opportunities seized",
+     "tr": "Fırsatlar ele geçirildi"
+    },
+    {
+     "en": "Chances embraced",
+     "tr": "Şansı kucakladı"
+    },
+    {
+     "en": "Changes embraced",
+     "tr": "Değişimler kucaklandı"
+    },
+    {
+     "en": "Evolutions embraced",
+     "tr": "Evrimler kucaklandı"
+    },
+    {
+     "en": "Adaptations embraced",
+     "tr": "Uyarlamalar benimsedi"
+    },
+    {
+     "en": "Triumphs celebrated",
+     "tr": "Zaferler kutlandı"
+    },
+    {
+     "en": "Victories cherished",
+     "tr": "Zaferler değer kazandı"
+    },
+    {
+     "en": "Blessings counted",
+     "tr": "Nimetler sayıldı"
+    },
+    {
+     "en": "Gratitude expressed",
+     "tr": "Şükran ifade edildi"
+    },
+    {
+     "en": "Kindness shown",
+     "tr": "Nezaket gösterildi"
+    },
+    {
+     "en": "Compassion shared",
+     "tr": "Şefkat paylaştı"
+    },
+    {
+     "en": "Love expressed",
+     "tr": "Aşk ifade edildi"
+    },
+    {
+     "en": "Joy celebrated",
+     "tr": "Joy kutlandı"
+    },
+    {
+     "en": "Peace embraced",
+     "tr": "Barış kucakladı"
+    },
+    {
+     "en": "Harmony restored",
+     "tr": "Harmony restore edildi"
+    },
+    {
+     "en": "Balance achieved",
+     "tr": "Denge elde edildi"
+    },
+    {
+     "en": "Serenity found",
+     "tr": "Serenity bulundu"
+    },
+    {
+     "en": "Tranquility sought",
+     "tr": "Sakinlik arandı"
+    },
+    {
+     "en": "Stillness embraced",
+     "tr": "Durgunluk kucakladı"
+    },
+    {
+     "en": "Silence appreciated",
+     "tr": "Sessizlik takdir edildi"
+    },
+    {
+     "en": "Solitude cherished",
+     "tr": "Yalnızlık aziz"
+    },
+    {
+     "en": "Reflection embraced",
+     "tr": "Yansıma kucaklandı"
+    },
+    {
+     "en": "Meditation practiced",
+     "tr": "Meditasyon uygulandı"
+    },
+    {
+     "en": "Awareness heightened",
+     "tr": "Farkındalık arttı"
+    },
+    {
+     "en": "Connection nurtured",
+     "tr": "Bağlantı beslendi"
+    },
+    {
+     "en": "Unity sought",
+     "tr": "Birlik aradı"
+    },
+    {
+     "en": "Diversity celebrated",
+     "tr": "Çeşitlilik kutlandı"
+    },
+    {
+     "en": "Inclusion valued",
+     "tr": "İçerme değerlendi"
+    },
+    {
+     "en": "Empathy practiced",
+     "tr": "Empati uygulandı"
+    },
+    {
+     "en": "Understanding sought",
+     "tr": "Arama arandı"
+    },
+    {
+     "en": "Respect given",
+     "tr": "Verilen saygı"
+    },
+    {
+     "en": "Dignity upheld",
+     "tr": "Haysiyet onaylandı"
+    },
+    {
+     "en": "Integrity valued",
+     "tr": "Dürüstlük değerlenir"
+    },
+    {
+     "en": "Honesty appreciated",
+     "tr": "Dürüstlük takdir etti"
+    },
+    {
+     "en": "Authenticity embraced",
+     "tr": "Özgünlük kucaklandı"
+    },
+    {
+     "en": "Vulnerability acknowledged",
+     "tr": "Güvenlik açığı kabul edildi"
+    },
+    {
+     "en": "Courage practiced",
+     "tr": "Cesaret uygulandı"
+    },
+    {
+     "en": "Resilience cultivated",
+     "tr": "Esneklik yetiştirildi"
+    },
+    {
+     "en": "Strength found",
+     "tr": "Güç bulundu"
+    },
+    {
+     "en": "Weaknesses accepted",
+     "tr": "Zayıf yönler kabul edildi"
+    },
+    {
+     "en": "Imperfections embraced",
+     "tr": "Kusurlar kucaklandı"
+    },
+    {
+     "en": "Flaws celebrated",
+     "tr": "Kusurlar kutlandı"
+    },
+    {
+     "en": "Growth valued",
+     "tr": "Büyüme değerli"
+    },
+    {
+     "en": "Learning prioritized",
+     "tr": "Öğrenme öncelikli"
+    },
+    {
+     "en": "Knowledge pursued",
+     "tr": "Takip edilen bilgi"
+    },
+    {
+     "en": "Wisdom sought",
+     "tr": "Bilgelik arandı"
+    },
+    {
+     "en": "Truth valued",
+     "tr": "Gerçek değerlendi"
+    },
+    {
+     "en": "Honesty embraced",
+     "tr": "Dürüstlük kucakladı"
+    },
+    {
+     "en": "Transparency valued",
+     "tr": "Şeffaflık değerlendi"
+    },
+    {
+     "en": "Authenticity prioritized",
+     "tr": "Özgünlük önceliklendirildi"
+    },
+    {
+     "en": "Sincerity cherished",
+     "tr": "Samimiyet aziz"
+    },
+    {
+     "en": "Trust nurtured",
+     "tr": "Güven beslendi"
+    },
+    {
+     "en": "Loyalty cherished",
+     "tr": "Sadakat azaltılmış"
+    },
+    {
+     "en": "Commitment honored",
+     "tr": "Taahhüt onurlandırıldı"
+    },
+    {
+     "en": "Promises kept",
+     "tr": "Vaatler tutulur"
+    },
+    {
+     "en": "Agreements upheld",
+     "tr": "Anlaşmalar onaylandı"
+    },
+    {
+     "en": "Boundaries respected",
+     "tr": "Sınırlara saygı duyuldu"
+    },
+    {
+     "en": "Consent prioritized",
+     "tr": "Onay öncelikli"
+    },
+    {
+     "en": "Autonomy respected",
+     "tr": "Özerklik saygı duyuldu"
+    },
+    {
+     "en": "Independence valued",
+     "tr": "Bağımsızlık değerlendi"
+    },
+    {
+     "en": "Interdependence recognized",
+     "tr": "Karşıt bağımlılık tanındı"
+    },
+    {
+     "en": "Collaboration embraced",
+     "tr": "İşbirliği benimsedi"
+    },
+    {
+     "en": "Cooperation valued",
+     "tr": "İşbirliği değerlendi"
+    },
+    {
+     "en": "Partnership cherished",
+     "tr": "Ortaklık aziz"
+    },
+    {
+     "en": "Teamwork celebrated",
+     "tr": "Takım çalışması kutlandı"
+    },
+    {
+     "en": "Community nurtured",
+     "tr": "Topluluk beslendi"
+    },
+    {
+     "en": "Belonging embraced",
+     "tr": "Aidiyet kucakladı"
+    },
+    {
+     "en": "Inclusion prioritized",
+     "tr": "Dahil etme öncelikli"
+    },
+    {
+     "en": "Diversity celebrated",
+     "tr": "Çeşitlilik kutlandı"
+    },
+    {
+     "en": "Equity pursued",
+     "tr": "Eşitlik peşinde"
+    },
+    {
+     "en": "Justice upheld",
+     "tr": "Adalet onaylandı"
+    },
+    {
+     "en": "Fairness valued",
+     "tr": "Adalet değerlendi"
+    },
+    {
+     "en": "Compassion practiced",
+     "tr": "Şefkat uygulandı"
+    },
+    {
+     "en": "Empathy nurtured",
+     "tr": "Empati beslendi"
+    },
+    {
+     "en": "Kindness shown",
+     "tr": "Nezaket gösterildi"
+    },
+    {
+     "en": "Generosity celebrated",
+     "tr": "Cömertlik kutlandı"
+    },
+    {
+     "en": "Altruism practiced",
+     "tr": "Fedakarlık uygulandı"
+    },
+    {
+     "en": "Philanthropy embraced",
+     "tr": "Hayırseverlik kucakladı"
+    },
+    {
+     "en": "Service valued",
+     "tr": "Hizmet Değerli"
+    },
+    {
+     "en": "Giving prioritized",
+     "tr": "Öncelikli vermek"
+    },
+    {
+     "en": "Charity celebrated",
+     "tr": "Hayırseverlik kutlandı"
+    },
+    {
+     "en": "Assistance offered",
+     "tr": "Yardım teklif edildi"
+    },
+    {
+     "en": "Support provided",
+     "tr": "Destek sağlandı"
+    },
+    {
+     "en": "Help extended",
+     "tr": "Yardım genişletildi"
+    },
+    {
+     "en": "Encouragement given",
+     "tr": "Verilen cesaret"
+    },
+    {
+     "en": "Motivation shared",
+     "tr": "Motivasyon paylaşıldı"
+    },
+    {
+     "en": "Inspiration celebrated",
+     "tr": "İlham kutlandı"
+    },
+    {
+     "en": "Creativity nurtured",
+     "tr": "Yaratıcılık beslendi"
+    },
+    {
+     "en": "Imagination valued",
+     "tr": "Hayal gücü değerlendi"
+    },
+    {
+     "en": "Innovation celebrated",
+     "tr": "İnovasyon kutlandı"
+    },
+    {
+     "en": "Ingenuity embraced",
+     "tr": "Yaratıcılık kucaklandı"
+    },
+    {
+     "en": "Resourcefulness valued",
+     "tr": "Beceriklilik değerlendi"
+    },
+    {
+     "en": "Problem-solving prioritized",
+     "tr": "Problem çözme önceliklendirildi"
+    },
+    {
+     "en": "Solutions sought",
+     "tr": "Çözümler arandı"
+    },
+    {
+     "en": "Adaptability valued",
+     "tr": "Uyarlanabilirlik değerlendi"
+    },
+    {
+     "en": "Flexibility embraced",
+     "tr": "Esneklik kucaklandı"
+    },
+    {
+     "en": "Open-mindedness nurtured",
+     "tr": "Açık fikirlilik beslendi"
+    },
+    {
+     "en": "Curiosity celebrated",
+     "tr": "Merak kutlandı"
+    },
+    {
+     "en": "Exploration encouraged",
+     "tr": "Keşif teşvik edildi"
+    },
+    {
+     "en": "Discovery valued",
+     "tr": "Keşif değerlendi"
+    },
+    {
+     "en": "Learning celebrated",
+     "tr": "Öğrenme kutlandı"
+    },
+    {
+     "en": "Education prioritized",
+     "tr": "Eğitim öncelikli"
+    },
+    {
+     "en": "Growth embraced",
+     "tr": "Büyüme kucakladı"
+    },
+    {
+     "en": "Development nurtured",
+     "tr": "Geliştirme beslendi"
+    },
+    {
+     "en": "Progress celebrated",
+     "tr": "İlerleme kutlandı"
+    },
+    {
+     "en": "Achievement acknowledged",
+     "tr": "Başarı kabul etti"
+    },
+    {
+     "en": "Success celebrated",
+     "tr": "Başarı kutlandı"
+    },
+    {
+     "en": "Excellence pursued",
+     "tr": "Mükemmellik izledi"
+    },
+    {
+     "en": "Mastery valued",
+     "tr": "Ustalık değerlendi"
+    },
+    {
+     "en": "Competence acknowledged",
+     "tr": "Yetkinlik kabul etti"
+    },
+    {
+     "en": "Confidence nurtured",
+     "tr": "Güven beslendi"
+    },
+    {
+     "en": "Self-esteem celebrated",
+     "tr": "Benlik saygısı kutlandı"
+    },
+    {
+     "en": "Self-worth acknowledged",
+     "tr": "Kendi kendine değer kabul etti"
+    },
+    {
+     "en": "Self-compassion embraced",
+     "tr": "Kendine şefkat kucakladı"
+    },
+    {
+     "en": "Self-care prioritized",
+     "tr": "Öz bakım öncelikli"
+    },
+    {
+     "en": "Well-being celebrated",
+     "tr": "Refah kutlandı"
+    },
+    {
+     "en": "Health prioritized",
+     "tr": "Sağlık öncelikli"
+    },
+    {
+     "en": "Wellness valued",
+     "tr": "Sağlıklı sağlık"
+    },
+    {
+     "en": "Vitality celebrated",
+     "tr": "Vitality kutlandı"
+    },
+    {
+     "en": "Energy embraced",
+     "tr": "Enerji kucaklandı"
+    },
+    {
+     "en": "Rest prioritized",
+     "tr": "REST öncelikli"
+    },
+    {
+     "en": "Relaxation valued",
+     "tr": "Gevşeme değerli"
+    },
+    {
+     "en": "Rejuvenation celebrated",
+     "tr": "Gençleşme kutlandı"
+    },
+    {
+     "en": "Recreation embraced",
+     "tr": "Rekreasyon kucaklandı"
+    },
+    {
+     "en": "Leisure cherished",
+     "tr": "Boş zaman değer kazandı"
+    },
+    {
+     "en": "Play celebrated",
+     "tr": "Oyun kutlandı"
+    },
+    {
+     "en": "Fun prioritized",
+     "tr": "Eğlence öncelikli"
+    },
+    {
+     "en": "Enjoyment valued",
+     "tr": "Zevk değerlendi"
+    },
+    {
+     "en": "Pleasure celebrated",
+     "tr": "Zevk kutlandı"
+    },
+    {
+     "en": "Happiness pursued",
+     "tr": "Mutluluk peşinde"
+    },
+    {
+     "en": "Joy celebrated",
+     "tr": "Joy kutlandı"
+    },
+    {
+     "en": "Contentment valued",
+     "tr": "Memnuniyet değerlendi"
+    },
+    {
+     "en": "Fulfillment embraced",
+     "tr": "Yerine getirme kucaklandı"
+    },
+    {
+     "en": "Satisfaction celebrated",
+     "tr": "Memnuniyet kutlandı"
+    },
+    {
+     "en": "Gratitude practiced",
+     "tr": "Minnettarlık uygulandı"
+    },
+    {
+     "en": "Appreciation expressed",
+     "tr": "Takdir ifade edildi"
+    },
+    {
+     "en": "Abundance celebrated",
+     "tr": "Bolluk kutlandı"
+    },
+    {
+     "en": "Prosperity acknowledged",
+     "tr": "Refah kabul etti"
+    },
+    {
+     "en": "Wealth valued",
+     "tr": "Servet değerlendi"
+    },
+    {
+     "en": "Resources celebrated",
+     "tr": "Kaynaklar kutlandı"
+    },
+    {
+     "en": "Possessions cherished",
+     "tr": "Mallar değer kazandı"
+    },
+    {
+     "en": "Materialism questioned",
+     "tr": "Materyalizm sorgulandı"
+    },
+    {
+     "en": "Minimalism embraced",
+     "tr": "Minimalizm kucaklandı"
+    },
+    {
+     "en": "Simplicity valued",
+     "tr": "Sadelik değerlendi"
+    },
+    {
+     "en": "Essentialism celebrated",
+     "tr": "Özcülük kutlandı"
+    },
+    {
+     "en": "Clarity sought",
+     "tr": "Netlik arandı"
+    },
+    {
+     "en": "Focus prioritized",
+     "tr": "Odak öncelikli"
+    },
+    {
+     "en": "Presence valued",
+     "tr": "Varlık değerlendi"
+    },
+    {
+     "en": "Consciousness celebrated",
+     "tr": "Bilinç kutlandı"
+    },
+    {
+     "en": "Enlightenment pursued",
+     "tr": "Aydınlanma izledi"
+    },
+    {
+     "en": "Awakening celebrated",
+     "tr": "Uyanış kutlandı"
+    },
+    {
+     "en": "Transformation embraced",
+     "tr": "Dönüşüm kucaklandı"
+    },
+    {
+     "en": "Evolution celebrated",
+     "tr": "Evrim kutlandı"
+    },
+    {
+     "en": "Growth valued",
+     "tr": "Büyüme değerli"
+    },
+    {
+     "en": "Development prioritized",
+     "tr": "Geliştirme öncelikli"
+    },
+    {
+     "en": "Self-discovery celebrated",
+     "tr": "Kendini keşfetme kutlandı"
+    },
+    {
+     "en": "Identity acknowledged",
+     "tr": "Kimlik kabul etti"
+    },
+    {
+     "en": "Authenticity embraced",
+     "tr": "Özgünlük kucaklandı"
+    },
+    {
+     "en": "Individuality celebrated",
+     "tr": "Bireysellik kutlandı"
+    },
+    {
+     "en": "Uniqueness valued",
+     "tr": "Benzersizlik değerlendi"
+    },
+    {
+     "en": "Diversity celebrated",
+     "tr": "Çeşitlilik kutlandı"
+    },
+    {
+     "en": "Inclusivity prioritized",
+     "tr": "Kapsayıcılık Öncelikli"
+    },
+    {
+     "en": "Belonging acknowledged",
+     "tr": "Aidiyet kabul etti"
+    },
+    {
+     "en": "Community celebrated",
+     "tr": "Topluluk kutlandı"
+    },
+    {
+     "en": "Connection nurtured",
+     "tr": "Bağlantı beslendi"
+    },
+    {
+     "en": "Relationships prioritized",
+     "tr": "İlişkiler öncelikli"
+    },
+    {
+     "en": "Communication valued",
+     "tr": "İletişim değerli"
+    },
+    {
+     "en": "Understanding nurtured",
+     "tr": "Beslenen anlama"
+    },
+    {
+     "en": "Empathy celebrated",
+     "tr": "Empati kutlandı"
+    },
+    {
+     "en": "Compassion prioritized",
+     "tr": "Şefkat önceliklendirildi"
+    },
+    {
+     "en": "Kindness embraced",
+     "tr": "Nezaket kucakladı"
+    },
+    {
+     "en": "Love celebrated",
+     "tr": "Aşk kutlandı"
+    },
+    {
+     "en": "Affection expressed",
+     "tr": "Sevgi ifade edildi"
+    },
+    {
+     "en": "Intimacy valued",
+     "tr": "Samimiyet değerlendi"
+    },
+    {
+     "en": "Trust prioritized",
+     "tr": "Güven öncelikli"
+    },
+    {
+     "en": "Loyalty celebrated",
+     "tr": "Sadakat kutlandı"
+    },
+    {
+     "en": "Commitment valued",
+     "tr": "Taahhüt değerlendi"
+    },
+    {
+     "en": "Partnership embraced",
+     "tr": "Ortaklık kucakladı"
+    },
+    {
+     "en": "Collaboration celebrated",
+     "tr": "İşbirliği kutlandı"
+    },
+    {
+     "en": "Cooperation valued",
+     "tr": "İşbirliği değerlendi"
+    },
+    {
+     "en": "Teamwork prioritized",
+     "tr": "Ekip çalışması öncelikli"
+    },
+    {
+     "en": "Friendship celebrated",
+     "tr": "Arkadaşlık kutlandı"
+    },
+    {
+     "en": "Companionship cherished",
+     "tr": "Arkadaşlık aziz"
+    },
+    {
+     "en": "Camaraderie valued",
+     "tr": "Camaraderie değer verdi"
+    },
+    {
+     "en": "Support nurtured",
+     "tr": "Destek beslendi"
+    },
+    {
+     "en": "Encouragement celebrated",
+     "tr": "Teşvik kutlandı"
+    },
+    {
+     "en": "Motivation valued",
+     "tr": "Motivasyon değerlendi"
+    },
+    {
+     "en": "Inspiration embraced",
+     "tr": "İlham kucaklandı"
+    },
+    {
+     "en": "Creativity celebrated",
+     "tr": "Yaratıcılık kutlandı"
+    },
+    {
+     "en": "Innovation prioritized",
+     "tr": "İnovasyon önceliklendirildi"
+    },
+    {
+     "en": "Ingenuity nurtured",
+     "tr": "Yaratıcılık beslendi"
+    },
+    {
+     "en": "Resourcefulness celebrated",
+     "tr": "Beceriklilik kutlandı"
+    },
+    {
+     "en": "Problem-solving embraced",
+     "tr": "Problem çözme kucaklandı"
+    },
+    {
+     "en": "Solutions prioritized",
+     "tr": "Çözümler öncelikli"
+    },
+    {
+     "en": "Adaptability valued",
+     "tr": "Uyarlanabilirlik değerlendi"
+    },
+    {
+     "en": "Flexibility celebrated",
+     "tr": "Esneklik kutlandı"
+    },
+    {
+     "en": "Open-mindedness nurtured",
+     "tr": "Açık fikirlilik beslendi"
+    },
+    {
+     "en": "Curiosity celebrated",
+     "tr": "Merak kutlandı"
+    },
+    {
+     "en": "Exploration prioritized",
+     "tr": "Keşif öncelikli"
+    },
+    {
+     "en": "Discovery valued",
+     "tr": "Keşif değerlendi"
+    },
+    {
+     "en": "Learning celebrated",
+     "tr": "Öğrenme kutlandı"
+    },
+    {
+     "en": "Education prioritized",
+     "tr": "Eğitim öncelikli"
+    },
+    {
+     "en": "Growth embraced",
+     "tr": "Büyüme kucakladı"
+    },
+    {
+     "en": "Development nurtured",
+     "tr": "Geliştirme beslendi"
+    },
+    {
+     "en": "Progress celebrated",
+     "tr": "İlerleme kutlandı"
+    },
+    {
+     "en": "Achievement acknowledged",
+     "tr": "Başarı kabul etti"
+    },
+    {
+     "en": "Success celebrated",
+     "tr": "Başarı kutlandı"
+    },
+    {
+     "en": "Excellence pursued",
+     "tr": "Mükemmellik izledi"
+    },
+    {
+     "en": "Mastery valued",
+     "tr": "Ustalık değerlendi"
+    },
+    {
+     "en": "Competence acknowledged",
+     "tr": "Yetkinlik kabul etti"
+    },
+    {
+     "en": "Confidence nurtured",
+     "tr": "Güven beslendi"
+    },
+    {
+     "en": "Self-esteem celebrated",
+     "tr": "Benlik saygısı kutlandı"
+    },
+    {
+     "en": "Self-worth acknowledged",
+     "tr": "Kendi kendine değer kabul etti"
+    },
+    {
+     "en": "Self-compassion embraced",
+     "tr": "Kendine şefkat kucakladı"
+    },
+    {
+     "en": "Self-care prioritized",
+     "tr": "Öz bakım öncelikli"
+    },
+    {
+     "en": "Well-being celebrated",
+     "tr": "Refah kutlandı"
+    },
+    {
+     "en": "Health prioritized",
+     "tr": "Sağlık öncelikli"
+    },
+    {
+     "en": "Wellness valued",
+     "tr": "Sağlıklı sağlık"
+    },
+    {
+     "en": "Vitality celebrated",
+     "tr": "Vitality kutlandı"
+    },
+    {
+     "en": "Energy embraced",
+     "tr": "Enerji kucaklandı"
+    },
+    {
+     "en": "Rest prioritized",
+     "tr": "REST öncelikli"
+    },
+    {
+     "en": "Relaxation valued",
+     "tr": "Gevşeme değerli"
+    },
+    {
+     "en": "Rejuvenation celebrated",
+     "tr": "Gençleşme kutlandı"
+    },
+    {
+     "en": "Recreation embraced",
+     "tr": "Rekreasyon kucaklandı"
+    },
+    {
+     "en": "Leisure cherished",
+     "tr": "Boş zaman değer kazandı"
+    },
+    {
+     "en": "Play celebrated",
+     "tr": "Oyun kutlandı"
+    },
+    {
+     "en": "Fun prioritized",
+     "tr": "Eğlence öncelikli"
+    },
+    {
+     "en": "Enjoyment valued",
+     "tr": "Zevk değerlendi"
+    },
+    {
+     "en": "Pleasure celebrated",
+     "tr": "Zevk kutlandı"
+    },
+    {
+     "en": "Happiness pursued",
+     "tr": "Mutluluk peşinde"
+    },
+    {
+     "en": "Joy celebrated",
+     "tr": "Joy kutlandı"
+    },
+    {
+     "en": "Contentment valued",
+     "tr": "Memnuniyet değerlendi"
+    },
+    {
+     "en": "Fulfillment embraced",
+     "tr": "Yerine getirme kucaklandı"
+    },
+    {
+     "en": "Satisfaction celebrated",
+     "tr": "Memnuniyet kutlandı"
+    },
+    {
+     "en": "Gratitude practiced",
+     "tr": "Minnettarlık uygulandı"
+    },
+    {
+     "en": "Appreciation expressed",
+     "tr": "Takdir ifade edildi"
+    },
+    {
+     "en": "Abundance celebrated",
+     "tr": "Bolluk kutlandı"
+    },
+    {
+     "en": "Prosperity acknowledged",
+     "tr": "Refah kabul etti"
+    },
+    {
+     "en": "Wealth valued",
+     "tr": "Servet değerlendi"
+    },
+    {
+     "en": "Resources celebrated",
+     "tr": "Kaynaklar kutlandı"
+    },
+    {
+     "en": "Possessions cherished",
+     "tr": "Mallar değer kazandı"
+    },
+    {
+     "en": "Evolution celebrated",
+     "tr": "Evrim kutlandı"
+    },
+    {
+     "en": "Growth valued",
+     "tr": "Büyüme değerli"
+    },
+    {
+     "en": "Development prioritized",
+     "tr": "Geliştirme öncelikli"
+    },
+    {
+     "en": "Self-discovery celebrated",
+     "tr": "Kendini keşfetme kutlandı"
+    },
+    {
+     "en": "Identity acknowledged",
+     "tr": "Kimlik kabul etti"
+    },
+    {
+     "en": "Authenticity embraced",
+     "tr": "Özgünlük kucaklandı"
+    },
+    {
+     "en": "Individuality celebrated",
+     "tr": "Bireysellik kutlandı"
+    },
+    {
+     "en": "Uniqueness valued",
+     "tr": "Benzersizlik değerlendi"
+    },
+    {
+     "en": "Diversity celebrated",
+     "tr": "Çeşitlilik kutlandı"
+    },
+    {
+     "en": "Inclusivity prioritized",
+     "tr": "Kapsayıcılık Öncelikli"
+    },
+    {
+     "en": "Belonging acknowledged",
+     "tr": "Aidiyet kabul etti"
+    },
+    {
+     "en": "Community celebrated",
+     "tr": "Topluluk kutlandı"
+    },
+    {
+     "en": "Connection nurtured",
+     "tr": "Bağlantı beslendi"
+    },
+    {
+     "en": "Relationships prioritized",
+     "tr": "İlişkiler öncelikli"
+    },
+    {
+     "en": "Communication valued",
+     "tr": "İletişim değerli"
+    },
+    {
+     "en": "Understanding nurtured",
+     "tr": "Beslenen anlama"
+    },
+    {
+     "en": "Empathy celebrated",
+     "tr": "Empati kutlandı"
+    },
+    {
+     "en": "Compassion prioritized",
+     "tr": "Şefkat önceliklendirildi"
+    },
+    {
+     "en": "Kindness embraced",
+     "tr": "Nezaket kucakladı"
+    },
+    {
+     "en": "Love celebrated",
+     "tr": "Aşk kutlandı"
+    },
+    {
+     "en": "Affection expressed",
+     "tr": "Sevgi ifade edildi"
+    },
+    {
+     "en": "Intimacy valued",
+     "tr": "Samimiyet değerlendi"
+    },
+    {
+     "en": "Trust prioritized",
+     "tr": "Güven öncelikli"
+    },
+    {
+     "en": "Loyalty celebrated",
+     "tr": "Sadakat kutlandı"
+    },
+    {
+     "en": "Commitment valued",
+     "tr": "Taahhüt değerlendi"
+    },
+    {
+     "en": "Partnership embraced",
+     "tr": "Ortaklık kucakladı"
+    },
+    {
+     "en": "Collaboration celebrated",
+     "tr": "İşbirliği kutlandı"
+    },
+    {
+     "en": "Cooperation valued",
+     "tr": "İşbirliği değerlendi"
+    },
+    {
+     "en": "Teamwork prioritized",
+     "tr": "Ekip çalışması öncelikli"
+    },
+    {
+     "en": "Friendship celebrated",
+     "tr": "Arkadaşlık kutlandı"
+    },
+    {
+     "en": "Companionship cherished",
+     "tr": "Arkadaşlık aziz"
+    },
+    {
+     "en": "Camaraderie valued",
+     "tr": "Camaraderie değer verdi"
+    },
+    {
+     "en": "Support nurtured",
+     "tr": "Destek beslendi"
+    },
+    {
+     "en": "Encouragement celebrated",
+     "tr": "Teşvik kutlandı"
+    },
+    {
+     "en": "Motivation valued",
+     "tr": "Motivasyon değerlendi"
+    },
+    {
+     "en": "Inspiration embraced",
+     "tr": "İlham kucaklandı"
+    },
+    {
+     "en": "Creativity celebrated",
+     "tr": "Yaratıcılık kutlandı"
+    },
+    {
+     "en": "Innovation prioritized",
+     "tr": "İnovasyon önceliklendirildi"
+    },
+    {
+     "en": "Ingenuity nurtured",
+     "tr": "Yaratıcılık beslendi"
+    },
+    {
+     "en": "Resourcefulness celebrated",
+     "tr": "Beceriklilik kutlandı"
+    },
+    {
+     "en": "Problem-solving embraced",
+     "tr": "Problem çözme kucaklandı"
+    },
+    {
+     "en": "Solutions prioritized",
+     "tr": "Çözümler öncelikli"
+    },
+    {
+     "en": "Adaptability valued",
+     "tr": "Uyarlanabilirlik değerlendi"
+    },
+    {
+     "en": "Flexibility celebrated",
+     "tr": "Esneklik kutlandı"
+    },
+    {
+     "en": "Open-mindedness nurtured",
+     "tr": "Açık fikirlilik beslendi"
+    },
+    {
+     "en": "Curiosity celebrated",
+     "tr": "Merak kutlandı"
+    },
+    {
+     "en": "Exploration prioritized",
+     "tr": "Keşif öncelikli"
+    },
+    {
+     "en": "Discovery valued",
+     "tr": "Keşif değerlendi"
+    },
+    {
+     "en": "Learning celebrated",
+     "tr": "Öğrenme kutlandı"
+    },
+    {
+     "en": "Education prioritized",
+     "tr": "Eğitim öncelikli"
+    },
+    {
+     "en": "Growth embraced",
+     "tr": "Büyüme kucakladı"
+    },
+    {
+     "en": "Development nurtured",
+     "tr": "Geliştirme beslendi"
+    },
+    {
+     "en": "Progress celebrated",
+     "tr": "İlerleme kutlandı"
+    },
+    {
+     "en": "Achievement acknowledged",
+     "tr": "Başarı kabul etti"
+    },
+    {
+     "en": "Success celebrated",
+     "tr": "Başarı kutlandı"
+    },
+    {
+     "en": "Excellence pursued",
+     "tr": "Mükemmellik izledi"
+    },
+    {
+     "en": "Mastery valued",
+     "tr": "Ustalık değerlendi"
+    },
+    {
+     "en": "Competence acknowledged",
+     "tr": "Yetkinlik kabul etti"
+    },
+    {
+     "en": "Confidence nurtured",
+     "tr": "Güven beslendi"
+    },
+    {
+     "en": "Self-esteem celebrated",
+     "tr": "Benlik saygısı kutlandı"
+    },
+    {
+     "en": "Self-worth acknowledged",
+     "tr": "Kendi kendine değer kabul etti"
+    },
+    {
+     "en": "Self-compassion embraced",
+     "tr": "Kendine şefkat kucakladı"
+    },
+    {
+     "en": "Self-care prioritized",
+     "tr": "Öz bakım öncelikli"
+    },
+    {
+     "en": "Well-being celebrated",
+     "tr": "Refah kutlandı"
+    },
+    {
+     "en": "Health prioritized",
+     "tr": "Sağlık öncelikli"
+    },
+    {
+     "en": "Wellness valued",
+     "tr": "Sağlıklı sağlık"
+    },
+    {
+     "en": "Vitality celebrated",
+     "tr": "Vitality kutlandı"
+    },
+    {
+     "en": "Energy embraced",
+     "tr": "Enerji kucaklandı"
+    },
+    {
+     "en": "Rest prioritized",
+     "tr": "REST öncelikli"
+    },
+    {
+     "en": "Relaxation valued",
+     "tr": "Gevşeme değerli"
+    },
+    {
+     "en": "Rejuvenation celebrated",
+     "tr": "Gençleşme kutlandı"
+    },
+    {
+     "en": "Recreation embraced",
+     "tr": "Rekreasyon kucaklandı"
+    },
+    {
+     "en": "Leisure cherished",
+     "tr": "Boş zaman değer kazandı"
+    }
+   ]
+
+}

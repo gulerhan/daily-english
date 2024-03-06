@@ -1,3 +1,68 @@
-<p>
-  sentence-translate works!
-</p>
+<ion-card>
+  <ion-card-header class="cardTop">
+    <img
+      alt="Silhouette of mountains"
+      src="https://ionicframework.com/docs/img/demos/card-media.png"
+    />
+    <ion-card-title class="cardTitle">{{ selectedSentence.en }}</ion-card-title>
+  </ion-card-header>
+</ion-card>
+
+<ion-row class="optionsContainer" style="position: relative">
+  <div class="optionsLine"></div>
+  <div class="optionsLine"></div>
+  <div class="optionsDrag">
+    <ion-button
+      *ngFor="let item of answers; let i = index"
+      expand="full"
+      color="dark"
+      class="selectedOptionsBtn"
+      (click)="removeAnswer(item, i)"
+      >{{ item }}</ion-button
+    >
+  </div>
+</ion-row>
+
+<ion-row class="optionsContainer">
+  <ion-button
+    *ngFor="let item of options; let i = index"
+    expand="full"
+    color="dark"
+    class="selectedOptionsBtn"
+    (click)="clickedAnswer(item, i)"
+    >{{ item }}</ion-button
+  >
+</ion-row>
+
+<div class="actions">
+  <ion-button color="dark" class="ımgActionsBtn" (click)="handleAnswer()"
+    >Kontrol et</ion-button
+  >
+  <ion-button id="present-alert" color="danger" class="finishGame"
+    >Oyunu bitir</ion-button
+  >
+  <ion-alert
+    trigger="present-alert"
+    [buttons]="alertButtons"
+    header="Oyunu bitirmek istiyor musun ?"
+  ></ion-alert>
+</div>
+
+<ion-toast
+  [isOpen]="showInfo"
+  [message]="messageInfo"
+  [duration]="700"
+  (didDismiss)="setOpen(false)"
+  color="success"
+  class="toasts"
+></ion-toast>
+
+<ion-toast
+  [isOpen]="showFalse"
+  [message]="messageFalse"
+  [duration]="700"
+  (didDismiss)="setOpen(false)"
+  color="danger"
+  [class.shake]="wrongAnswer"
+  class="toasts"
+></ion-toast>

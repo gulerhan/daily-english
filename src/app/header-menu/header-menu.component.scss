@@ -19,6 +19,7 @@ body{
   text-align: center;
   transition: 0.5s;
   z-index: 1;
+  margin-top: 15px;
 
  &:after {
     content: '';
@@ -54,4 +55,22 @@ body{
   flex-direction: row-reverse;
 }
 
+.gamesAccordion{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 40px;
+}
 
+
+.bgAccordion{
+  padding-top: 10px;
+  background-color: #1D1F20;
+  border-radius: 5px;
+}
+
+.ion-padding{
+  display: grid;
+  grid-template-columns: 130px 130px;
+  gap: 20px;
+}

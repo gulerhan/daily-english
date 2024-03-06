@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { DEWord, WordsResponse, WordsService } from '../services/words.service';
-import { animate, state, style, transition, trigger } from '@angular/animations';
+import { animate, style, transition, trigger } from '@angular/animations';
 
   @Component({
     selector: 'app-word-match',
@@ -118,24 +118,24 @@ import { animate, state, style, transition, trigger } from '@angular/animations'
 
     handlerAnswer(){
       if(this.selectedOption?.en.toLocaleLowerCase() === this.selectedWord.en.toLocaleLowerCase()){
-      this.showInfo = true;
-      this.showFalse = false;
-      this.messageInfo = "Doğru";
-      this.setSelectedWord();
-      this.showCard = false;
+          this.showInfo = true;
+          this.showFalse = false;
+          this.messageInfo = "Doğru";
+          this.setSelectedWord();
+          this.showCard = false;
       setTimeout(() => {
-        this.showCard = true;
+          this.showCard = true;
       }, 400);
       }else{
-      this.showInfo = false;
-      this.showFalse = true;
-      this.wrongAnswer = true;
-      setTimeout(() => {
-        this.wrongAnswer = false;
+          this.showInfo = false;
+          this.showFalse = true;
+          this.wrongAnswer = true;
+          setTimeout(() => {
+            this.wrongAnswer = false;
       }, 300);
-        this.messageFalse = "Yanlış"
+          this.messageFalse = "Yanlış"
 
-    }
+       }
       }
     }
 

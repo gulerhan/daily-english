@@ -1,0 +1,2002 @@
+{
+  "sentences":
+  [
+    {
+     "en": "Hopeful dreams inspire endless possibilities",
+     "tr": "Umutlu rüyalar sonsuz olasılıklara ilham verir"
+    },
+    {
+     "en": "Bittersweet memories linger in the mind",
+     "tr": "Acı tatlı anılar akılda kalıyor"
+    },
+    {
+     "en": "Genuine friendship enriches the soul",
+     "tr": "Gerçek dostluk ruhu zenginleştirir"
+    },
+    {
+     "en": "Deep love binds hearts together forever",
+     "tr": "Derin aşk kalpleri sonsuza dek birbirine bağlar"
+    },
+    {
+     "en": "Tall trees sway in the gentle breeze",
+     "tr": "Uzun ağaçlar nazik esinti içinde sallanır"
+    },
+    {
+     "en": "The Earth silently spins on its axis",
+     "tr": "Dünya sessizce eksenine döner"
+    },
+    {
+     "en": "Celestial stars align in the night sky",
+     "tr": "Göksel yıldızlar gece gökyüzünde hizalanır"
+    },
+    {
+     "en": "Majestic rivers carve through mountains",
+     "tr": "Görkemli nehirler dağlardan geçiyor"
+    },
+    {
+     "en": "Towering mountains reach for the sky",
+     "tr": "Yüksek dağlar gökyüzüne ulaşır"
+    },
+    {
+     "en": "Vast oceans stretch across the horizon",
+     "tr": "Geniş okyanuslar ufukta uzanıyor"
+    },
+    {
+     "en": "Endless skies stretch out overhead",
+     "tr": "Sonsuz gökyüzü tepeden uzanır"
+    },
+    {
+     "en": "Vibrant sunsets paint the evening sky",
+     "tr": "Canlı gün batımı akşam gökyüzünü boyar"
+    },
+    {
+     "en": "Brilliant rainbows arc after the storm",
+     "tr": "Fırtınadan sonra parlak gökkuşağı yay"
+    },
+    {
+     "en": "Dark clouds gather on the horizon",
+     "tr": "Kara bulutlar ufukta toplanır"
+    },
+    {
+     "en": "Flocks of birds migrate to warmer lands",
+     "tr": "Kuş sürüleri daha sıcak topraklara göç eder"
+    },
+    {
+     "en": "Bright flowers bloom in the springtime",
+     "tr": "İlkbaharda parlak çiçekler çiçek açar"
+    },
+    {
+     "en": "Crisp leaves crunch underfoot in fall",
+     "tr": "Gevrek, sonbaharda ayak altında bırakır"
+    },
+    {
+     "en": "The passage of time is steady and sure",
+     "tr": "Zamanın geçişi sabit ve kesindir"
+    },
+    {
+     "en": "Fleeting moments slip through our fingers",
+     "tr": "Kazan anlar parmaklarımızdan geçiyor"
+    },
+    {
+     "en": "Dreams slowly fade with the morning light",
+     "tr": "Sabah ışığı ile rüyalar yavaşça kaybolur"
+    },
+    {
+     "en": "Hopes and wishes come true in due time",
+     "tr": "Umutlar ve dilekler zamanında gerçekleşir"
+    },
+    {
+     "en": "Soft whispers carry intimate confessions",
+     "tr": "Yumuşak fısıltılar samimi itiraflar taşır"
+    },
+    {
+     "en": "Faint echoes resonate in the empty hall",
+     "tr": "Boş salonda hafif yankılar yankılanıyor"
+    },
+    {
+     "en": "Winding paths lead through dense forests",
+     "tr": "Sargı yolları yoğun ormanlardan geçer"
+    },
+    {
+     "en": "Serpentine rivers meander through valleys",
+     "tr": "Serpantin nehirleri vadilerden dolanır"
+    },
+    {
+     "en": "Towering mountains cast shadows below",
+     "tr": "Yükselen dağlar aşağıda gölgeler döküyor"
+    },
+    {
+     "en": "Deep valleys stretch between towering peaks",
+     "tr": "Derin vadiler yükselen zirveler arasında uzanır"
+    },
+    {
+     "en": "Endless deserts sprawl beneath the sun",
+     "tr": "Sonsuz çöller güneşin altına yayılıyor"
+    },
+    {
+     "en": "Lush meadows teem with vibrant life",
+     "tr": "Yemyeşil çayırlar canlı yaşamla doludur"
+    },
+    {
+     "en": "Abandoned fields lie fallow and still",
+     "tr": "Terk edilmiş tarlalar nadasa ve hareketsizdir"
+    },
+    {
+     "en": "Flourishing gardens burst with color",
+     "tr": "Gelişen bahçeler renkle patladı"
+    },
+    {
+     "en": "Fruitful orchards yield bountiful harvests",
+     "tr": "Verimli bahçeler bol hasat verir"
+    },
+    {
+     "en": "Verdant vineyards produce fine wines",
+     "tr": "Yırtıcı üzüm bağları ince şaraplar üretir"
+    },
+    {
+     "en": "Golden crops sway in the gentle breeze",
+     "tr": "Altın mahsuller nazik esinti içinde sallanır"
+    },
+    {
+     "en": "Rich harvests bring prosperity to all",
+     "tr": "Zengin hasatlar herkese refah getirir"
+    },
+    {
+     "en": "Diligent farmers work the land with care",
+     "tr": "Çalışkan çiftçiler araziyi özenle çalışırlar"
+    },
+    {
+     "en": "Hardworking laborers toil under the sun",
+     "tr": "Çalışkan işçiler güneşin altında çalışıyor"
+    },
+    {
+     "en": "Skilled builders construct sturdy homes",
+     "tr": "Yetenekli inşaatçılar sağlam evler inşa ediyorlar"
+    },
+    {
+     "en": "Talented architects design innovative structures",
+     "tr": "Yetenekli mimarlar yenilikçi yapılar tasarlar"
+    },
+    {
+     "en": "Ingenious engineers solve complex problems",
+     "tr": "Ustalık mühendisleri karmaşık sorunları çözer"
+    },
+    {
+     "en": "Creative artists bring visions to life",
+     "tr": "Yaratıcı sanatçılar vizyonları hayata geçirir"
+    },
+    {
+     "en": "Harmonious musicians compose beautiful melodies",
+     "tr": "Uyumlu müzisyenler güzel melodiler oluşturur"
+    },
+    {
+     "en": "Angelic singers serenade with heavenly voices",
+     "tr": "Melek şarkıcıları göksel seslerle serenat"
+    },
+    {
+     "en": "Graceful dancers glide across the stage",
+     "tr": "Zarif dansçılar sahnede kayıyor"
+    },
+    {
+     "en": "Passionate actors bring characters to life",
+     "tr": "Tutkulu aktörler karakterleri hayata geçirir"
+    },
+    {
+     "en": "Talented writers craft captivating stories",
+     "tr": "Yetenekli yazarlar büyüleyici hikayeler yaratıyor"
+    },
+    {
+     "en": "Poetic poets weave verses of beauty",
+     "tr": "Şiir şairleri güzelliğin ayetlerini örüyor"
+    },
+    {
+     "en": "Philosophical thinkers ponder life's mysteries",
+     "tr": "Felsefi düşünürler hayatın gizemlerini düşünür"
+    },
+    {
+     "en": "Curious scientists seek answers to questions",
+     "tr": "Meraklı bilim adamları sorulara cevap ararlar"
+    },
+    {
+     "en": "Inventive inventors create groundbreaking inventions",
+     "tr": "Yaratıcı mucitler çığır açan icatlar yaratır"
+    },
+    {
+     "en": "Brave explorers venture into the unknown",
+     "tr": "Cesur kaşifler bilinmeyene girer"
+    },
+    {
+     "en": "Adventurous travelers seek thrilling experiences",
+     "tr": "Maceracı gezginler heyecan verici deneyimler ararlar"
+    },
+    {
+     "en": "Courageous pioneers blaze new trails",
+     "tr": "Cesur öncüler yeni parkurları patlatıyor"
+    },
+    {
+     "en": "Industrious settlers build thriving communities",
+     "tr": "Çalışkan yerleşimciler gelişen topluluklar inşa ediyorlar"
+    },
+    {
+     "en": "Heroic figures rise to meet challenges",
+     "tr": "Kahramanca figürler zorlukları karşılamak için yükseliyor"
+    },
+    {
+     "en": "Villainous schemes plot in the shadows",
+     "tr": "Kötü şemalar gölgelerde çizilir"
+    },
+    {
+     "en": "Noble saviors rescue those in need",
+     "tr": "Asil kurtarıcılar ihtiyacı olanları kurtarır"
+    },
+    {
+     "en": "Miraculous events unfold unexpectedly",
+     "tr": "Mucizevi olaylar beklenmedik bir şekilde ortaya çıkıyor"
+    },
+    {
+     "en": "Wondrous sights captivate the imagination",
+     "tr": "Harika manzaralar hayal gücünü büyülüyor"
+    },
+    {
+     "en": "Mysterious occurrences defy explanation",
+     "tr": "Gizemli olaylar açıklamaya meydan okuyor"
+    },
+    {
+     "en": "Hidden secrets lie buried beneath the surface",
+     "tr": "Gizli sırlar yüzeyin altına gömülür"
+    },
+    {
+     "en": "Revealed truths enlighten the mind",
+     "tr": "Ortaya çıkan gerçekler zihni aydınlatır"
+    },
+    {
+     "en": "Deceptive illusions distort reality",
+     "tr": "Aldatıcı yanılsamalar gerçeği bozar"
+    },
+    {
+     "en": "Deep mysteries elude understanding",
+     "tr": "Derin gizemler anlayıştan kaçınır"
+    },
+    {
+     "en": "Perceptive observations reveal insights",
+     "tr": "Algılayıcı gözlemler içgörüleri ortaya çıkarır"
+    },
+    {
+     "en": "Diverse perspectives offer new understandings",
+     "tr": "Farklı perspektifler yeni anlayışlar sunar"
+    },
+    {
+     "en": "Expansive horizons stretch to infinity",
+     "tr": "Geniş ufuklar sonsuza kadar uzanır"
+    },
+    {
+     "en": "Fuzzy boundaries blur distinctions",
+     "tr": "Bulanık sınırlar bulanık ayrımları bulanıklaştırır"
+    },
+    {
+     "en": "Boundless limits expand potential",
+     "tr": "Sınırsız sınırlar potansiyeli genişletir"
+    },
+    {
+     "en": "Formidable barriers hinder progress",
+     "tr": "Müthiş engeller ilerlemeyi engeller"
+    },
+    {
+     "en": "Solid walls separate worlds apart",
+     "tr": "Sağlam duvarlar birbirinden ayrılır"
+    },
+    {
+     "en": "Sturdy bridges connect distant shores",
+     "tr": "Sağlam köprüler uzak kıyıları bağlar"
+    },
+    {
+     "en": "Strong connections foster meaningful relationships",
+     "tr": "Güçlü bağlantılar anlamlı ilişkiler geliştirir"
+    },
+    {
+     "en": "Authentic friendships withstand the test of time",
+     "tr": "Otantik arkadaşlıklar zaman testine dayanır"
+    },
+    {
+     "en": "Unbreakable bonds endure through adversity",
+     "tr": "Kırılamaz bağlar sıkıntı yoluyla dayanır"
+    },
+    {
+     "en": "Reliable trust forms the foundation of relationships",
+     "tr": "Güvenilir güven ilişkilerin temelini oluşturur"
+    },
+    {
+     "en": "Loyal loyalties remain steadfast and true",
+     "tr": "Sadık sadakatler kararlı ve doğru kalır"
+    },
+    {
+     "en": "Sacred promises bind individuals together",
+     "tr": "Kutsal sözler bireyleri birbirine bağlar"
+    },
+    {
+     "en": "Eternal vows unite lovers for eternity",
+     "tr": "Ebedi yeminleri sonsuzluk için birleştirir"
+    },
+    {
+     "en": "Firm commitments strengthen bonds",
+     "tr": "Firma taahhütleri tahvilleri güçlendirir"
+    },
+    {
+     "en": "Resolute resolutions guide actions and decisions",
+     "tr": "Karar Kararları Kılavuz Eylemler ve Kararlar"
+    },
+    {
+     "en": "Daunting challenges test one's resolve",
+     "tr": "Göz korkutucu zorluklar kişinin kararlılığını test eder"
+    },
+    {
+     "en": "Formidable obstacles block the path forward",
+     "tr": "Müthiş engeller ileriye doğru yolu engeller"
+    },
+    {
+     "en": "Trying adversities reveal inner strength",
+     "tr": "Olumsuzlukları denemek iç gücü ortaya çıkarır"
+    },
+    {
+     "en": "Sweet victories celebrate hard-won triumphs",
+     "tr": "Tatlı zaferler zor kazanılan zaferleri kabul eder"
+    },
+    {
+     "en": "Painful defeats teach valuable lessons",
+     "tr": "Acı verici yenilgiler değerli dersler öğretir"
+    },
+    {
+     "en": "Life's lessons shape one's destiny",
+     "tr": "Hayatın dersleri kişinin kaderini şekillendirir"
+    },
+    {
+     "en": "Profound wisdom guides important decisions",
+     "tr": "Derin bilgelik önemli kararlara rehberlik eder"
+    },
+    {
+     "en": "Vast knowledge empowers individuals",
+     "tr": "Geniş bilgi bireyleri güçlendirir"
+    },
+    {
+     "en": "Valuable insights illuminate the path forward",
+     "tr": "Değerli içgörüler ileriye doğru yolu aydınlatır"
+    },
+    {
+     "en": "Exciting discoveries spark curiosity",
+     "tr": "Heyecan verici keşifler merak uyandırıyor"
+    },
+    {
+     "en": "Innovative solutions solve pressing problems",
+     "tr": "Yenilikçi çözümler acil sorunları çözer"
+    },
+    {
+     "en": "Stubborn problems require creative solutions",
+     "tr": "İnatçı sorunlar yaratıcı çözümler gerektirir"
+    },
+    {
+     "en": "Unexpected progress leads to societal advancement",
+     "tr": "Beklenmedik ilerleme toplumsal ilerlemeye yol açar"
+    },
+    {
+     "en": "Remarkable advancements improve quality of life",
+     "tr": "Dikkat çekici gelişmeler yaşam kalitesini artırır"
+    },
+    {
+     "en": "Revolutionary breakthroughs redefine what's possible",
+     "tr": "Devrimci atılımlar mümkün olanı yeniden tanımlıyor"
+    },
+    {
+     "en": "Momentous milestones mark significant achievements",
+     "tr": "Anlık kilometre taşları önemli başarıları işaret eder"
+    },
+    {
+     "en": "Impressive records set new standards",
+     "tr": "Etkileyici kayıtlar yeni standartlar belirler"
+    },
+    {
+     "en": "High standards drive excellence",
+     "tr": "Yüksek standartlar mükemmelliği artırır"
+    },
+    {
+     "en": "Lofty expectations inspire great efforts",
+     "tr": "Yüce beklentiler büyük çabalara ilham veriyor"
+    },
+    {
+     "en": "Notable accomplishments validate hard work",
+     "tr": "Dikkate değer başarılar sıkı çalışmayı doğrular"
+    },
+    {
+     "en": "Successful endeavors culminate in victory",
+     "tr": "Başarılı çabalar zaferle sonuçlanır"
+    },
+    {
+     "en": "Tireless efforts yield satisfying results",
+     "tr": "Yorulmaz çabalar tatmin edici sonuçlar verir"
+    },
+    {
+     "en": "Unwavering dedication leads to success",
+     "tr": "Değişmez özveri başarıya yol açar"
+    },
+    {
+     "en": "Sacrifices made reap rewards",
+     "tr": "Fedakarlıklar yeniden ödül verdi"
+    },
+    {
+     "en": "Genuine commitments fulfill lifelong dreams",
+     "tr": "Gerçek taahhütler yaşam boyu hayalleri yerine getirir"
+    },
+    {
+     "en": "Inspiring dreams fuel lofty aspirations",
+     "tr": "İlham verici rüyalar yüce özlemleri yakıt"
+    },
+    {
+     "en": "Clear goals provide direction in life",
+     "tr": "Açık hedefler hayatta yön sağlar"
+    },
+    {
+     "en": "Ambitious individuals strive for greatness",
+     "tr": "Hırslı bireyler büyüklük için çabalar"
+    },
+    {
+     "en": "Varied paths lead to diverse destinations",
+     "tr": "Çeşitli yollar çeşitli destinasyonlara yol açar"
+    },
+    {
+     "en": "Exciting journeys bring new experiences",
+     "tr": "Heyecan verici yolculuklar yeni deneyimler getiriyor"
+    },
+    {
+     "en": "Fulfilling destinations satisfy deep desires",
+     "tr": "Destinasyon destinasyonları derin arzuları karşılıyor"
+    },
+    {
+     "en": "Winding roads lead through scenic landscapes",
+     "tr": "Sargı yolları doğal manzaralardan geçer"
+    },
+    {
+     "en": "Important crossroads present critical decisions",
+     "tr": "Önemli kavşaklar kritik kararlar sunmaktadır"
+    },
+    {
+     "en": "Choices made shape future outcomes",
+     "tr": "Seçimler gelecekteki sonuçları şekillendirdi"
+    },
+    {
+     "en": "Bold risks lead to worthwhile rewards",
+     "tr": "Cesur riskler değerli ödüllere yol açar"
+    },
+    {
+     "en": "Smart gambles pay off in unexpected ways",
+     "tr": "Akıllı kumarlar beklenmedik şekillerde ödenir"
+    },
+    {
+     "en": "Painful losses build resilience and strength",
+     "tr": "Ağrılı kayıplar esneklik ve güç oluşturur"
+    },
+    {
+     "en": "Lingering regrets teach lessons in acceptance",
+     "tr": "Kalan pişmanlıklar kabul konusunda dersler veriyor"
+    },
+    {
+     "en": "Forgiveness heals wounds and frees the soul",
+     "tr": "Affetme yaraları iyileştirir ve ruhu serbest bırakır"
+    },
+    {
+     "en": "Important mistakes offer valuable lessons",
+     "tr": "Önemli hatalar değerli dersler sunar"
+    },
+    {
+     "en": "Personal growth results from life's lessons",
+     "tr": "Kişisel gelişim hayatın derslerinden kaynaklanır"
+    },
+    {
+     "en": "Valuable lessons shape one's character",
+     "tr": "Değerli dersler kişinin karakterini şekillendirir"
+    },
+    {
+     "en": "Compassion for others leads to deeper understanding",
+     "tr": "Diğerleri için şefkat daha derin bir anlayışa yol açar"
+    },
+    {
+     "en": "Empathy fosters meaningful connections",
+     "tr": "Empati anlamlı bağlantıları teşvik eder"
+    },
+    {
+     "en": "Meaningful connections enrich lives",
+     "tr": "Anlamlı bağlantılar hayatları zenginleştirir"
+    },
+    {
+     "en": "Strong bonds create a sense of belonging",
+     "tr": "Güçlü bağlar bir aidiyet duygusu yaratır"
+    },
+    {
+     "en": "Supportive communities offer comfort and aid",
+     "tr": "Destekleyici topluluklar konfor ve yardım sunar"
+    },
+    {
+     "en": "Resilient communities thrive in adversity",
+     "tr": "Dayanıklı topluluklar sıkıntı içinde gelişir"
+    },
+    {
+     "en": "Collective strength overcomes obstacles",
+     "tr": "Kolektif gücü engellerin üstesinden gelir"
+    },
+    {
+     "en": "United efforts lead to progress and success",
+     "tr": "Birleşik çabalar ilerleme ve başarıya yol açar"
+    },
+    {
+     "en": "Mutual prosperity benefits all members",
+     "tr": "Karşılıklı refah tüm üyelere fayda sağlar"
+    },
+    {
+     "en": "Abundant resources foster generosity and sharing",
+     "tr": "Bol kaynaklar cömertliği ve paylaşımı teşvik eder"
+    },
+    {
+     "en": "Genuine gratitude springs from a generous heart",
+     "tr": "Cömert bir kalpten gerçek şükran yaylar"
+    },
+    {
+     "en": "Humility precedes genuine acts of kindness",
+     "tr": "Alçakgönüllülük gerçek nezaket eylemlerinden önce gelir"
+    },
+    {
+     "en": "Acts of kindness spread love and warmth",
+     "tr": "Nezaket eylemleri sevgi ve sıcaklığı yayar"
+    },
+    {
+     "en": "Love binds hearts together in unity",
+     "tr": "Aşk kalpleri birlik içinde birbirine bağlar"
+    },
+    {
+     "en": "Deep connections foster understanding and empathy",
+     "tr": "Derin bağlantılar anlayışı ve empatiyi teşvik eder"
+    },
+    {
+     "en": "Shared experiences create a sense of oneness",
+     "tr": "Paylaşılan deneyimler bir birlik duygusu yaratır"
+    },
+    {
+     "en": "Spiritual transcendence leads to enlightenment",
+     "tr": "Manevi aşkınlık aydınlanmaya yol açar"
+    },
+    {
+     "en": "Profound wisdom comes from inner understanding",
+     "tr": "Derin bilgelik iç anlayıştan gelir"
+    },
+    {
+     "en": "Inner peace leads to outer fulfillment",
+     "tr": "İç barış dış yerine getirilmeye yol açar"
+    },
+    {
+     "en": "Lasting happiness arises from inner joy",
+     "tr": "Kalıcı mutluluk iç sevinçten kaynaklanır"
+    },
+    {
+     "en": "Boundless joy fills the heart with contentment",
+     "tr": "Sınırsız sevinç kalbi memnuniyetle doldurur"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    },
+    {
+     "en": "Humility and grace lead to acts of compassion",
+     "tr": "Alçakgönüllülük ve lütuf merhamet eylemlerine yol açar"
+    },
+    {
+     "en": "Compassionate actions spread kindness and love",
+     "tr": "Merhametli eylemler nezaket ve sevgi yayar"
+    },
+    {
+     "en": "Kindness and love nurture deep connections",
+     "tr": "Nezaket ve aşk derin bağlantıları besler"
+    },
+    {
+     "en": "Deep connections foster a sense of oneness",
+     "tr": "Derin bağlantılar bir birlik duygusunu teşvik eder"
+    },
+    {
+     "en": "Oneness with all beings leads to transcendence",
+     "tr": "Tüm varlıklarla birlik aşkınlığa yol açar"
+    },
+    {
+     "en": "Transcendence of the self leads to enlightenment",
+     "tr": "Benliğin aşkınlığı aydınlanmaya yol açar"
+    },
+    {
+     "en": "Enlightenment brings profound wisdom",
+     "tr": "Aydınlanma derin bilgelik getirir"
+    },
+    {
+     "en": "Wisdom brings clarity and understanding",
+     "tr": "Bilgelik netlik ve anlayış getirir"
+    },
+    {
+     "en": "Understanding fosters inner peace",
+     "tr": "Anlamak iç huzuru teşvik eder"
+    },
+    {
+     "en": "Inner peace leads to lasting fulfillment",
+     "tr": "İç barış kalıcı tatmin olmaya yol açar"
+    },
+    {
+     "en": "Fulfillment in life arises from inner happiness",
+     "tr": "Yaşamda tatmin iç mutluluktan kaynaklanır"
+    },
+    {
+     "en": "Inner happiness manifests as boundless joy",
+     "tr": "İç mutluluk sınırsız sevinç olarak kendini gösterir"
+    },
+    {
+     "en": "Boundless joy overflows into contentment",
+     "tr": "Sınırsız sevinç memnuniyete dönüşür"
+    },
+    {
+     "en": "Genuine contentment brings inner peace",
+     "tr": "Gerçek memnuniyet iç huzuru getirir"
+    },
+    {
+     "en": "Inner peace radiates outward in harmony",
+     "tr": "İç barış uyum içinde dışa doğru yayılır"
+    },
+    {
+     "en": "Harmonious relationships foster unity and cooperation",
+     "tr": "Uyumlu ilişkiler birliği ve işbirliğini teşvik eder"
+    },
+    {
+     "en": "Unified efforts strengthen collective resolve",
+     "tr": "Birleşik çabalar kolektif çözümü güçlendirir"
+    },
+    {
+     "en": "Collective strength empowers the community",
+     "tr": "Kolektif Güç toplumu güçlendirir"
+    },
+    {
+     "en": "Collective progress leads to shared prosperity",
+     "tr": "Kolektif ilerleme ortak refaha yol açar"
+    },
+    {
+     "en": "Shared prosperity leads to abundant blessings",
+     "tr": "Paylaşılan refah bol nimetlere yol açar"
+    },
+    {
+     "en": "Abundant blessings inspire acts of generosity",
+     "tr": "Bol nimetler cömertlik eylemlerine ilham verir"
+    },
+    {
+     "en": "Generosity flows from a heart full of gratitude",
+     "tr": "Cömertlik şükran dolu bir kalpten akar"
+    },
+    {
+     "en": "Gratitude fosters humility and grace",
+     "tr": "Minnettarlık alçakgönüllülük ve lütuf teşvik eder"
+    }
+   ]
+
+}

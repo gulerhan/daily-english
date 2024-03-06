@@ -1,0 +1,2001 @@
+{
+  "sentences":
+  [
+    {
+     "en": "She is sad",
+     "tr": "O üzgün"
+    },
+    {
+     "en": "He likes apples",
+     "tr": "Elmaları sever"
+    },
+    {
+     "en": "They play football",
+     "tr": "Futbol oynuyorlar"
+    },
+    {
+     "en": "We eat lunch",
+     "tr": "Öğle yemeği yeriz"
+    },
+    {
+     "en": "You drink water",
+     "tr": "Su içiyorsun"
+    },
+    {
+     "en": "The cat sleeps",
+     "tr": "Kedi uyur"
+    },
+    {
+     "en": "The dog barks",
+     "tr": "Köpek havlar"
+    },
+    {
+     "en": "It rains today",
+     "tr": "Bugün yağmur yağıyor"
+    },
+    {
+     "en": "I love my family",
+     "tr": "Ailemi Seviyorum"
+    },
+    {
+     "en": "She has a book",
+     "tr": "Bir kitabı var"
+    },
+    {
+     "en": "He watches TV",
+     "tr": "O televizyon izler"
+    },
+    {
+     "en": "They go to school",
+     "tr": "Onlar okula gider"
+    },
+    {
+     "en": "We swim in the pool",
+     "tr": "Havuzda yüzüyoruz"
+    },
+    {
+     "en": "You speak English",
+     "tr": "Sen İngilizce konuş"
+    },
+    {
+     "en": "The sun shines",
+     "tr": "Güneş parlıyor"
+    },
+    {
+     "en": "The moon is bright",
+     "tr": "Ay parlak"
+    },
+    {
+     "en": "I feel tired",
+     "tr": "Yorgun hissediyorum"
+    },
+    {
+     "en": "She wears a dress",
+     "tr": "Bir elbise giyiyor"
+    },
+    {
+     "en": "He drives a car",
+     "tr": "O bir araba sürüyor"
+    },
+    {
+     "en": "They walk in the park",
+     "tr": "Parkta yürüyorlar"
+    },
+    {
+     "en": "We listen to music",
+     "tr": "Müzik dinliyoruz"
+    },
+    {
+     "en": "You read a newspaper",
+     "tr": "Gazete okuyorsun"
+    },
+    {
+     "en": "The bird flies",
+     "tr": "Kuş uçar"
+    },
+    {
+     "en": "The fish swims",
+     "tr": "Balık yüzüyor"
+    },
+    {
+     "en": "I want ice cream",
+     "tr": "Dondurma istiyorum"
+    },
+    {
+     "en": "She needs help",
+     "tr": "Yardıma ihtiyacı var"
+    },
+    {
+     "en": "He studies math",
+     "tr": "Matematik okuyor"
+    },
+    {
+     "en": "They visit friends",
+     "tr": "Arkadaşları ziyaret ediyorlar"
+    },
+    {
+     "en": "We write letters",
+     "tr": "Mektup yazıyoruz"
+    },
+    {
+     "en": "You play guitar",
+     "tr": "Gitar çalıyorsun"
+    },
+    {
+     "en": "The baby cries",
+     "tr": "Bebek ağlıyor"
+    },
+    {
+     "en": "The door opens",
+     "tr": "Kapı açılır"
+    },
+    {
+     "en": "I see a bird",
+     "tr": "Bir kuş görüyorum"
+    },
+    {
+     "en": "She hears a noise",
+     "tr": "Bir gürültü duyar"
+    },
+    {
+     "en": "He smells the flowers",
+     "tr": "Çiçekleri kokuyor"
+    },
+    {
+     "en": "They taste the cake",
+     "tr": "Pastayı tatıyorlar"
+    },
+    {
+     "en": "We touch the table",
+     "tr": "Masaya dokunuyoruz"
+    },
+    {
+     "en": "You cook dinner",
+     "tr": "Akşam yemeği pişiriyorsun"
+    },
+    {
+     "en": "The train arrives",
+     "tr": "Tren geldi"
+    },
+    {
+     "en": "The plane takes off",
+     "tr": "Uçak kalktı"
+    },
+    {
+     "en": "I live in a house",
+     "tr": "Bir evde yaşıyorum"
+    },
+    {
+     "en": "She works in an office",
+     "tr": "O bir ofiste çalışıyor"
+    },
+    {
+     "en": "He shops at the market",
+     "tr": "Piyasada alışveriş yapıyor"
+    },
+    {
+     "en": "They play in the garden",
+     "tr": "Bahçede oynarlar"
+    },
+    {
+     "en": "We clean the room",
+     "tr": "Odayı temizliyoruz"
+    },
+    {
+     "en": "You brush your teeth",
+     "tr": "Dişlerini fırçalıyorsun"
+    },
+    {
+     "en": "The clock ticks",
+     "tr": "Saat keneler"
+    },
+    {
+     "en": "The phone rings",
+     "tr": "Telefon çalıyor"
+    },
+    {
+     "en": "I speak French",
+     "tr": "Fransızca konuşuyorum"
+    },
+    {
+     "en": "She learns Spanish",
+     "tr": "İspanyolca öğrenir"
+    },
+    {
+     "en": "He teaches German",
+     "tr": "Almanca öğretiyor"
+    },
+    {
+     "en": "They study Chinese",
+     "tr": "Çince çalışıyorlar"
+    },
+    {
+     "en": "We watch movies",
+     "tr": "Film izliyoruz"
+    },
+    {
+     "en": "You listen to the radio",
+     "tr": "Radyoyu dinliyorsun"
+    },
+    {
+     "en": "The car stops",
+     "tr": "Araba durur"
+    },
+    {
+     "en": "The bus arrives late",
+     "tr": "Otobüs geç geldi"
+    },
+    {
+     "en": "I eat breakfast",
+     "tr": "Kahvaltı ederim"
+    },
+    {
+     "en": "She drinks coffee",
+     "tr": "Kahve içiyor"
+    },
+    {
+     "en": "He reads a magazine",
+     "tr": "Bir dergi okuyor"
+    },
+    {
+     "en": "They write emails",
+     "tr": "E -posta yazıyorlar"
+    },
+    {
+     "en": "We take a shower",
+     "tr": "Duş alırız"
+    },
+    {
+     "en": "You go to bed early",
+     "tr": "Yatağa erken gidiyorsun"
+    },
+    {
+     "en": "The alarm clock rings",
+     "tr": "Çalar saat halkaları"
+    },
+    {
+     "en": "The computer crashes",
+     "tr": "Bilgisayar çöküyor"
+    },
+    {
+     "en": "I buy a present",
+     "tr": "Bir hediye alıyorum"
+    },
+    {
+     "en": "She sells clothes",
+     "tr": "Kıyafet satıyor"
+    },
+    {
+     "en": "He fixes the car",
+     "tr": "Arabayı tamir ediyor"
+    },
+    {
+     "en": "They clean the windows",
+     "tr": "Pencereleri temizler"
+    },
+    {
+     "en": "We plant flowers",
+     "tr": "Çiçek dikiyoruz"
+    },
+    {
+     "en": "You mow the lawn",
+     "tr": "Çim biçiyorsun"
+    },
+    {
+     "en": "The sun sets",
+     "tr": "Güneş batıyor"
+    },
+    {
+     "en": "The moon rises",
+     "tr": "Ay yükselir"
+    },
+    {
+     "en": "I take a photo",
+     "tr": "Fotoğraf çekiyorum"
+    },
+    {
+     "en": "She paints a picture",
+     "tr": "Bir resim çiziyor"
+    },
+    {
+     "en": "He plays the piano",
+     "tr": "Piyano oynuyor"
+    },
+    {
+     "en": "They dance in the rain",
+     "tr": "Yağmurda dans ediyorlar"
+    },
+    {
+     "en": "We sing a song",
+     "tr": "Bir şarkı söylüyoruz"
+    },
+    {
+     "en": "You cook dinner",
+     "tr": "Akşam yemeği pişiriyorsun"
+    },
+    {
+     "en": "The cat climbs a tree",
+     "tr": "Kedi bir ağaca tırmanıyor"
+    },
+    {
+     "en": "The dog chases a ball",
+     "tr": "Köpek bir topu kovalar"
+    },
+    {
+     "en": "I ride a bike",
+     "tr": "Bisiklete binerim"
+    },
+    {
+     "en": "She drives a truck",
+     "tr": "Bir kamyon kullanıyor"
+    },
+    {
+     "en": "He walks the dog",
+     "tr": "Köpeği yürür"
+    },
+    {
+     "en": "They run in the park",
+     "tr": "Parkta koşuyorlar"
+    },
+    {
+     "en": "We hike in the mountains",
+     "tr": "Dağlarda yürüyüş yapıyoruz"
+    },
+    {
+     "en": "You swim in the sea",
+     "tr": "Denizde yüzüyorsun"
+    },
+    {
+     "en": "The bird sings",
+     "tr": "Kuş şarkı söylüyor"
+    },
+    {
+     "en": "The fish jumps",
+     "tr": "Balık atlar"
+    },
+    {
+     "en": "I draw a picture",
+     "tr": "Bir resim çiziyorum"
+    },
+    {
+     "en": "She writes a letter",
+     "tr": "O mektup yazar"
+    },
+    {
+     "en": "He reads a story",
+     "tr": "Bir hikaye okuyor"
+    },
+    {
+     "en": "They watch a movie",
+     "tr": "Bir film izliyorlar"
+    },
+    {
+     "en": "We play a game",
+     "tr": "Bir oyun oynuyoruz"
+    },
+    {
+     "en": "You listen to music",
+     "tr": "Müzik dinliyorsun"
+    },
+    {
+     "en": "The baby laughs",
+     "tr": "Bebek gülüyor"
+    },
+    {
+     "en": "The door closes",
+     "tr": "Kapı kapanır"
+    },
+    {
+     "en": "I open a window",
+     "tr": "Bir pencere açıyorum"
+    },
+    {
+     "en": "She locks the door",
+     "tr": "Kapıyı kilitler"
+    },
+    {
+     "en": "He turns on the light",
+     "tr": "Işığı açar"
+    },
+    {
+     "en": "They turn off the TV",
+     "tr": "TV'yi kapatıyorlar"
+    },
+    {
+     "en": "We put on our shoes",
+     "tr": "Ayakkabılarımızı giydik"
+    },
+    {
+     "en": "You take off your coat",
+     "tr": "Ceketini çıkarıyorsun"
+    },
+    {
+     "en": "The clock strikes twelve",
+     "tr": "Saat on iki vuruyor"
+    },
+    {
+     "en": "The phone rings loudly",
+     "tr": "Telefon yüksek sesle çalıyor"
+    },
+    {
+     "en": "I cut the cake",
+     "tr": "Pastayı kestim"
+    },
+    {
+     "en": "She mixes the ingredients",
+     "tr": "Malzemeleri karıştırır"
+    },
+    {
+     "en": "He slices the bread",
+     "tr": "Ekmeği dilimliyor"
+    },
+    {
+     "en": "They stir the soup",
+     "tr": "Çorbayı karıştırıyorlar"
+    },
+    {
+     "en": "We bake cookies",
+     "tr": "Kurabiye pişiriyoruz"
+    },
+    {
+     "en": "You fry an egg",
+     "tr": "Bir yumurta kızartın"
+    },
+    {
+     "en": "The oven preheats",
+     "tr": "Fırın ön ısıtmaları"
+    },
+    {
+     "en": "The water boils",
+     "tr": "Su kaynar"
+    },
+    {
+     "en": "I pour a drink",
+     "tr": "Bir içki döküyorum"
+    },
+    {
+     "en": "She serves the meal",
+     "tr": "Yemek servis ediyor"
+    },
+    {
+     "en": "He sets the table",
+     "tr": "Masayı ayarlıyor"
+    },
+    {
+     "en": "They clean the dishes",
+     "tr": "Yemekleri temizlerler"
+    },
+    {
+     "en": "We wash the vegetables",
+     "tr": "Sebzeleri yıkarız"
+    },
+    {
+     "en": "You peel the potatoes",
+     "tr": "Patatesleri soyuyorsun"
+    },
+    {
+     "en": "The cat meows",
+     "tr": "Cat Meows"
+    },
+    {
+     "en": "The dog whines",
+     "tr": "Köpek sızlar"
+    },
+    {
+     "en": "I hug my friend",
+     "tr": "Arkadaşıma sarılıyorum"
+    },
+    {
+     "en": "She kisses her partner",
+     "tr": "Eşini öpüyor"
+    },
+    {
+     "en": "He waves goodbye",
+     "tr": "Hoşçakal sallıyor"
+    },
+    {
+     "en": "They shake hands",
+     "tr": "El sıkışırlar"
+    },
+    {
+     "en": "We high-five",
+     "tr": "Beş biz"
+    },
+    {
+     "en": "You pat my back",
+     "tr": "Sırtımı patlatıyorsun"
+    },
+    {
+     "en": "The sunburns my skin",
+     "tr": "Güneş yanığı cildimi"
+    },
+    {
+     "en": "The rain wets my hair",
+     "tr": "Yağmur saçlarımı uyarıyor"
+    },
+    {
+     "en": "I catch a cold",
+     "tr": "Soğuk aldım"
+    },
+    {
+     "en": "She sneezes loudly",
+     "tr": "Yüksek sesle hapşırır"
+    },
+    {
+     "en": "He coughs softly",
+     "tr": "Yumuşak bir şekilde öksürür"
+    },
+    {
+     "en": "They blow their noses",
+     "tr": "Burunlarını üflerler"
+    },
+    {
+     "en": "We take medicine",
+     "tr": "İlaç alıyoruz"
+    },
+    {
+     "en": "You go to the doctor",
+     "tr": "Doktora git"
+    },
+    {
+     "en": "The nurse checks my pulse",
+     "tr": "Hemşire nabzımı kontrol ediyor"
+    },
+    {
+     "en": "The doctor examines my throat",
+     "tr": "Doktor boğazımı inceliyor"
+    },
+    {
+     "en": "I get a prescription",
+     "tr": "Bir reçete alıyorum"
+    },
+    {
+     "en": "She fills the prescription",
+     "tr": "Reçeteyi dolduruyor"
+    },
+    {
+     "en": "He pays the bill",
+     "tr": "Faturayı öder"
+    },
+    {
+     "en": "They give me advice",
+     "tr": "Bana tavsiye veriyorlar"
+    },
+    {
+     "en": "We follow the instructions",
+     "tr": "Talimatları takip ediyoruz"
+    },
+    {
+     "en": "You take a deep breath",
+     "tr": "Derin bir nefes alıyorsun"
+    },
+    {
+     "en": "The yoga class relaxes me",
+     "tr": "Yoga sınıfı beni rahatlatıyor"
+    },
+    {
+     "en": "I meditate in silence",
+     "tr": "Sessizlik içinde meditasyon yapıyorum"
+    },
+    {
+     "en": "She practices mindfulness",
+     "tr": "Farkındalık uyguluyor"
+    },
+    {
+     "en": "He stretches his muscles",
+     "tr": "Kaslarını uzatır"
+    },
+    {
+     "en": "They breathe deeply",
+     "tr": "Derin nefes alıyorlar"
+    },
+    {
+     "en": "We focus on the present",
+     "tr": "Günümüze odaklanıyoruz"
+    },
+    {
+     "en": "You clear your mind",
+     "tr": "Zihnini temizliyorsun"
+    },
+    {
+     "en": "The meditation calms me",
+     "tr": "Meditasyon beni sakinleştiriyor"
+    },
+    {
+     "en": "The exercise energizes me",
+     "tr": "Egzersiz bana enerji veriyor"
+    },
+    {
+     "en": "I feel healthy",
+     "tr": "Sağlıklı hissediyorum"
+    },
+    {
+     "en": "She looks fit",
+     "tr": "Zinde görünüyor"
+    },
+    {
+     "en": "He seems strong",
+     "tr": "Güçlü görünüyor"
+    },
+    {
+     "en": "They appear happy",
+     "tr": "Mutlu görünüyorlar"
+    },
+    {
+     "en": "We sound confident",
+     "tr": "Kendine güveniyoruz"
+    },
+    {
+     "en": "You taste the freshness",
+     "tr": "Tazeliği tatıyorsun"
+    },
+    {
+     "en": "The food smells delicious",
+     "tr": "Yemek lezzetli kokuyor"
+    },
+    {
+     "en": "I touch the soft fabric",
+     "tr": "Yumuşak kumaşa dokunuyorum"
+    },
+    {
+     "en": "She hears the soothing music",
+     "tr": "Yatıştırıcı müziği duyar"
+    },
+    {
+     "en": "He sees the beautiful sunset",
+     "tr": "Güzel gün batımını görüyor"
+    },
+    {
+     "en": "They admire the artwork",
+     "tr": "Sanat eserine hayranlarlar"
+    },
+    {
+     "en": "We enjoy the nature",
+     "tr": "Doğanın tadını çıkarıyoruz"
+    },
+    {
+     "en": "You appreciate the moment",
+     "tr": "Anı takdir ediyorsun"
+    },
+    {
+     "en": "The painting hangs on the wall",
+     "tr": "Resim duvara asılır"
+    },
+    {
+     "en": "The sculpture sits on a pedestal",
+     "tr": "Heykel bir kaide üzerinde oturuyor"
+    },
+    {
+     "en": "I watch the performance",
+     "tr": "Performansı izliyorum"
+    },
+    {
+     "en": "She attends the concert",
+     "tr": "Konsere katılıyor"
+    },
+    {
+     "en": "He participates in the play",
+     "tr": "Oyuna katılıyor"
+    },
+    {
+     "en": "They cheer for the team",
+     "tr": "Takım için neşelendiriyorlar"
+    },
+    {
+     "en": "We support each other",
+     "tr": "Birbirimizi destekliyoruz"
+    },
+    {
+     "en": "You encourage me",
+     "tr": "Beni teşvik ediyorsun"
+    },
+    {
+     "en": "The audience claps loudly",
+     "tr": "Seyirci yüksek sesle alkışlıyor"
+    },
+    {
+     "en": "The singer sings beautifully",
+     "tr": "Şarkıcı güzel şarkı söylüyor"
+    },
+    {
+     "en": "I dance gracefully",
+     "tr": "Zarifçe dans ediyorum"
+    },
+    {
+     "en": "She plays the piano skillfully",
+     "tr": "Piyanoyu ustaca oynuyor"
+    },
+    {
+     "en": "He acts convincingly",
+     "tr": "İkna edici davranıyor"
+    },
+    {
+     "en": "They perform flawlessly",
+     "tr": "Kusursuz performans gösterirler"
+    },
+    {
+     "en": "We applaud enthusiastically",
+     "tr": "Coşkuyla alkışlıyoruz"
+    },
+    {
+     "en": "You congratulate the winner",
+     "tr": "Kazananı tebrik ediyorsun"
+    },
+    {
+     "en": "The trophy shines brightly",
+     "tr": "Kupa parlak parlıyor"
+    },
+    {
+     "en": "The medal glitters in the light",
+     "tr": "Madalya ışıkta parlıyor"
+    },
+    {
+     "en": "I hold the trophy proudly",
+     "tr": "Kupayı gururla tutuyorum"
+    },
+    {
+     "en": "She wears the medal proudly",
+     "tr": "Madalyayı gururla giyiyor"
+    },
+    {
+     "en": "He displays the certificate proudly",
+     "tr": "Sertifikayı gururla sergiliyor"
+    },
+    {
+     "en": "They pose for a photo",
+     "tr": "Bir fotoğraf için poz veriyorlar"
+    },
+    {
+     "en": "We celebrate the victory",
+     "tr": "Zaferi kutluyoruz"
+    },
+    {
+     "en": "You smile for the camera",
+     "tr": "Kamera için gülümsüyorsun"
+    },
+    {
+     "en": "The fireworks light up the sky",
+     "tr": "Havai fişekler gökyüzünü aydınlatır"
+    },
+    {
+     "en": "The balloons float in the air",
+     "tr": "Balonlar havada yüzer"
+    },
+    {
+     "en": "I blow out the candles",
+     "tr": "Mumları üflerim"
+    },
+    {
+     "en": "She makes a wish",
+     "tr": "Bir dilek yapar"
+    },
+    {
+     "en": "He cuts the cake",
+     "tr": "Pastayı keser"
+    },
+    {
+     "en": "They sing \"Happy Birthday\"",
+     "tr": "\"Mutlu yıllar\" söylüyorlar"
+    },
+    {
+     "en": "We give presents",
+     "tr": "Hediyeler veriyoruz"
+    },
+    {
+     "en": "You unwrap the gifts",
+     "tr": "Hediyeleri açıyorsun"
+    },
+    {
+     "en": "The party ends late",
+     "tr": "Parti geç biter"
+    },
+    {
+     "en": "The guests leave happily",
+     "tr": "Konuklar mutlu bir şekilde ayrılır"
+    },
+    {
+     "en": "I clean up the mess",
+     "tr": "Karmaşayı temizliyorum"
+    },
+    {
+     "en": "She thanks everyone",
+     "tr": "Herkese teşekkür ediyor"
+    },
+    {
+     "en": "He says goodbye",
+     "tr": "Hoşçakal diyor"
+    },
+    {
+     "en": "They hug each other",
+     "tr": "Birbirlerine sarılıyorlar"
+    },
+    {
+     "en": "We wave from the door",
+     "tr": "Kapıdan sallıyoruz"
+    },
+    {
+     "en": "You drive home safely",
+     "tr": "Eve güvenli bir şekilde sürüyorsunuz"
+    },
+    {
+     "en": "The night sky sparkles",
+     "tr": "Gece gökyüzü parlıyor"
+    },
+    {
+     "en": "The stars twinkle above",
+     "tr": "Yıldızlar yukarıda parlıyor"
+    },
+    {
+     "en": "I gaze at the moon",
+     "tr": "Ay'a bakıyorum"
+    },
+    {
+     "en": "She makes a wish upon a star",
+     "tr": "Bir yıldıza dilek veriyor"
+    },
+    {
+     "en": "He believes in magic",
+     "tr": "Büyüye inanıyor"
+    },
+    {
+     "en": "They dream of the future",
+     "tr": "Geleceği hayal ediyorlar"
+    },
+    {
+     "en": "We wish for happiness",
+     "tr": "Mutluluk diliyoruz"
+    },
+    {
+     "en": "You hope for success",
+     "tr": "Başarı umuyorsun"
+    },
+    {
+     "en": "The sunrise signals a new day",
+     "tr": "Sunrise yeni bir güne işaret ediyor"
+    },
+    {
+     "en": "The morning dew glistens",
+     "tr": "Sabah çiy parlıyor"
+    },
+    {
+     "en": "I wake up refreshed",
+     "tr": "Yenilenmiş uyanıyorum"
+    },
+    {
+     "en": "She stretches her arms",
+     "tr": "Kollarını uzatıyor"
+    },
+    {
+     "en": "He yawns loudly",
+     "tr": "Yüksek sesle esniyor"
+    },
+    {
+     "en": "They rub their eyes",
+     "tr": "Gözlerini ovalıyorlar"
+    },
+    {
+     "en": "We get out of bed",
+     "tr": "Yataktan çıkıyoruz"
+    },
+    {
+     "en": "You wash your face",
+     "tr": "Yüzünü yıkıyorsun"
+    },
+    {
+     "en": "The coffee brews slowly",
+     "tr": "Kahve yavaşça demlenir"
+    },
+    {
+     "en": "The toast pops up",
+     "tr": "Tost açılır"
+    },
+    {
+     "en": "I spread butter on my toast",
+     "tr": "Tostuma tereyağı yaydım"
+    },
+    {
+     "en": "She pours milk in her coffee",
+     "tr": "Kahvesine süt döküyor"
+    },
+    {
+     "en": "He adds sugar to his tea",
+     "tr": "Çayına şeker ekler"
+    },
+    {
+     "en": "They scramble eggs for breakfast",
+     "tr": "Kahvaltıda yumurta karıştırıyorlar"
+    },
+    {
+     "en": "We enjoy our meal",
+     "tr": "Yemeğimizin tadını çıkarıyoruz"
+    },
+    {
+     "en": "You sip your drink",
+     "tr": "İçkinizi yudumlarsın"
+    },
+    {
+     "en": "The newspaper headlines catch my eye",
+     "tr": "Gazete manşetleri gözüme çarpıyor"
+    },
+    {
+     "en": "The weather forecast predicts rain",
+     "tr": "Hava tahmini yağmur öngörüyor"
+    },
+    {
+     "en": "I grab my umbrella",
+     "tr": "Şemsiyemi alıyorum"
+    },
+    {
+     "en": "She wears a raincoat",
+     "tr": "Yağmurluk giyiyor"
+    },
+    {
+     "en": "He carries a backpack",
+     "tr": "Bir sırt çantası taşıyor"
+    },
+    {
+     "en": "They hurry to catch the bus",
+     "tr": "Otobüsü yakalamak için acele ediyorlar"
+    },
+    {
+     "en": "We wait at the bus stop",
+     "tr": "Otobüs durağında bekliyoruz"
+    },
+    {
+     "en": "You check the schedule",
+     "tr": "Programı kontrol edersiniz"
+    },
+    {
+     "en": "The bus arrives on time",
+     "tr": "Otobüs zamanında gelir"
+    },
+    {
+     "en": "The driver greets us",
+     "tr": "Sürücü bizi selamlıyor"
+    },
+    {
+     "en": "I pay the fare",
+     "tr": "Ücret ödüyorum"
+    },
+    {
+     "en": "She finds a seat",
+     "tr": "Bir koltuk bulur"
+    },
+    {
+     "en": "He stands near the door",
+     "tr": "Kapının yanında duruyor"
+    },
+    {
+     "en": "They chat with each other",
+     "tr": "Birbirleriyle sohbet ediyorlar"
+    },
+    {
+     "en": "We listen to music on headphones",
+     "tr": "Kulaklıklarda müzik dinliyoruz"
+    },
+    {
+     "en": "You watch the passing scenery",
+     "tr": "Geçen manzarayı izliyorsunuz"
+    },
+    {
+     "en": "The bus stops at my destination",
+     "tr": "Otobüs hedefimde duruyor"
+    },
+    {
+     "en": "I get off the bus",
+     "tr": "Otobüsten iniyorum"
+    },
+    {
+     "en": "She walks to work",
+     "tr": "İşe yürür"
+    },
+    {
+     "en": "He rides a bike",
+     "tr": "Bisiklet sürüyor"
+    },
+    {
+     "en": "They drive a car",
+     "tr": "Araba sürüyorlar"
+    },
+    {
+     "en": "We take the subway",
+     "tr": "Metroyu alıyoruz"
+    },
+    {
+     "en": "You catch a taxi",
+     "tr": "Bir taksi yakalıyorsun"
+    },
+    {
+     "en": "The traffic moves slowly",
+     "tr": "Trafik yavaş hareket ediyor"
+    },
+    {
+     "en": "The streets are crowded",
+     "tr": "Sokaklar kalabalık"
+    },
+    {
+     "en": "I cross the road carefully",
+     "tr": "Yolu dikkatlice geçiyorum"
+    },
+    {
+     "en": "She waits for the green light",
+     "tr": "Yeşil ışığı bekler"
+    },
+    {
+     "en": "He looks both ways",
+     "tr": "Her iki yöne de bakıyor"
+    },
+    {
+     "en": "They hold hands while walking",
+     "tr": "Yürürken el ele tutuşurlar"
+    },
+    {
+     "en": "We follow the pedestrian signs",
+     "tr": "Yaya işaretlerini takip ediyoruz"
+    },
+    {
+     "en": "You avoid the busy intersection",
+     "tr": "Meşgul kavşaktan kaçınırsınız"
+    },
+    {
+     "en": "The city noise fades away",
+     "tr": "Şehir gürültüsü kaybolur"
+    },
+    {
+     "en": "The park offers a peaceful retreat",
+     "tr": "Park huzurlu bir geri çekilme sunuyor"
+    },
+    {
+     "en": "I stroll along the path",
+     "tr": "Yol boyunca dolaşıyorum"
+    },
+    {
+     "en": "She feeds the ducks",
+     "tr": "Ördekleri besler"
+    },
+    {
+     "en": "He reads a book on a bench",
+     "tr": "Bir bankta bir kitap okuyor"
+    },
+    {
+     "en": "They have a picnic on the grass",
+     "tr": "Çimlerde piknik var"
+    },
+    {
+     "en": "We enjoy the sunshine",
+     "tr": "Güneş ışığının tadını çıkarıyoruz"
+    },
+    {
+     "en": "You take photos of flowers",
+     "tr": "Çiçeklerin fotoğraflarını çekiyorsun"
+    },
+    {
+     "en": "The trees provide shade",
+     "tr": "Ağaçlar gölge sağlar"
+    },
+    {
+     "en": "The breeze rustles the leaves",
+     "tr": "Esinti yaprakları hışırtı"
+    },
+    {
+     "en": "I breathe in the fresh air",
+     "tr": "Temiz havada nefes alıyorum"
+    },
+    {
+     "en": "She listens to birdsong",
+     "tr": "Birdsong'u dinler"
+    },
+    {
+     "en": "He watches squirrels play",
+     "tr": "Sincaplar oynamasını izliyor"
+    },
+    {
+     "en": "They admire the scenery",
+     "tr": "Manzaraya hayranlar"
+    },
+    {
+     "en": "We relax in nature",
+     "tr": "Doğada rahatlıyoruz"
+    },
+    {
+     "en": "You explore the trails",
+     "tr": "Yolları keşfediyorsun"
+    },
+    {
+     "en": "The river flows gently",
+     "tr": "Nehir nazikçe akar"
+    },
+    {
+     "en": "The waterfall cascades down",
+     "tr": "Şelale aşağı iner"
+    },
+    {
+     "en": "I dip my toes in the water",
+     "tr": "Ayak parmaklarımı suya batırıyorum"
+    },
+    {
+     "en": "She skips stones across the surface",
+     "tr": "Taşları yüzeye atlar"
+    },
+    {
+     "en": "He swims in the cool stream",
+     "tr": "Serin akarsuda yüzüyor"
+    },
+    {
+     "en": "They fish for trout",
+     "tr": "Alabalık için balık tutuyorlar"
+    },
+    {
+     "en": "We paddle a canoe",
+     "tr": "Bir kanoya kürek çekiyoruz"
+    },
+    {
+     "en": "You row a boat",
+     "tr": "Bir tekne sıraya giriyorsun"
+    },
+    {
+     "en": "The mountain looms ahead",
+     "tr": "Dağ ilerliyor"
+    },
+    {
+     "en": "The trail winds up the slope",
+     "tr": "İz yamaçtan yukarı çıkıyor"
+    },
+    {
+     "en": "I climb over rocks",
+     "tr": "Kaya tırmanıyorum"
+    },
+    {
+     "en": "She hikes through the forest",
+     "tr": "Ormanda yürüyüş yapıyor"
+    },
+    {
+     "en": "He reaches the summit",
+     "tr": "Zirveye ulaşır"
+    },
+    {
+     "en": "They pitch a tent",
+     "tr": "Bir çadır kuruyorlar"
+    },
+    {
+     "en": "We build a campfire",
+     "tr": "Bir kamp ateşi inşa ediyoruz"
+    },
+    {
+     "en": "You roast marshmallows",
+     "tr": "Marshmallow'u kızartıyorsun"
+    },
+    {
+     "en": "The stars twinkle above",
+     "tr": "Yıldızlar yukarıda parlıyor"
+    },
+    {
+     "en": "The moon shines brightly",
+     "tr": "Ay parlak parlıyor"
+    },
+    {
+     "en": "I sleep under the open sky",
+     "tr": "Açık gökyüzünün altında uyuyorum"
+    },
+    {
+     "en": "She dreams of adventure",
+     "tr": "Macera hayal ediyor"
+    },
+    {
+     "en": "He wakes up to birdsong",
+     "tr": "Birdsong'a uyanıyor"
+    },
+    {
+     "en": "They pack up their gear",
+     "tr": "Dişillerini paketliyorlar"
+    },
+    {
+     "en": "We hike back down",
+     "tr": "Geri çekiliyoruz"
+    },
+    {
+     "en": "You follow the trail markers",
+     "tr": "İz işaretlerini takip edersiniz"
+    },
+    {
+     "en": "The journey feels rewarding",
+     "tr": "Yolculuk ödüllendirici geliyor"
+    },
+    {
+     "en": "The memories will last forever",
+     "tr": "Anılar sonsuza dek sürecek"
+    },
+    {
+     "en": "I travel to new places",
+     "tr": "Yeni yerlere seyahat ediyorum"
+    },
+    {
+     "en": "She explores different cultures",
+     "tr": "Farklı kültürleri araştırıyor"
+    },
+    {
+     "en": "He learns new languages",
+     "tr": "Yeni diller öğreniyor"
+    },
+    {
+     "en": "They try exotic foods",
+     "tr": "Egzotik yiyecekleri denerler"
+    },
+    {
+     "en": "We meet interesting people",
+     "tr": "İlginç insanlarla tanışıyoruz"
+    },
+    {
+     "en": "You take photos as souvenirs",
+     "tr": "Hediyelik eşya olarak fotoğraf çekiyorsun"
+    },
+    {
+     "en": "The landmarks are impressive",
+     "tr": "Yer işaretleri etkileyici"
+    },
+    {
+     "en": "The museums are informative",
+     "tr": "Müzeler bilgilendirici"
+    },
+    {
+     "en": "I visit historical sites",
+     "tr": "Tarihsel yerleri ziyaret ediyorum"
+    },
+    {
+     "en": "She admires ancient ruins",
+     "tr": "Eski kalıntılara hayran kalır"
+    },
+    {
+     "en": "He tours famous buildings",
+     "tr": "Ünlü binaları geziyor"
+    },
+    {
+     "en": "They walk through art galleries",
+     "tr": "Sanat galerilerinden geçiyorlar"
+    },
+    {
+     "en": "We attend cultural festivals",
+     "tr": "Kültürel festivallere katılıyoruz"
+    },
+    {
+     "en": "You immerse yourself in tradition",
+     "tr": "Kendinizi geleneğe sokuyorsunuz"
+    },
+    {
+     "en": "The locals are friendly",
+     "tr": "Yerliler dostça"
+    },
+    {
+     "en": "The cuisine is delicious",
+     "tr": "Mutfak lezzetli"
+    },
+    {
+     "en": "I try street food",
+     "tr": "Sokak yemeklerini deniyorum"
+    },
+    {
+     "en": "She samples local delicacies",
+     "tr": "Yerel lezzetleri örnekliyor"
+    },
+    {
+     "en": "He orders a traditional dish",
+     "tr": "Geleneksel bir yemek sipariş ediyor"
+    },
+    {
+     "en": "They enjoy a culinary experience",
+     "tr": "Mutfak deneyiminden hoşlanıyorlar"
+    },
+    {
+     "en": "We dine at a fancy restaurant",
+     "tr": "Biz süslü bir restoranda yemek"
+    },
+    {
+     "en": "You taste exotic spices",
+     "tr": "Egzotik baharatların tadına bakarsınız"
+    },
+    {
+     "en": "The music sets the mood",
+     "tr": "Müzik ruh halini ayarlar"
+    },
+    {
+     "en": "The atmosphere is lively",
+     "tr": "Atmosfer canlı"
+    },
+    {
+     "en": "I dance to the rhythm",
+     "tr": "Ritimle dans ediyorum"
+    },
+    {
+     "en": "She claps her hands",
+     "tr": "Ellerini çırpıyor"
+    },
+    {
+     "en": "He sings along to the song",
+     "tr": "Şarkıya şarkı söylüyor"
+    },
+    {
+     "en": "They sway to the music",
+     "tr": "Müziğe sallanıyorlar"
+    },
+    {
+     "en": "We have a great time",
+     "tr": "Harika zamanımız var"
+    },
+    {
+     "en": "You make memories together",
+     "tr": "Birlikte anıları yapıyorsun"
+    },
+    {
+     "en": "The party lasts all night",
+     "tr": "Parti bütün gece sürüyor"
+    },
+    {
+     "en": "The celebration is unforgettable",
+     "tr": "Kutlama unutulmaz"
+    },
+    {
+     "en": "I feel grateful for the experience",
+     "tr": "Deneyim için minnettarım"
+    },
+    {
+     "en": "She cherishes the moment",
+     "tr": "Anı besler"
+    },
+    {
+     "en": "He savors the memories",
+     "tr": "Anılardan kurtulur"
+    },
+    {
+     "en": "They reminisce about the past",
+     "tr": "Geçmişi hatırlatıyorlar"
+    },
+    {
+     "en": "We plan future adventures",
+     "tr": "Gelecek maceraları planlıyoruz"
+    },
+    {
+     "en": "You look forward to the next trip",
+     "tr": "Bir sonraki geziyi dört gözle bekliyorsunuz"
+    },
+    {
+     "en": "The journey home begins",
+     "tr": "Eve yolculuk başlar"
+    },
+    {
+     "en": "The flight takes off smoothly",
+     "tr": "Uçuş sorunsuz bir şekilde kalkıyor"
+    },
+    {
+     "en": "I watch the clouds from above",
+     "tr": "Bulutları yukarıdan izliyorum"
+    },
+    {
+     "en": "She reads a book during the flight",
+     "tr": "Uçuş sırasında bir kitap okuyor"
+    },
+    {
+     "en": "He listens to music with headphones",
+     "tr": "Kulaklıklı müzik dinler"
+    },
+    {
+     "en": "They sleep through the journey",
+     "tr": "Yolculuk boyunca uyuyorlar"
+    },
+    {
+     "en": "We arrive at our destination",
+     "tr": "Hedefimize varıyoruz"
+    },
+    {
+     "en": "You collect your luggage",
+     "tr": "Bagajınızı topluyorsun"
+    },
+    {
+     "en": "The airport is bustling with activity",
+     "tr": "Havaalanı aktivite ile doludur"
+    },
+    {
+     "en": "The taxi takes us to the hotel",
+     "tr": "Taksi bizi otele götürür"
+    },
+    {
+     "en": "I check in at the reception desk",
+     "tr": "Resepsiyon masasında check -in yapıyorum"
+    },
+    {
+     "en": "She unpacks her suitcase",
+     "tr": "Bavulunu açar"
+    },
+    {
+     "en": "He relaxes on the bed",
+     "tr": "Yatakta rahatlıyor"
+    },
+    {
+     "en": "They explore the city streets",
+     "tr": "Şehir sokaklarını keşfediyorlar"
+    },
+    {
+     "en": "We visit tourist attractions",
+     "tr": "Turist cazibe merkezlerini ziyaret ediyoruz"
+    },
+    {
+     "en": "You take a guided tour",
+     "tr": "Rehberli bir tur atıyorsunuz"
+    },
+    {
+     "en": "The landmarks are impressive",
+     "tr": "Yer işaretleri etkileyici"
+    },
+    {
+     "en": "The architecture is stunning",
+     "tr": "Mimari çarpıcı"
+    },
+    {
+     "en": "I take photos as souvenirs",
+     "tr": "Hediyelik eşya olarak fotoğraf çekiyorum"
+    },
+    {
+     "en": "She buys gifts for friends",
+     "tr": "Arkadaşlar için hediyeler alıyor"
+    },
+    {
+     "en": "He tries local cuisine",
+     "tr": "Yerel mutfağı deniyor"
+    },
+    {
+     "en": "They mingle with locals",
+     "tr": "Yerlilerle karışıyorlar"
+    },
+    {
+     "en": "We learn about the culture",
+     "tr": "Kültürü öğreniyoruz"
+    },
+    {
+     "en": "You navigate through the city",
+     "tr": "Şehirde geziniyorsunuz"
+    },
+    {
+     "en": "The streets are crowded",
+     "tr": "Sokaklar kalabalık"
+    },
+    {
+     "en": "The traffic moves slowly",
+     "tr": "Trafik yavaş hareket ediyor"
+    },
+    {
+     "en": "I admire the city skyline",
+     "tr": "Şehir silüetine hayranım"
+    },
+    {
+     "en": "She walks along the waterfront",
+     "tr": "Sahil boyunca yürür"
+    },
+    {
+     "en": "He rides a bike through the park",
+     "tr": "Parktan bisiklet sürüyor"
+    },
+    {
+     "en": "They picnic in the botanical gardens",
+     "tr": "Botanik bahçelerinde piknikler"
+    },
+    {
+     "en": "We watch street performers",
+     "tr": "Sokak sanatçılarını izliyoruz"
+    },
+    {
+     "en": "You explore hidden alleyways",
+     "tr": "Gizli geçitleri keşfediyorsunuz"
+    },
+    {
+     "en": "The city comes alive at night",
+     "tr": "Şehir geceleri canlanıyor"
+    },
+    {
+     "en": "The lights illuminate the skyline",
+     "tr": "Işıklar silüeti aydınlatır"
+    },
+    {
+     "en": "I dine at a rooftop restaurant",
+     "tr": "Bir çatı restoranında yemek yiyorum"
+    },
+    {
+     "en": "She dances at a nightclub",
+     "tr": "Bir gece kulübünde dans ediyor"
+    },
+    {
+     "en": "He attends a live music concert",
+     "tr": "Canlı bir müzik konserine katılıyor"
+    },
+    {
+     "en": "They sip cocktails at a bar",
+     "tr": "Bir barda kokteyl yudumlarlar"
+    },
+    {
+     "en": "We enjoy the vibrant nightlife",
+     "tr": "Canlı gece hayatının tadını çıkarıyoruz"
+    },
+    {
+     "en": "You make new friends",
+     "tr": "Yeni arkadaşlar edin"
+    },
+    {
+     "en": "The laughter echoes in the air",
+     "tr": "Kahkaha havada yankılanıyor"
+    },
+    {
+     "en": "The music fills the room",
+     "tr": "Müzik odayı dolduruyor"
+    },
+    {
+     "en": "I feel alive with excitement",
+     "tr": "Heyecanla canlı hissediyorum"
+    },
+    {
+     "en": "She lets loose and dances",
+     "tr": "Gevşemeye izin veriyor ve dans ediyor"
+    },
+    {
+     "en": "He sings along to the song",
+     "tr": "Şarkıya şarkı söylüyor"
+    },
+    {
+     "en": "They raise their glasses in a toast",
+     "tr": "Gözlüklerini bir tostta kaldırırlar"
+    },
+    {
+     "en": "We celebrate the moment",
+     "tr": "Anı kutluyoruz"
+    },
+    {
+     "en": "You create memories together",
+     "tr": "Birlikte anılar yaratırsınız"
+    },
+    {
+     "en": "The night slips away quickly",
+     "tr": "Gece hızla kayar"
+    },
+    {
+     "en": "The sun rises on a new day",
+     "tr": "Yeni bir günde güneş doğar"
+    },
+    {
+     "en": "I wake up feeling refreshed",
+     "tr": "Yenilenmiş hissediyorum"
+    },
+    {
+     "en": "She smiles at the memories",
+     "tr": "Anılara gülümsüyor"
+    },
+    {
+     "en": "He laughs at the stories",
+     "tr": "Hikayelere gülüyor"
+    },
+    {
+     "en": "They reminisce about the night",
+     "tr": "Geceyi hatırlıyorlar"
+    },
+    {
+     "en": "We plan another adventure",
+     "tr": "Başka bir macera planlıyoruz"
+    },
+    {
+     "en": "You look forward to the future",
+     "tr": "Geleceği dört gözle bekliyorsunuz"
+    },
+    {
+     "en": "The journey continues",
+     "tr": "Yolculuk devam ediyor"
+    },
+    {
+     "en": "The road stretches ahead",
+     "tr": "Yol ilerliyor"
+    },
+    {
+     "en": "I take the first step",
+     "tr": "İlk adımı atıyorum"
+    },
+    {
+     "en": "She walks by my side",
+     "tr": "Benim yanımda yürüyor"
+    },
+    {
+     "en": "He leads the way",
+     "tr": "Yol açar"
+    },
+    {
+     "en": "They follow the path",
+     "tr": "Yolu takip ediyorlar"
+    },
+    {
+     "en": "We explore new horizons",
+     "tr": "Yeni ufukları keşfediyoruz"
+    },
+    {
+     "en": "You embrace the unknown",
+     "tr": "Bilinmeyenleri kucaklıyorsun"
+    },
+    {
+     "en": "The adventure awaits",
+     "tr": "Macera bekliyor"
+    },
+    {
+     "en": "The possibilities are endless",
+     "tr": "İmkanlar sonsuzdur"
+    },
+    {
+     "en": "I feel excited about the journey",
+     "tr": "Yolculuk için heyecanlı hissediyorum"
+    },
+    {
+     "en": "She shares my enthusiasm",
+     "tr": "Coşkumu paylaşıyor"
+    },
+    {
+     "en": "He encourages me to keep going",
+     "tr": "Beni devam ettirmeye teşvik ediyor"
+    },
+    {
+     "en": "They support me along the way",
+     "tr": "Beni yol boyunca destekliyorlar"
+    },
+    {
+     "en": "We overcome obstacles together",
+     "tr": "Birlikte engellerin üstesinden geliyoruz"
+    },
+    {
+     "en": "You celebrate each milestone",
+     "tr": "Her kilometre taşını kutluyorsunuz"
+    },
+    {
+     "en": "The destination draws nearer",
+     "tr": "Hedef yaklaşıyor"
+    },
+    {
+     "en": "The goal is within reach",
+     "tr": "Amaç ulaşılabilir"
+    },
+    {
+     "en": "I savor the moment",
+     "tr": "Anın tadını çıkarıyorum"
+    },
+    {
+     "en": "She captures the beauty in a photo",
+     "tr": "Bir fotoğraftaki güzelliği yakalar"
+    },
+    {
+     "en": "He writes about the experience",
+     "tr": "Deneyim hakkında yazıyor"
+    },
+    {
+     "en": "They reflect on the journey",
+     "tr": "Yolculuk üzerine düşünürler"
+    },
+    {
+     "en": "We cherish the memories",
+     "tr": "Anıları besliyoruz"
+    },
+    {
+     "en": "You treasure the friendships",
+     "tr": "Arkadaşlıklara değer veriyorsun"
+    },
+    {
+     "en": "The bonds grow stronger",
+     "tr": "Tahviller güçlenir"
+    },
+    {
+     "en": "The lessons learned are invaluable",
+     "tr": "Öğrenilen dersler paha biçilmezdir"
+    },
+    {
+     "en": "I am grateful for the experience",
+     "tr": "Deneyim için minnettarım"
+    },
+    {
+     "en": "She feels a sense of accomplishment",
+     "tr": "Bir başarı duygusu hissediyor"
+    },
+    {
+     "en": "He gains confidence in himself",
+     "tr": "Kendine güveniyor"
+    },
+    {
+     "en": "They discover new strengths",
+     "tr": "Yeni güçlü yönler keşfediyorlar"
+    },
+    {
+     "en": "We celebrate the journey",
+     "tr": "Yolculuğu kutluyoruz"
+    },
+    {
+     "en": "You embark on new adventures",
+     "tr": "Yeni maceralara başlıyorsunuz"
+    },
+    {
+     "en": "The future is full of possibilities",
+     "tr": "Gelecek olasılıklarla doludur"
+    },
+    {
+     "en": "The world is waiting to be explored",
+     "tr": "Dünya keşfedilmeyi bekliyor"
+    },
+    {
+     "en": "I follow my dreams",
+     "tr": "Hayallerimi takip ediyorum"
+    },
+    {
+     "en": "She believes in herself",
+     "tr": "Kendisine inanıyor"
+    },
+    {
+     "en": "He pursues his passions",
+     "tr": "Tutkularını sürdürüyor"
+    },
+    {
+     "en": "They overcome challenges",
+     "tr": "Zorlukların üstesinden gelirler"
+    },
+    {
+     "en": "We achieve our goals",
+     "tr": "Hedeflerimize ulaşıyoruz"
+    },
+    {
+     "en": "You inspire others to follow their dreams",
+     "tr": "Başkalarına hayallerini takip etmeleri için ilham veriyorsunuz"
+    },
+    {
+     "en": "The journey is worth it",
+     "tr": "Yolculuk buna değer"
+    },
+    {
+     "en": "The destination is just a milestone",
+     "tr": "Hedef sadece bir kilometre taşıdır"
+    },
+    {
+     "en": "I continue to grow and evolve",
+     "tr": "Büyümeye ve gelişmeye devam ediyorum"
+    },
+    {
+     "en": "She faces each day with courage",
+     "tr": "Her gün cesaretle karşı karşıya"
+    },
+    {
+     "en": "He embraces change with optimism",
+     "tr": "Değişimi iyimserlikle kucaklar"
+    },
+    {
+     "en": "They adapt to new situations",
+     "tr": "Yeni durumlara uyum sağlarlar"
+    },
+    {
+     "en": "We learn from our experiences",
+     "tr": "Deneyimlerimizden öğreniyoruz"
+    },
+    {
+     "en": "You make a difference in the world",
+     "tr": "Dünyada bir fark yaratıyorsun"
+    },
+    {
+     "en": "The journey of life is unpredictable",
+     "tr": "Yaşam yolculuğu öngörülemez"
+    },
+    {
+     "en": "The path may have twists and turns",
+     "tr": "Yolun kıvrımları ve dönüşleri olabilir"
+    },
+    {
+     "en": "I embrace the unknown",
+     "tr": "Bilinmeyenleri kucaklıyorum"
+    },
+    {
+     "en": "She welcomes new opportunities",
+     "tr": "Yeni fırsatları memnuniyetle karşılıyor"
+    },
+    {
+     "en": "He seizes the moment",
+     "tr": "Anı yakalar"
+    },
+    {
+     "en": "They live life to the fullest",
+     "tr": "Hayatı sonuna kadar yaşıyorlar"
+    },
+    {
+     "en": "We cherish each day",
+     "tr": "Her gün besliyoruz"
+    },
+    {
+     "en": "You never know what tomorrow may bring",
+     "tr": "Yarının ne getireceğini asla bilemezsin"
+    },
+    {
+     "en": "The journey is what you make of it",
+     "tr": "Yolculuk, yaptığınız şeydir"
+    },
+    {
+     "en": "The destination is just a bonus",
+     "tr": "Hedef sadece bir bonus"
+    },
+    {
+     "en": "I am grateful for the journey",
+     "tr": "Yolculuk için minnettarım"
+    },
+    {
+     "en": "She finds joy in the little things",
+     "tr": "Küçük şeylerde sevinç bulur"
+    },
+    {
+     "en": "He appreciates the beauty around him",
+     "tr": "Etrafındaki güzelliği takdir ediyor"
+    },
+    {
+     "en": "They live in the present moment",
+     "tr": "Şu anda yaşıyorlar"
+    },
+    {
+     "en": "We make memories to last a lifetime",
+     "tr": "Bir ömür boyu sürecek anılar yapıyoruz"
+    },
+    {
+     "en": "You never regret the journey you take",
+     "tr": "Aldığınız yolculuğa asla pişman olmazsınız"
+    },
+    {
+     "en": "The path may be challenging at times",
+     "tr": "Yol zaman zaman zor olabilir"
+    },
+    {
+     "en": "The journey molds us into who we are",
+     "tr": "Yolculuk bizi kim olduğumuza dönüştürüyor"
+    },
+    {
+     "en": "I am proud of how far I've come",
+     "tr": "Ne kadar ileri geldiğimle gurur duyuyorum"
+    },
+    {
+     "en": "She celebrates her achievements",
+     "tr": "Başarılarını kutluyor"
+    },
+    {
+     "en": "He looks forward to the future",
+     "tr": "Geleceği dört gözle bekliyor"
+    },
+    {
+     "en": "They embrace new beginnings",
+     "tr": "Yeni başlangıçları kucaklıyorlar"
+    },
+    {
+     "en": "We welcome change with open arms",
+     "tr": "Değişimi açık kollarla memnuniyetle karşılıyoruz"
+    },
+    {
+     "en": "You never stop growing and learning",
+     "tr": "Büyümeyi ve öğrenmeyi asla bırakmazsınız"
+    },
+    {
+     "en": "The journey is a constant adventure",
+     "tr": "Yolculuk sürekli bir maceradır"
+    },
+    {
+     "en": "The road ahead is full of possibilities",
+     "tr": "Önümüzdeki yol olasılıklarla doludur"
+    },
+    {
+     "en": "I face each challenge with determination",
+     "tr": "Her zorlukla kararlılıkla karşılaşıyorum"
+    },
+    {
+     "en": "She conquers her fears",
+     "tr": "Korkularını fethetiyor"
+    },
+    {
+     "en": "He reaches for the stars",
+     "tr": "Yıldızlara ulaşır"
+    },
+    {
+     "en": "They never give up on their dreams",
+     "tr": "Hayallerinden asla vazgeçmezler"
+    },
+    {
+     "en": "We strive for greatness",
+     "tr": "Biz büyüklük için çalışıyoruz"
+    },
+    {
+     "en": "You inspire others with your actions",
+     "tr": "Eylemlerinizle başkalarına ilham veriyorsunuz"
+    },
+    {
+     "en": "The journey is a testament to your strength",
+     "tr": "Yolculuk gücünüzün bir kanıtıdır"
+    },
+    {
+     "en": "The destination is just the beginning",
+     "tr": "Hedef sadece başlangıç"
+    },
+    {
+     "en": "I am excited for what lies ahead",
+     "tr": "Önümüzdeki şey için heyecanlıyım"
+    },
+    {
+     "en": "She believes in the power of dreams",
+     "tr": "Hayallerin gücüne inanıyor"
+    },
+    {
+     "en": "He follows his heart",
+     "tr": "Kalbini takip ediyor"
+    },
+    {
+     "en": "They dare to be different",
+     "tr": "Farklı olmaya cesaret ediyorlar"
+    },
+    {
+     "en": "We make our own destiny",
+     "tr": "Kendi kaderimizi yapıyoruz"
+    },
+    {
+     "en": "You have the power to change the world",
+     "tr": "Dünyayı değiştirme gücünüz var"
+    },
+    {
+     "en": "The journey is an adventure of a lifetime",
+     "tr": "Yolculuk bir ömür boyu maceradır"
+    },
+    {
+     "en": "The destination is a milestone",
+     "tr": "Hedef bir kilometre taşıdır"
+    },
+    {
+     "en": "I embrace the journey with open arms",
+     "tr": "Yolculuğu açık kollarla kucaklıyorum"
+    },
+    {
+     "en": "She dances to the rhythm of life",
+     "tr": "Hayatın ritmiyle dans ediyor"
+    },
+    {
+     "en": "He sings his own song",
+     "tr": "Kendi şarkısını söylüyor"
+    },
+    {
+     "en": "They paint their own canvas",
+     "tr": "Kendi tuvallerini boyarlar"
+    },
+    {
+     "en": "We write our own story",
+     "tr": "Kendi hikayemizi yazıyoruz"
+    },
+    {
+     "en": "You are the architect of your destiny",
+     "tr": "Sen kaderinin mimarısın"
+    },
+    {
+     "en": "The journey is yours to create",
+     "tr": "Yolculuk sizindir"
+    },
+    {
+     "en": "The destination is just a waypoint",
+     "tr": "Hedef sadece bir yol noktasıdır"
+    },
+    {
+     "en": "I cherish every moment along the way",
+     "tr": "Yol boyunca her anı besliyorum"
+    },
+    {
+     "en": "She finds beauty in the chaos",
+     "tr": "Kaostan güzellik bulur"
+    },
+    {
+     "en": "He thrives in uncertainty",
+     "tr": "Belirsizlik içinde gelişir"
+    },
+    {
+     "en": "They bloom where they are planted",
+     "tr": "Dikildikleri yerde çiçek açarlar"
+    },
+    {
+     "en": "We journey together, hand in hand",
+     "tr": "Birlikte seyahat ediyoruz, el ele"
+    },
+    {
+     "en": "You are never alone on the journey of life",
+     "tr": "Hayat yolculuğunda asla yalnız değilsin"
+    }
+   ]
+}

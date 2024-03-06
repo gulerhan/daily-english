@@ -1,0 +1,2001 @@
+{
+  "sentences":
+  [
+    {
+     "en": "She often goes for a walk in the park",
+     "tr": "Sık sık parkta yürüyüşe gider"
+    },
+    {
+     "en": "He likes to listen to music while studying",
+     "tr": "Okurken müzik dinlemeyi sever"
+    },
+    {
+     "en": "They usually meet at the coffee shop",
+     "tr": "Genellikle kahve dükkanında buluşurlar"
+    },
+    {
+     "en": "We often watch movies together on weekends",
+     "tr": "Sık sık hafta sonları birlikte film izleriz"
+    },
+    {
+     "en": "You should try new foods when traveling",
+     "tr": "Seyahat ederken yeni yiyecekler denemelisiniz"
+    },
+    {
+     "en": "The weather can be unpredictable in spring",
+     "tr": "Hava ilkbaharda öngörülemez olabilir"
+    },
+    {
+     "en": "The cat always curls up on the couch",
+     "tr": "Kedi her zaman kanepede kıvrılır"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to come home",
+     "tr": "Köpek hevesle sahibinin eve gelmesini bekler"
+    },
+    {
+     "en": "It rarely snows in this part of the country",
+     "tr": "Ülkenin bu bölgesinde nadiren kar yağıyor"
+    },
+    {
+     "en": "I plan to visit Paris next summer",
+     "tr": "Önümüzdeki yaz Paris'i ziyaret etmeyi planlıyorum"
+    },
+    {
+     "en": "She dreams of becoming a famous artist",
+     "tr": "Ünlü bir sanatçı olmayı hayal ediyor"
+    },
+    {
+     "en": "He sometimes forgets to call his parents",
+     "tr": "Bazen ailesini aramayı unutur"
+    },
+    {
+     "en": "They frequently go hiking in the mountains",
+     "tr": "Sık sık dağlarda yürüyüş yaparlar"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You need to practice speaking English more",
+     "tr": "İngilizce konuşmayı daha fazla pratik yapmalısınız"
+    },
+    {
+     "en": "The sun sets beautifully over the ocean",
+     "tr": "Güneş okyanusun üzerine güzelce batıyor"
+    },
+    {
+     "en": "The moon shines brightly in the night sky",
+     "tr": "Ay gece gökyüzünde parlak bir şekilde parlıyor"
+    },
+    {
+     "en": "I usually wake up early to exercise",
+     "tr": "Genellikle egzersiz yapmak için erken uyanırım"
+    },
+    {
+     "en": "She enjoys cooking new recipes",
+     "tr": "Yeni tarifler pişirmeyi seviyor"
+    },
+    {
+     "en": "He rarely stays up late on weekdays",
+     "tr": "Nadiren hafta içi geç kalır"
+    },
+    {
+     "en": "They often go on road trips with friends",
+     "tr": "Genellikle arkadaşlarla yol gezilerine giderler"
+    },
+    {
+     "en": "We always have a lot of fun at parties",
+     "tr": "Partilerde her zaman çok eğleniyoruz"
+    },
+    {
+     "en": "You should take breaks while studying",
+     "tr": "Çalışırken ara vermelisiniz"
+    },
+    {
+     "en": "The cat often plays with a ball of yarn",
+     "tr": "Kedi genellikle bir iplik topu ile oynar"
+    },
+    {
+     "en": "The dog loves to chase squirrels in the yard",
+     "tr": "Köpek bahçedeki sincapları kovalamayı sever"
+    },
+    {
+     "en": "It rarely rains during the summer months",
+     "tr": "Yaz aylarında nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a hot shower before bed",
+     "tr": "Yatmadan önce genellikle sıcak bir duş alırım"
+    },
+    {
+     "en": "She often sings along to her favorite songs",
+     "tr": "Sık sık favori şarkılarına şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his umbrella on rainy days",
+     "tr": "Bazen yağmurlu günlerde şemsiyesini unutur"
+    },
+    {
+     "en": "They always volunteer at the local shelter",
+     "tr": "Her zaman yerel barınakta gönüllü olurlar"
+    },
+    {
+     "en": "We frequently visit museums on weekends",
+     "tr": "Hafta sonları sık sık müzeleri ziyaret ediyoruz"
+    },
+    {
+     "en": "You often hear birds chirping in the morning",
+     "tr": "Sık sık sabah cıvıl cıvıl kuşları duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the summer",
+     "tr": "Güneş yazın başlarında doğar"
+    },
+    {
+     "en": "The moon sometimes hides behind the clouds",
+     "tr": "Ay bazen bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually drink tea in the afternoon",
+     "tr": "Öğleden sonra genellikle çay içiyorum"
+    },
+    {
+     "en": "She enjoys going shopping with friends",
+     "tr": "Arkadaşlarla alışveriş yapmaktan hoşlanıyor"
+    },
+    {
+     "en": "He rarely eats fast food",
+     "tr": "Nadiren fast food yiyor"
+    },
+    {
+     "en": "They often go swimming at the beach",
+     "tr": "Genellikle sahilde yüzmeye giderler"
+    },
+    {
+     "en": "We always have a barbecue in the backyard",
+     "tr": "Arka bahçede her zaman bir barbekü var"
+    },
+    {
+     "en": "You should try to learn a new language",
+     "tr": "Yeni bir dil öğrenmeye çalışmalısınız"
+    },
+    {
+     "en": "The cat occasionally brings home mice",
+     "tr": "Kedi ara sıra ev fareleri getirir"
+    },
+    {
+     "en": "The dog patiently waits for its food",
+     "tr": "Köpek sabırla yemeğini bekler"
+    },
+    {
+     "en": "It rarely gets cold in this part of the world",
+     "tr": "Dünyanın bu bölgesinde nadiren soğuyor"
+    },
+    {
+     "en": "I often take photos of beautiful scenery",
+     "tr": "Sık sık güzel manzaraların fotoğraflarını çekerim"
+    },
+    {
+     "en": "She sometimes forgets to water the plants",
+     "tr": "Bazen bitkileri sulamayı unutur"
+    },
+    {
+     "en": "He usually reads a book before bed",
+     "tr": "Genellikle yatmadan önce bir kitap okur"
+    },
+    {
+     "en": "They always go for a run in the morning",
+     "tr": "Her zaman sabah koşmaya giderler"
+    },
+    {
+     "en": "We frequently visit our relatives",
+     "tr": "Akrabalarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of calm in nature",
+     "tr": "Genellikle doğada sakin bir his hissedersiniz"
+    },
+    {
+     "en": "The sun sets early in the winter",
+     "tr": "Güneş kışın erken batar"
+    },
+    {
+     "en": "The moon occasionally casts a soft glow",
+     "tr": "Ay ara sıra yumuşak bir parıltı atar"
+    },
+    {
+     "en": "I usually go for a walk after dinner",
+     "tr": "Genellikle akşam yemeğinden sonra yürüyüşe çıkıyorum"
+    },
+    {
+     "en": "She often dreams of traveling the world",
+     "tr": "Sık sık dünyayı dolaşmayı hayal eder"
+    },
+    {
+     "en": "He rarely misses his morning coffee",
+     "tr": "Sabah kahvesini nadiren özlüyor"
+    },
+    {
+     "en": "They always go skiing in the winter",
+     "tr": "Her zaman kışın kayak yapıyorlar"
+    },
+    {
+     "en": "We often play board games together",
+     "tr": "Sık sık birlikte masa oyunları oynarız"
+    },
+    {
+     "en": "You should try to be more patient",
+     "tr": "Daha sabırlı olmaya çalışmalısın"
+    },
+    {
+     "en": "The cat sometimes sleeps in a sunbeam",
+     "tr": "Kedi bazen bir güneş ışığında uyur"
+    },
+    {
+     "en": "The dog eagerly waits for its evening walk",
+     "tr": "Köpek hevesle akşam yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in the city",
+     "tr": "Şehirde nadiren kar yağar"
+    },
+    {
+     "en": "I usually take a nap on Sundays",
+     "tr": "Genellikle Pazar günleri kestiririm"
+    },
+    {
+     "en": "She often listens to music while working",
+     "tr": "Çalışırken sık sık müzik dinler"
+    },
+    {
+     "en": "He sometimes forgets to lock the door",
+     "tr": "Bazen kapıyı kilitlemeyi unutur"
+    },
+    {
+     "en": "They always go camping in the summer",
+     "tr": "Her zaman yaz aylarında kamp yapmaya giderler"
+    },
+    {
+     "en": "We frequently go to concerts downtown",
+     "tr": "Sık sık şehir merkezinde konserlere gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of waves at the beach",
+     "tr": "Sık sık plajda dalgaların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the morning",
+     "tr": "Güneş sabah erken doğar"
+    },
+    {
+     "en": "The moon sometimes shines through the trees",
+     "tr": "Ay bazen ağaçların arasından parlar"
+    },
+    {
+     "en": "I usually drink coffee in the morning",
+     "tr": "Genellikle sabah kahve içiyorum"
+    },
+    {
+     "en": "She often cooks dinner for her family",
+     "tr": "Sık sık ailesi için akşam yemeği pişirir"
+    },
+    {
+     "en": "He rarely stays up past midnight",
+     "tr": "Gece yarısından nadiren kalır"
+    },
+    {
+     "en": "They always go hiking on weekends",
+     "tr": "Her zaman hafta sonları yürüyüşe giderler"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You should try new things more often",
+     "tr": "Yeni şeyler daha sık denemelisiniz"
+    },
+    {
+     "en": "The cat occasionally catches birds",
+     "tr": "Kedi zaman zaman kuşları yakalar"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to return",
+     "tr": "Köpek hevesle sahibinin geri dönmesini bekler"
+    },
+    {
+     "en": "It rarely rains in the desert",
+     "tr": "Çölde nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a bubble bath before bed",
+     "tr": "Yatmadan önce genellikle kabarcık banyosu alırım"
+    },
+    {
+     "en": "She often sings in the shower",
+     "tr": "Sık sık duşta şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his own phone number",
+     "tr": "Bazen kendi telefon numarasını unutur"
+    },
+    {
+     "en": "They always go for a bike ride in the afternoon",
+     "tr": "Öğleden sonra her zaman bisiklete binerler"
+    },
+    {
+     "en": "We frequently visit our friends in the city",
+     "tr": "Şehirdeki arkadaşlarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of peace in the countryside",
+     "tr": "Kırsal kesimde sık sık bir barış duygusu hissedersiniz"
+    },
+    {
+     "en": "The sun sets beautifully over the mountains",
+     "tr": "Güneş dağların üzerine güzelce batar"
+    },
+    {
+     "en": "The moon occasionally hides behind the clouds",
+     "tr": "Ay ara sıra bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually go jogging in the park",
+     "tr": "Genellikle parkta koşmaya gidiyorum"
+    },
+    {
+     "en": "She often dreams of becoming a famous singer",
+     "tr": "Sık sık ünlü bir şarkıcı olmayı hayal eder"
+    },
+    {
+     "en": "He rarely forgets to set his alarm clock",
+     "tr": "Nadiren çalar saatini ayarlamayı unutur"
+    },
+    {
+     "en": "They always go for a walk in the evening",
+     "tr": "Her zaman akşam yürüyüşe giderler"
+    },
+    {
+     "en": "We often go out for dinner on Fridays",
+     "tr": "Sık sık Cuma günleri akşam yemeğine çıkıyoruz"
+    },
+    {
+     "en": "You should try to be more organized",
+     "tr": "Daha organize olmaya çalışmalısınız"
+    },
+    {
+     "en": "The cat sometimes plays with its toys",
+     "tr": "Kedi bazen oyuncaklarıyla oynar"
+    },
+    {
+     "en": "The dog eagerly waits for its daily walk",
+     "tr": "Köpek hevesle günlük yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in this part of the country",
+     "tr": "Ülkenin bu bölgesinde nadiren kar yağıyor"
+    },
+    {
+     "en": "I usually take a long bath on weekends",
+     "tr": "Genellikle hafta sonları uzun bir banyo yaparım"
+    },
+    {
+     "en": "She often listens to podcasts while cleaning",
+     "tr": "Sık sık temizlik yaparken podcast'leri dinler"
+    },
+    {
+     "en": "He sometimes forgets to turn off the lights",
+     "tr": "Bazen ışıkları kapatmayı unutur"
+    },
+    {
+     "en": "They always go on family vacations in the summer",
+     "tr": "Yaz aylarında her zaman aile tatillerine devam ederler"
+    },
+    {
+     "en": "We frequently go to the beach on weekends",
+     "tr": "Hafta sonları sık sık plaja gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of birds chirping in the morning",
+     "tr": "Sık sık sabah cıvıl cıvıl kuşların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the summer",
+     "tr": "Güneş yazın başlarında doğar"
+    },
+    {
+     "en": "The moon sometimes hides behind the clouds",
+     "tr": "Ay bazen bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually drink tea in the afternoon",
+     "tr": "Öğleden sonra genellikle çay içiyorum"
+    },
+    {
+     "en": "She enjoys going shopping with friends",
+     "tr": "Arkadaşlarla alışveriş yapmaktan hoşlanıyor"
+    },
+    {
+     "en": "He rarely eats fast food",
+     "tr": "Nadiren fast food yiyor"
+    },
+    {
+     "en": "They often go swimming at the beach",
+     "tr": "Genellikle sahilde yüzmeye giderler"
+    },
+    {
+     "en": "We always have a barbecue in the backyard",
+     "tr": "Arka bahçede her zaman bir barbekü var"
+    },
+    {
+     "en": "You should try to learn a new language",
+     "tr": "Yeni bir dil öğrenmeye çalışmalısınız"
+    },
+    {
+     "en": "The cat occasionally brings home mice",
+     "tr": "Kedi ara sıra ev fareleri getirir"
+    },
+    {
+     "en": "The dog patiently waits for its food",
+     "tr": "Köpek sabırla yemeğini bekler"
+    },
+    {
+     "en": "It rarely gets cold in this part of the world",
+     "tr": "Dünyanın bu bölgesinde nadiren soğuyor"
+    },
+    {
+     "en": "I often take photos of beautiful scenery",
+     "tr": "Sık sık güzel manzaraların fotoğraflarını çekerim"
+    },
+    {
+     "en": "She sometimes forgets to water the plants",
+     "tr": "Bazen bitkileri sulamayı unutur"
+    },
+    {
+     "en": "He usually reads a book before bed",
+     "tr": "Genellikle yatmadan önce bir kitap okur"
+    },
+    {
+     "en": "They always go for a run in the morning",
+     "tr": "Her zaman sabah koşmaya giderler"
+    },
+    {
+     "en": "We frequently visit our relatives",
+     "tr": "Akrabalarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of calm in nature",
+     "tr": "Genellikle doğada sakin bir his hissedersiniz"
+    },
+    {
+     "en": "The sun sets early in the winter",
+     "tr": "Güneş kışın erken batar"
+    },
+    {
+     "en": "The moon occasionally casts a soft glow",
+     "tr": "Ay ara sıra yumuşak bir parıltı atar"
+    },
+    {
+     "en": "I usually go for a walk after dinner",
+     "tr": "Genellikle akşam yemeğinden sonra yürüyüşe çıkıyorum"
+    },
+    {
+     "en": "She often dreams of traveling the world",
+     "tr": "Sık sık dünyayı dolaşmayı hayal eder"
+    },
+    {
+     "en": "He rarely misses his morning coffee",
+     "tr": "Sabah kahvesini nadiren özlüyor"
+    },
+    {
+     "en": "They always go skiing in the winter",
+     "tr": "Her zaman kışın kayak yapıyorlar"
+    },
+    {
+     "en": "We often play board games together",
+     "tr": "Sık sık birlikte masa oyunları oynarız"
+    },
+    {
+     "en": "You should try to be more patient",
+     "tr": "Daha sabırlı olmaya çalışmalısın"
+    },
+    {
+     "en": "The cat sometimes sleeps in a sunbeam",
+     "tr": "Kedi bazen bir güneş ışığında uyur"
+    },
+    {
+     "en": "The dog eagerly waits for its evening walk",
+     "tr": "Köpek hevesle akşam yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in the city",
+     "tr": "Şehirde nadiren kar yağar"
+    },
+    {
+     "en": "I usually take a nap on Sundays",
+     "tr": "Genellikle Pazar günleri kestiririm"
+    },
+    {
+     "en": "She often listens to music while working",
+     "tr": "Çalışırken sık sık müzik dinler"
+    },
+    {
+     "en": "He sometimes forgets to lock the door",
+     "tr": "Bazen kapıyı kilitlemeyi unutur"
+    },
+    {
+     "en": "They always go camping in the summer",
+     "tr": "Her zaman yaz aylarında kamp yapmaya giderler"
+    },
+    {
+     "en": "We frequently go to concerts downtown",
+     "tr": "Sık sık şehir merkezinde konserlere gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of waves at the beach",
+     "tr": "Sık sık plajda dalgaların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the morning",
+     "tr": "Güneş sabah erken doğar"
+    },
+    {
+     "en": "The moon sometimes shines through the trees",
+     "tr": "Ay bazen ağaçların arasından parlar"
+    },
+    {
+     "en": "I usually drink coffee in the morning",
+     "tr": "Genellikle sabah kahve içiyorum"
+    },
+    {
+     "en": "She often cooks dinner for her family",
+     "tr": "Sık sık ailesi için akşam yemeği pişirir"
+    },
+    {
+     "en": "He rarely stays up past midnight",
+     "tr": "Gece yarısından nadiren kalır"
+    },
+    {
+     "en": "They always go hiking on weekends",
+     "tr": "Her zaman hafta sonları yürüyüşe giderler"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You should try new things more often",
+     "tr": "Yeni şeyler daha sık denemelisiniz"
+    },
+    {
+     "en": "The cat occasionally catches birds",
+     "tr": "Kedi zaman zaman kuşları yakalar"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to return",
+     "tr": "Köpek hevesle sahibinin geri dönmesini bekler"
+    },
+    {
+     "en": "It rarely rains in the desert",
+     "tr": "Çölde nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a bubble bath before bed",
+     "tr": "Yatmadan önce genellikle kabarcık banyosu alırım"
+    },
+    {
+     "en": "She often sings in the shower",
+     "tr": "Sık sık duşta şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his own phone number",
+     "tr": "Bazen kendi telefon numarasını unutur"
+    },
+    {
+     "en": "They always go for a bike ride in the afternoon",
+     "tr": "Öğleden sonra her zaman bisiklete binerler"
+    },
+    {
+     "en": "We frequently visit our friends in the city",
+     "tr": "Şehirdeki arkadaşlarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of peace in the countryside",
+     "tr": "Kırsal kesimde sık sık bir barış duygusu hissedersiniz"
+    },
+    {
+     "en": "The sun sets beautifully over the mountains",
+     "tr": "Güneş dağların üzerine güzelce batar"
+    },
+    {
+     "en": "The moon occasionally hides behind the clouds",
+     "tr": "Ay ara sıra bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually go jogging in the park",
+     "tr": "Genellikle parkta koşmaya gidiyorum"
+    },
+    {
+     "en": "She often dreams of becoming a famous singer",
+     "tr": "Sık sık ünlü bir şarkıcı olmayı hayal eder"
+    },
+    {
+     "en": "He rarely forgets to set his alarm clock",
+     "tr": "Nadiren çalar saatini ayarlamayı unutur"
+    },
+    {
+     "en": "They always go for a walk in the evening",
+     "tr": "Her zaman akşam yürüyüşe giderler"
+    },
+    {
+     "en": "We often go out for dinner on Fridays",
+     "tr": "Sık sık Cuma günleri akşam yemeğine çıkıyoruz"
+    },
+    {
+     "en": "You should try to be more organized",
+     "tr": "Daha organize olmaya çalışmalısınız"
+    },
+    {
+     "en": "The cat sometimes plays with its toys",
+     "tr": "Kedi bazen oyuncaklarıyla oynar"
+    },
+    {
+     "en": "The dog eagerly waits for its daily walk",
+     "tr": "Köpek hevesle günlük yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in this part of the country",
+     "tr": "Ülkenin bu bölgesinde nadiren kar yağıyor"
+    },
+    {
+     "en": "I usually take a long bath on weekends",
+     "tr": "Genellikle hafta sonları uzun bir banyo yaparım"
+    },
+    {
+     "en": "She often listens to podcasts while cleaning",
+     "tr": "Sık sık temizlik yaparken podcast'leri dinler"
+    },
+    {
+     "en": "He sometimes forgets to turn off the lights",
+     "tr": "Bazen ışıkları kapatmayı unutur"
+    },
+    {
+     "en": "They always go on family vacations in the summer",
+     "tr": "Yaz aylarında her zaman aile tatillerine devam ederler"
+    },
+    {
+     "en": "We frequently go to the beach on weekends",
+     "tr": "Hafta sonları sık sık plaja gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of birds chirping in the morning",
+     "tr": "Sık sık sabah cıvıl cıvıl kuşların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the summer",
+     "tr": "Güneş yazın başlarında doğar"
+    },
+    {
+     "en": "The moon sometimes hides behind the clouds",
+     "tr": "Ay bazen bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually drink tea in the afternoon",
+     "tr": "Öğleden sonra genellikle çay içiyorum"
+    },
+    {
+     "en": "She enjoys going shopping with friends",
+     "tr": "Arkadaşlarla alışveriş yapmaktan hoşlanıyor"
+    },
+    {
+     "en": "He rarely eats fast food",
+     "tr": "Nadiren fast food yiyor"
+    },
+    {
+     "en": "They often go swimming at the beach",
+     "tr": "Genellikle sahilde yüzmeye giderler"
+    },
+    {
+     "en": "We always have a barbecue in the backyard",
+     "tr": "Arka bahçede her zaman bir barbekü var"
+    },
+    {
+     "en": "You should try to learn a new language",
+     "tr": "Yeni bir dil öğrenmeye çalışmalısınız"
+    },
+    {
+     "en": "The cat occasionally brings home mice",
+     "tr": "Kedi ara sıra ev fareleri getirir"
+    },
+    {
+     "en": "The dog patiently waits for its food",
+     "tr": "Köpek sabırla yemeğini bekler"
+    },
+    {
+     "en": "It rarely gets cold in this part of the world",
+     "tr": "Dünyanın bu bölgesinde nadiren soğuyor"
+    },
+    {
+     "en": "I often take photos of beautiful scenery",
+     "tr": "Sık sık güzel manzaraların fotoğraflarını çekerim"
+    },
+    {
+     "en": "She sometimes forgets to water the plants",
+     "tr": "Bazen bitkileri sulamayı unutur"
+    },
+    {
+     "en": "He usually reads a book before bed",
+     "tr": "Genellikle yatmadan önce bir kitap okur"
+    },
+    {
+     "en": "They always go for a run in the morning",
+     "tr": "Her zaman sabah koşmaya giderler"
+    },
+    {
+     "en": "We frequently visit our relatives",
+     "tr": "Akrabalarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of calm in nature",
+     "tr": "Genellikle doğada sakin bir his hissedersiniz"
+    },
+    {
+     "en": "The sun sets early in the winter",
+     "tr": "Güneş kışın erken batar"
+    },
+    {
+     "en": "The moon occasionally casts a soft glow",
+     "tr": "Ay ara sıra yumuşak bir parıltı atar"
+    },
+    {
+     "en": "I usually go for a walk after dinner",
+     "tr": "Genellikle akşam yemeğinden sonra yürüyüşe çıkıyorum"
+    },
+    {
+     "en": "She often dreams of traveling the world",
+     "tr": "Sık sık dünyayı dolaşmayı hayal eder"
+    },
+    {
+     "en": "He rarely misses his morning coffee",
+     "tr": "Sabah kahvesini nadiren özlüyor"
+    },
+    {
+     "en": "They always go skiing in the winter",
+     "tr": "Her zaman kışın kayak yapıyorlar"
+    },
+    {
+     "en": "We often play board games together",
+     "tr": "Sık sık birlikte masa oyunları oynarız"
+    },
+    {
+     "en": "You should try to be more patient",
+     "tr": "Daha sabırlı olmaya çalışmalısın"
+    },
+    {
+     "en": "The cat sometimes sleeps in a sunbeam",
+     "tr": "Kedi bazen bir güneş ışığında uyur"
+    },
+    {
+     "en": "The dog eagerly waits for its evening walk",
+     "tr": "Köpek hevesle akşam yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in the city",
+     "tr": "Şehirde nadiren kar yağar"
+    },
+    {
+     "en": "I usually take a nap on Sundays",
+     "tr": "Genellikle Pazar günleri kestiririm"
+    },
+    {
+     "en": "She often listens to music while working",
+     "tr": "Çalışırken sık sık müzik dinler"
+    },
+    {
+     "en": "He sometimes forgets to lock the door",
+     "tr": "Bazen kapıyı kilitlemeyi unutur"
+    },
+    {
+     "en": "They always go camping in the summer",
+     "tr": "Her zaman yaz aylarında kamp yapmaya giderler"
+    },
+    {
+     "en": "We frequently go to concerts downtown",
+     "tr": "Sık sık şehir merkezinde konserlere gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of waves at the beach",
+     "tr": "Sık sık plajda dalgaların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the morning",
+     "tr": "Güneş sabah erken doğar"
+    },
+    {
+     "en": "The moon sometimes shines through the trees",
+     "tr": "Ay bazen ağaçların arasından parlar"
+    },
+    {
+     "en": "I usually drink coffee in the morning",
+     "tr": "Genellikle sabah kahve içiyorum"
+    },
+    {
+     "en": "She often cooks dinner for her family",
+     "tr": "Sık sık ailesi için akşam yemeği pişirir"
+    },
+    {
+     "en": "He rarely stays up past midnight",
+     "tr": "Gece yarısından nadiren kalır"
+    },
+    {
+     "en": "They always go hiking on weekends",
+     "tr": "Her zaman hafta sonları yürüyüşe giderler"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You should try new things more often",
+     "tr": "Yeni şeyler daha sık denemelisiniz"
+    },
+    {
+     "en": "The cat occasionally catches birds",
+     "tr": "Kedi zaman zaman kuşları yakalar"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to return",
+     "tr": "Köpek hevesle sahibinin geri dönmesini bekler"
+    },
+    {
+     "en": "It rarely rains in the desert",
+     "tr": "Çölde nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a bubble bath before bed",
+     "tr": "Yatmadan önce genellikle kabarcık banyosu alırım"
+    },
+    {
+     "en": "She often sings in the shower",
+     "tr": "Sık sık duşta şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his own phone number",
+     "tr": "Bazen kendi telefon numarasını unutur"
+    },
+    {
+     "en": "They always go for a bike ride in the afternoon",
+     "tr": "Öğleden sonra her zaman bisiklete binerler"
+    },
+    {
+     "en": "We frequently visit our friends in the city",
+     "tr": "Şehirdeki arkadaşlarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of peace in the countryside",
+     "tr": "Kırsal kesimde sık sık bir barış duygusu hissedersiniz"
+    },
+    {
+     "en": "The sun sets beautifully over the mountains",
+     "tr": "Güneş dağların üzerine güzelce batar"
+    },
+    {
+     "en": "The moon occasionally hides behind the clouds",
+     "tr": "Ay ara sıra bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually go jogging in the park",
+     "tr": "Genellikle parkta koşmaya gidiyorum"
+    },
+    {
+     "en": "She often dreams of becoming a famous singer",
+     "tr": "Sık sık ünlü bir şarkıcı olmayı hayal eder"
+    },
+    {
+     "en": "He rarely forgets to set his alarm clock",
+     "tr": "Nadiren çalar saatini ayarlamayı unutur"
+    },
+    {
+     "en": "They always go for a walk in the evening",
+     "tr": "Her zaman akşam yürüyüşe giderler"
+    },
+    {
+     "en": "We often go out for dinner on Fridays",
+     "tr": "Sık sık Cuma günleri akşam yemeğine çıkıyoruz"
+    },
+    {
+     "en": "You should try to be more organized",
+     "tr": "Daha organize olmaya çalışmalısınız"
+    },
+    {
+     "en": "The cat sometimes plays with its toys",
+     "tr": "Kedi bazen oyuncaklarıyla oynar"
+    },
+    {
+     "en": "The dog eagerly waits for its daily walk",
+     "tr": "Köpek hevesle günlük yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in this part of the country",
+     "tr": "Ülkenin bu bölgesinde nadiren kar yağıyor"
+    },
+    {
+     "en": "I usually take a long bath on weekends",
+     "tr": "Genellikle hafta sonları uzun bir banyo yaparım"
+    },
+    {
+     "en": "She often listens to podcasts while cleaning",
+     "tr": "Sık sık temizlik yaparken podcast'leri dinler"
+    },
+    {
+     "en": "He sometimes forgets to turn off the lights",
+     "tr": "Bazen ışıkları kapatmayı unutur"
+    },
+    {
+     "en": "They always go on family vacations in the summer",
+     "tr": "Yaz aylarında her zaman aile tatillerine devam ederler"
+    },
+    {
+     "en": "We frequently go to the beach on weekends",
+     "tr": "Hafta sonları sık sık plaja gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of birds chirping in the morning",
+     "tr": "Sık sık sabah cıvıl cıvıl kuşların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the summer",
+     "tr": "Güneş yazın başlarında doğar"
+    },
+    {
+     "en": "The moon sometimes hides behind the clouds",
+     "tr": "Ay bazen bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually drink tea in the afternoon",
+     "tr": "Öğleden sonra genellikle çay içiyorum"
+    },
+    {
+     "en": "She enjoys going shopping with friends",
+     "tr": "Arkadaşlarla alışveriş yapmaktan hoşlanıyor"
+    },
+    {
+     "en": "He rarely eats fast food",
+     "tr": "Nadiren fast food yiyor"
+    },
+    {
+     "en": "They often go swimming at the beach",
+     "tr": "Genellikle sahilde yüzmeye giderler"
+    },
+    {
+     "en": "We always have a barbecue in the backyard",
+     "tr": "Arka bahçede her zaman bir barbekü var"
+    },
+    {
+     "en": "You should try to learn a new language",
+     "tr": "Yeni bir dil öğrenmeye çalışmalısınız"
+    },
+    {
+     "en": "The cat occasionally brings home mice",
+     "tr": "Kedi ara sıra ev fareleri getirir"
+    },
+    {
+     "en": "The dog patiently waits for its food",
+     "tr": "Köpek sabırla yemeğini bekler"
+    },
+    {
+     "en": "It rarely gets cold in this part of the world",
+     "tr": "Dünyanın bu bölgesinde nadiren soğuyor"
+    },
+    {
+     "en": "I often take photos of beautiful scenery",
+     "tr": "Sık sık güzel manzaraların fotoğraflarını çekerim"
+    },
+    {
+     "en": "She sometimes forgets to water the plants",
+     "tr": "Bazen bitkileri sulamayı unutur"
+    },
+    {
+     "en": "He usually reads a book before bed",
+     "tr": "Genellikle yatmadan önce bir kitap okur"
+    },
+    {
+     "en": "They always go for a run in the morning",
+     "tr": "Her zaman sabah koşmaya giderler"
+    },
+    {
+     "en": "We frequently visit our relatives",
+     "tr": "Akrabalarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of calm in nature",
+     "tr": "Genellikle doğada sakin bir his hissedersiniz"
+    },
+    {
+     "en": "The sun sets early in the winter",
+     "tr": "Güneş kışın erken batar"
+    },
+    {
+     "en": "The moon occasionally casts a soft glow",
+     "tr": "Ay ara sıra yumuşak bir parıltı atar"
+    },
+    {
+     "en": "I usually go for a walk after dinner",
+     "tr": "Genellikle akşam yemeğinden sonra yürüyüşe çıkıyorum"
+    },
+    {
+     "en": "She often dreams of traveling the world",
+     "tr": "Sık sık dünyayı dolaşmayı hayal eder"
+    },
+    {
+     "en": "He rarely misses his morning coffee",
+     "tr": "Sabah kahvesini nadiren özlüyor"
+    },
+    {
+     "en": "They always go skiing in the winter",
+     "tr": "Her zaman kışın kayak yapıyorlar"
+    },
+    {
+     "en": "We often play board games together",
+     "tr": "Sık sık birlikte masa oyunları oynarız"
+    },
+    {
+     "en": "You should try to be more patient",
+     "tr": "Daha sabırlı olmaya çalışmalısın"
+    },
+    {
+     "en": "The cat sometimes sleeps in a sunbeam",
+     "tr": "Kedi bazen bir güneş ışığında uyur"
+    },
+    {
+     "en": "The dog eagerly waits for its evening walk",
+     "tr": "Köpek hevesle akşam yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in the city",
+     "tr": "Şehirde nadiren kar yağar"
+    },
+    {
+     "en": "I usually take a nap on Sundays",
+     "tr": "Genellikle Pazar günleri kestiririm"
+    },
+    {
+     "en": "She often listens to music while working",
+     "tr": "Çalışırken sık sık müzik dinler"
+    },
+    {
+     "en": "He sometimes forgets to lock the door",
+     "tr": "Bazen kapıyı kilitlemeyi unutur"
+    },
+    {
+     "en": "They always go camping in the summer",
+     "tr": "Her zaman yaz aylarında kamp yapmaya giderler"
+    },
+    {
+     "en": "We frequently go to concerts downtown",
+     "tr": "Sık sık şehir merkezinde konserlere gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of waves at the beach",
+     "tr": "Sık sık plajda dalgaların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the morning",
+     "tr": "Güneş sabah erken doğar"
+    },
+    {
+     "en": "The moon sometimes shines through the trees",
+     "tr": "Ay bazen ağaçların arasından parlar"
+    },
+    {
+     "en": "I usually drink coffee in the morning",
+     "tr": "Genellikle sabah kahve içiyorum"
+    },
+    {
+     "en": "She often cooks dinner for her family",
+     "tr": "Sık sık ailesi için akşam yemeği pişirir"
+    },
+    {
+     "en": "He rarely stays up past midnight",
+     "tr": "Gece yarısından nadiren kalır"
+    },
+    {
+     "en": "They always go hiking on weekends",
+     "tr": "Her zaman hafta sonları yürüyüşe giderler"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You should try new things more often",
+     "tr": "Yeni şeyler daha sık denemelisiniz"
+    },
+    {
+     "en": "The cat occasionally catches birds",
+     "tr": "Kedi zaman zaman kuşları yakalar"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to return",
+     "tr": "Köpek hevesle sahibinin geri dönmesini bekler"
+    },
+    {
+     "en": "It rarely rains in the desert",
+     "tr": "Çölde nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a bubble bath before bed",
+     "tr": "Yatmadan önce genellikle kabarcık banyosu alırım"
+    },
+    {
+     "en": "She often sings in the shower",
+     "tr": "Sık sık duşta şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his own phone number",
+     "tr": "Bazen kendi telefon numarasını unutur"
+    },
+    {
+     "en": "They always go for a bike ride in the afternoon",
+     "tr": "Öğleden sonra her zaman bisiklete binerler"
+    },
+    {
+     "en": "We frequently visit our friends in the city",
+     "tr": "Şehirdeki arkadaşlarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of peace in the countryside",
+     "tr": "Kırsal kesimde sık sık bir barış duygusu hissedersiniz"
+    },
+    {
+     "en": "The sun sets beautifully over the mountains",
+     "tr": "Güneş dağların üzerine güzelce batar"
+    },
+    {
+     "en": "The moon occasionally hides behind the clouds",
+     "tr": "Ay ara sıra bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually go jogging in the park",
+     "tr": "Genellikle parkta koşmaya gidiyorum"
+    },
+    {
+     "en": "She often dreams of becoming a famous singer",
+     "tr": "Sık sık ünlü bir şarkıcı olmayı hayal eder"
+    },
+    {
+     "en": "He rarely forgets to set his alarm clock",
+     "tr": "Nadiren çalar saatini ayarlamayı unutur"
+    },
+    {
+     "en": "They always go for a walk in the evening",
+     "tr": "Her zaman akşam yürüyüşe giderler"
+    },
+    {
+     "en": "We often go out for dinner on Fridays",
+     "tr": "Sık sık Cuma günleri akşam yemeğine çıkıyoruz"
+    },
+    {
+     "en": "You should try to be more organized",
+     "tr": "Daha organize olmaya çalışmalısınız"
+    },
+    {
+     "en": "The cat sometimes plays with its toys",
+     "tr": "Kedi bazen oyuncaklarıyla oynar"
+    },
+    {
+     "en": "The dog eagerly waits for its daily walk",
+     "tr": "Köpek hevesle günlük yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in this part of the country",
+     "tr": "Ülkenin bu bölgesinde nadiren kar yağıyor"
+    },
+    {
+     "en": "I usually take a long bath on weekends",
+     "tr": "Genellikle hafta sonları uzun bir banyo yaparım"
+    },
+    {
+     "en": "She often listens to podcasts while cleaning",
+     "tr": "Sık sık temizlik yaparken podcast'leri dinler"
+    },
+    {
+     "en": "He sometimes forgets to turn off the lights",
+     "tr": "Bazen ışıkları kapatmayı unutur"
+    },
+    {
+     "en": "They always go on family vacations in the summer",
+     "tr": "Yaz aylarında her zaman aile tatillerine devam ederler"
+    },
+    {
+     "en": "We frequently go to the beach on weekends",
+     "tr": "Hafta sonları sık sık plaja gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of birds chirping in the morning",
+     "tr": "Sık sık sabah cıvıl cıvıl kuşların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the summer",
+     "tr": "Güneş yazın başlarında doğar"
+    },
+    {
+     "en": "The moon sometimes hides behind the clouds",
+     "tr": "Ay bazen bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually drink tea in the afternoon",
+     "tr": "Öğleden sonra genellikle çay içiyorum"
+    },
+    {
+     "en": "She enjoys going shopping with friends",
+     "tr": "Arkadaşlarla alışveriş yapmaktan hoşlanıyor"
+    },
+    {
+     "en": "He rarely eats fast food",
+     "tr": "Nadiren fast food yiyor"
+    },
+    {
+     "en": "They often go swimming at the beach",
+     "tr": "Genellikle sahilde yüzmeye giderler"
+    },
+    {
+     "en": "We always have a barbecue in the backyard",
+     "tr": "Arka bahçede her zaman bir barbekü var"
+    },
+    {
+     "en": "You should try to learn a new language",
+     "tr": "Yeni bir dil öğrenmeye çalışmalısınız"
+    },
+    {
+     "en": "The cat occasionally brings home mice",
+     "tr": "Kedi ara sıra ev fareleri getirir"
+    },
+    {
+     "en": "The dog patiently waits for its food",
+     "tr": "Köpek sabırla yemeğini bekler"
+    },
+    {
+     "en": "It rarely gets cold in this part of the world",
+     "tr": "Dünyanın bu bölgesinde nadiren soğuyor"
+    },
+    {
+     "en": "I often take photos of beautiful scenery",
+     "tr": "Sık sık güzel manzaraların fotoğraflarını çekerim"
+    },
+    {
+     "en": "She sometimes forgets to water the plants",
+     "tr": "Bazen bitkileri sulamayı unutur"
+    },
+    {
+     "en": "He usually reads a book before bed",
+     "tr": "Genellikle yatmadan önce bir kitap okur"
+    },
+    {
+     "en": "They always go for a run in the morning",
+     "tr": "Her zaman sabah koşmaya giderler"
+    },
+    {
+     "en": "We frequently visit our relatives",
+     "tr": "Akrabalarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of calm in nature",
+     "tr": "Genellikle doğada sakin bir his hissedersiniz"
+    },
+    {
+     "en": "The sun sets early in the winter",
+     "tr": "Güneş kışın erken batar"
+    },
+    {
+     "en": "The moon occasionally casts a soft glow",
+     "tr": "Ay ara sıra yumuşak bir parıltı atar"
+    },
+    {
+     "en": "I usually go for a walk after dinner",
+     "tr": "Genellikle akşam yemeğinden sonra yürüyüşe çıkıyorum"
+    },
+    {
+     "en": "She often dreams of traveling the world",
+     "tr": "Sık sık dünyayı dolaşmayı hayal eder"
+    },
+    {
+     "en": "He rarely misses his morning coffee",
+     "tr": "Sabah kahvesini nadiren özlüyor"
+    },
+    {
+     "en": "They always go skiing in the winter",
+     "tr": "Her zaman kışın kayak yapıyorlar"
+    },
+    {
+     "en": "We often play board games together",
+     "tr": "Sık sık birlikte masa oyunları oynarız"
+    },
+    {
+     "en": "You should try to be more patient",
+     "tr": "Daha sabırlı olmaya çalışmalısın"
+    },
+    {
+     "en": "The cat sometimes sleeps in a sunbeam",
+     "tr": "Kedi bazen bir güneş ışığında uyur"
+    },
+    {
+     "en": "The dog eagerly waits for its evening walk",
+     "tr": "Köpek hevesle akşam yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in the city",
+     "tr": "Şehirde nadiren kar yağar"
+    },
+    {
+     "en": "I usually take a nap on Sundays",
+     "tr": "Genellikle Pazar günleri kestiririm"
+    },
+    {
+     "en": "She often listens to music while working",
+     "tr": "Çalışırken sık sık müzik dinler"
+    },
+    {
+     "en": "He sometimes forgets to lock the door",
+     "tr": "Bazen kapıyı kilitlemeyi unutur"
+    },
+    {
+     "en": "They always go camping in the summer",
+     "tr": "Her zaman yaz aylarında kamp yapmaya giderler"
+    },
+    {
+     "en": "We frequently go to concerts downtown",
+     "tr": "Sık sık şehir merkezinde konserlere gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of waves at the beach",
+     "tr": "Sık sık plajda dalgaların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the morning",
+     "tr": "Güneş sabah erken doğar"
+    },
+    {
+     "en": "The moon sometimes shines through the trees",
+     "tr": "Ay bazen ağaçların arasından parlar"
+    },
+    {
+     "en": "I usually drink coffee in the morning",
+     "tr": "Genellikle sabah kahve içiyorum"
+    },
+    {
+     "en": "She often cooks dinner for her family",
+     "tr": "Sık sık ailesi için akşam yemeği pişirir"
+    },
+    {
+     "en": "He rarely stays up past midnight",
+     "tr": "Gece yarısından nadiren kalır"
+    },
+    {
+     "en": "They always go hiking on weekends",
+     "tr": "Her zaman hafta sonları yürüyüşe giderler"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You should try new things more often",
+     "tr": "Yeni şeyler daha sık denemelisiniz"
+    },
+    {
+     "en": "The cat occasionally catches birds",
+     "tr": "Kedi zaman zaman kuşları yakalar"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to return",
+     "tr": "Köpek hevesle sahibinin geri dönmesini bekler"
+    },
+    {
+     "en": "It rarely rains in the desert",
+     "tr": "Çölde nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a bubble bath before bed",
+     "tr": "Yatmadan önce genellikle kabarcık banyosu alırım"
+    },
+    {
+     "en": "She often sings in the shower",
+     "tr": "Sık sık duşta şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his own phone number",
+     "tr": "Bazen kendi telefon numarasını unutur"
+    },
+    {
+     "en": "They always go for a bike ride in the afternoon",
+     "tr": "Öğleden sonra her zaman bisiklete binerler"
+    },
+    {
+     "en": "We frequently visit our friends in the city",
+     "tr": "Şehirdeki arkadaşlarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of peace in the countryside",
+     "tr": "Kırsal kesimde sık sık bir barış duygusu hissedersiniz"
+    },
+    {
+     "en": "The sun sets beautifully over the mountains",
+     "tr": "Güneş dağların üzerine güzelce batar"
+    },
+    {
+     "en": "The moon occasionally hides behind the clouds",
+     "tr": "Ay ara sıra bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually go jogging in the park",
+     "tr": "Genellikle parkta koşmaya gidiyorum"
+    },
+    {
+     "en": "She often dreams of becoming a famous singer",
+     "tr": "Sık sık ünlü bir şarkıcı olmayı hayal eder"
+    },
+    {
+     "en": "He rarely forgets to set his alarm clock",
+     "tr": "Nadiren çalar saatini ayarlamayı unutur"
+    },
+    {
+     "en": "They always go for a walk in the evening",
+     "tr": "Her zaman akşam yürüyüşe giderler"
+    },
+    {
+     "en": "We often go out for dinner on Fridays",
+     "tr": "Sık sık Cuma günleri akşam yemeğine çıkıyoruz"
+    },
+    {
+     "en": "You should try to be more organized",
+     "tr": "Daha organize olmaya çalışmalısınız"
+    },
+    {
+     "en": "The cat sometimes plays with its toys",
+     "tr": "Kedi bazen oyuncaklarıyla oynar"
+    },
+    {
+     "en": "The dog eagerly waits for its daily walk",
+     "tr": "Köpek hevesle günlük yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in this part of the country",
+     "tr": "Ülkenin bu bölgesinde nadiren kar yağıyor"
+    },
+    {
+     "en": "I usually take a long bath on weekends",
+     "tr": "Genellikle hafta sonları uzun bir banyo yaparım"
+    },
+    {
+     "en": "She often listens to podcasts while cleaning",
+     "tr": "Sık sık temizlik yaparken podcast'leri dinler"
+    },
+    {
+     "en": "He sometimes forgets to turn off the lights",
+     "tr": "Bazen ışıkları kapatmayı unutur"
+    },
+    {
+     "en": "They always go on family vacations in the summer",
+     "tr": "Yaz aylarında her zaman aile tatillerine devam ederler"
+    },
+    {
+     "en": "We frequently go to the beach on weekends",
+     "tr": "Hafta sonları sık sık plaja gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of birds chirping in the morning",
+     "tr": "Sık sık sabah cıvıl cıvıl kuşların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the summer",
+     "tr": "Güneş yazın başlarında doğar"
+    },
+    {
+     "en": "The moon sometimes hides behind the clouds",
+     "tr": "Ay bazen bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually drink tea in the afternoon",
+     "tr": "Öğleden sonra genellikle çay içiyorum"
+    },
+    {
+     "en": "She enjoys going shopping with friends",
+     "tr": "Arkadaşlarla alışveriş yapmaktan hoşlanıyor"
+    },
+    {
+     "en": "He rarely eats fast food",
+     "tr": "Nadiren fast food yiyor"
+    },
+    {
+     "en": "They often go swimming at the beach",
+     "tr": "Genellikle sahilde yüzmeye giderler"
+    },
+    {
+     "en": "We always have a barbecue in the backyard",
+     "tr": "Arka bahçede her zaman bir barbekü var"
+    },
+    {
+     "en": "You should try to learn a new language",
+     "tr": "Yeni bir dil öğrenmeye çalışmalısınız"
+    },
+    {
+     "en": "The cat occasionally brings home mice",
+     "tr": "Kedi ara sıra ev fareleri getirir"
+    },
+    {
+     "en": "The dog patiently waits for its food",
+     "tr": "Köpek sabırla yemeğini bekler"
+    },
+    {
+     "en": "It rarely gets cold in this part of the world",
+     "tr": "Dünyanın bu bölgesinde nadiren soğuyor"
+    },
+    {
+     "en": "I often take photos of beautiful scenery",
+     "tr": "Sık sık güzel manzaraların fotoğraflarını çekerim"
+    },
+    {
+     "en": "She sometimes forgets to water the plants",
+     "tr": "Bazen bitkileri sulamayı unutur"
+    },
+    {
+     "en": "He usually reads a book before bed",
+     "tr": "Genellikle yatmadan önce bir kitap okur"
+    },
+    {
+     "en": "They always go for a run in the morning",
+     "tr": "Her zaman sabah koşmaya giderler"
+    },
+    {
+     "en": "We frequently visit our relatives",
+     "tr": "Akrabalarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of calm in nature",
+     "tr": "Genellikle doğada sakin bir his hissedersiniz"
+    },
+    {
+     "en": "The sun sets early in the winter",
+     "tr": "Güneş kışın erken batar"
+    },
+    {
+     "en": "The moon occasionally casts a soft glow",
+     "tr": "Ay ara sıra yumuşak bir parıltı atar"
+    },
+    {
+     "en": "I usually go for a walk after dinner",
+     "tr": "Genellikle akşam yemeğinden sonra yürüyüşe çıkıyorum"
+    },
+    {
+     "en": "She often dreams of traveling the world",
+     "tr": "Sık sık dünyayı dolaşmayı hayal eder"
+    },
+    {
+     "en": "He rarely misses his morning coffee",
+     "tr": "Sabah kahvesini nadiren özlüyor"
+    },
+    {
+     "en": "They always go skiing in the winter",
+     "tr": "Her zaman kışın kayak yapıyorlar"
+    },
+    {
+     "en": "We often play board games together",
+     "tr": "Sık sık birlikte masa oyunları oynarız"
+    },
+    {
+     "en": "You should try to be more patient",
+     "tr": "Daha sabırlı olmaya çalışmalısın"
+    },
+    {
+     "en": "The cat sometimes sleeps in a sunbeam",
+     "tr": "Kedi bazen bir güneş ışığında uyur"
+    },
+    {
+     "en": "The dog eagerly waits for its evening walk",
+     "tr": "Köpek hevesle akşam yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in the city",
+     "tr": "Şehirde nadiren kar yağar"
+    },
+    {
+     "en": "I usually take a nap on Sundays",
+     "tr": "Genellikle Pazar günleri kestiririm"
+    },
+    {
+     "en": "She often listens to music while working",
+     "tr": "Çalışırken sık sık müzik dinler"
+    },
+    {
+     "en": "He sometimes forgets to lock the door",
+     "tr": "Bazen kapıyı kilitlemeyi unutur"
+    },
+    {
+     "en": "They always go camping in the summer",
+     "tr": "Her zaman yaz aylarında kamp yapmaya giderler"
+    },
+    {
+     "en": "We frequently go to concerts downtown",
+     "tr": "Sık sık şehir merkezinde konserlere gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of waves at the beach",
+     "tr": "Sık sık plajda dalgaların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the morning",
+     "tr": "Güneş sabah erken doğar"
+    },
+    {
+     "en": "The moon sometimes shines through the trees",
+     "tr": "Ay bazen ağaçların arasından parlar"
+    },
+    {
+     "en": "I usually drink coffee in the morning",
+     "tr": "Genellikle sabah kahve içiyorum"
+    },
+    {
+     "en": "She often cooks dinner for her family",
+     "tr": "Sık sık ailesi için akşam yemeği pişirir"
+    },
+    {
+     "en": "He rarely stays up past midnight",
+     "tr": "Gece yarısından nadiren kalır"
+    },
+    {
+     "en": "They always go hiking on weekends",
+     "tr": "Her zaman hafta sonları yürüyüşe giderler"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You should try new things more often",
+     "tr": "Yeni şeyler daha sık denemelisiniz"
+    },
+    {
+     "en": "The cat occasionally catches birds",
+     "tr": "Kedi zaman zaman kuşları yakalar"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to return",
+     "tr": "Köpek hevesle sahibinin geri dönmesini bekler"
+    },
+    {
+     "en": "It rarely rains in the desert",
+     "tr": "Çölde nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a bubble bath before bed",
+     "tr": "Yatmadan önce genellikle kabarcık banyosu alırım"
+    },
+    {
+     "en": "She often sings in the shower",
+     "tr": "Sık sık duşta şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his own phone number",
+     "tr": "Bazen kendi telefon numarasını unutur"
+    },
+    {
+     "en": "They always go for a bike ride in the afternoon",
+     "tr": "Öğleden sonra her zaman bisiklete binerler"
+    },
+    {
+     "en": "We frequently visit our friends in the city",
+     "tr": "Şehirdeki arkadaşlarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of peace in the countryside",
+     "tr": "Kırsal kesimde sık sık bir barış duygusu hissedersiniz"
+    },
+    {
+     "en": "The sun sets beautifully over the mountains",
+     "tr": "Güneş dağların üzerine güzelce batar"
+    },
+    {
+     "en": "The moon occasionally hides behind the clouds",
+     "tr": "Ay ara sıra bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually go jogging in the park",
+     "tr": "Genellikle parkta koşmaya gidiyorum"
+    },
+    {
+     "en": "She often dreams of becoming a famous singer",
+     "tr": "Sık sık ünlü bir şarkıcı olmayı hayal eder"
+    },
+    {
+     "en": "He rarely forgets to set his alarm clock",
+     "tr": "Nadiren çalar saatini ayarlamayı unutur"
+    },
+    {
+     "en": "They always go for a walk in the evening",
+     "tr": "Her zaman akşam yürüyüşe giderler"
+    },
+    {
+     "en": "We often go out for dinner on Fridays",
+     "tr": "Sık sık Cuma günleri akşam yemeğine çıkıyoruz"
+    },
+    {
+     "en": "You should try to be more organized",
+     "tr": "Daha organize olmaya çalışmalısınız"
+    },
+    {
+     "en": "The cat sometimes plays with its toys",
+     "tr": "Kedi bazen oyuncaklarıyla oynar"
+    },
+    {
+     "en": "The dog eagerly waits for its daily walk",
+     "tr": "Köpek hevesle günlük yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in this part of the country",
+     "tr": "Ülkenin bu bölgesinde nadiren kar yağıyor"
+    },
+    {
+     "en": "I usually take a long bath on weekends",
+     "tr": "Genellikle hafta sonları uzun bir banyo yaparım"
+    },
+    {
+     "en": "She often listens to podcasts while cleaning",
+     "tr": "Sık sık temizlik yaparken podcast'leri dinler"
+    },
+    {
+     "en": "He sometimes forgets to turn off the lights",
+     "tr": "Bazen ışıkları kapatmayı unutur"
+    },
+    {
+     "en": "They always go on family vacations in the summer",
+     "tr": "Yaz aylarında her zaman aile tatillerine devam ederler"
+    },
+    {
+     "en": "We frequently go to the beach on weekends",
+     "tr": "Hafta sonları sık sık plaja gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of birds chirping in the morning",
+     "tr": "Sık sık sabah cıvıl cıvıl kuşların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the summer",
+     "tr": "Güneş yazın başlarında doğar"
+    },
+    {
+     "en": "The moon sometimes hides behind the clouds",
+     "tr": "Ay bazen bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually drink tea in the afternoon",
+     "tr": "Öğleden sonra genellikle çay içiyorum"
+    },
+    {
+     "en": "She enjoys going shopping with friends",
+     "tr": "Arkadaşlarla alışveriş yapmaktan hoşlanıyor"
+    },
+    {
+     "en": "He rarely eats fast food",
+     "tr": "Nadiren fast food yiyor"
+    },
+    {
+     "en": "They often go swimming at the beach",
+     "tr": "Genellikle sahilde yüzmeye giderler"
+    },
+    {
+     "en": "We always have a barbecue in the backyard",
+     "tr": "Arka bahçede her zaman bir barbekü var"
+    },
+    {
+     "en": "You should try to learn a new language",
+     "tr": "Yeni bir dil öğrenmeye çalışmalısınız"
+    },
+    {
+     "en": "The cat occasionally brings home mice",
+     "tr": "Kedi ara sıra ev fareleri getirir"
+    },
+    {
+     "en": "The dog patiently waits for its food",
+     "tr": "Köpek sabırla yemeğini bekler"
+    },
+    {
+     "en": "It rarely gets cold in this part of the world",
+     "tr": "Dünyanın bu bölgesinde nadiren soğuyor"
+    },
+    {
+     "en": "I often take photos of beautiful scenery",
+     "tr": "Sık sık güzel manzaraların fotoğraflarını çekerim"
+    },
+    {
+     "en": "She sometimes forgets to water the plants",
+     "tr": "Bazen bitkileri sulamayı unutur"
+    },
+    {
+     "en": "He usually reads a book before bed",
+     "tr": "Genellikle yatmadan önce bir kitap okur"
+    },
+    {
+     "en": "They always go for a run in the morning",
+     "tr": "Her zaman sabah koşmaya giderler"
+    },
+    {
+     "en": "We frequently visit our relatives",
+     "tr": "Akrabalarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of calm in nature",
+     "tr": "Genellikle doğada sakin bir his hissedersiniz"
+    },
+    {
+     "en": "The sun sets early in the winter",
+     "tr": "Güneş kışın erken batar"
+    },
+    {
+     "en": "The moon occasionally casts a soft glow",
+     "tr": "Ay ara sıra yumuşak bir parıltı atar"
+    },
+    {
+     "en": "I usually go for a walk after dinner",
+     "tr": "Genellikle akşam yemeğinden sonra yürüyüşe çıkıyorum"
+    },
+    {
+     "en": "She often dreams of traveling the world",
+     "tr": "Sık sık dünyayı dolaşmayı hayal eder"
+    },
+    {
+     "en": "He rarely misses his morning coffee",
+     "tr": "Sabah kahvesini nadiren özlüyor"
+    },
+    {
+     "en": "They always go skiing in the winter",
+     "tr": "Her zaman kışın kayak yapıyorlar"
+    },
+    {
+     "en": "We often play board games together",
+     "tr": "Sık sık birlikte masa oyunları oynarız"
+    },
+    {
+     "en": "You should try to be more patient",
+     "tr": "Daha sabırlı olmaya çalışmalısın"
+    },
+    {
+     "en": "The cat sometimes sleeps in a sunbeam",
+     "tr": "Kedi bazen bir güneş ışığında uyur"
+    },
+    {
+     "en": "The dog eagerly waits for its evening walk",
+     "tr": "Köpek hevesle akşam yürüyüşünü bekliyor"
+    },
+    {
+     "en": "It rarely snows in the city",
+     "tr": "Şehirde nadiren kar yağar"
+    },
+    {
+     "en": "I usually take a nap on Sundays",
+     "tr": "Genellikle Pazar günleri kestiririm"
+    },
+    {
+     "en": "She often listens to music while working",
+     "tr": "Çalışırken sık sık müzik dinler"
+    },
+    {
+     "en": "He sometimes forgets to lock the door",
+     "tr": "Bazen kapıyı kilitlemeyi unutur"
+    },
+    {
+     "en": "They always go camping in the summer",
+     "tr": "Her zaman yaz aylarında kamp yapmaya giderler"
+    },
+    {
+     "en": "We frequently go to concerts downtown",
+     "tr": "Sık sık şehir merkezinde konserlere gidiyoruz"
+    },
+    {
+     "en": "You often hear the sound of waves at the beach",
+     "tr": "Sık sık plajda dalgaların sesini duyarsınız"
+    },
+    {
+     "en": "The sun rises early in the morning",
+     "tr": "Güneş sabah erken doğar"
+    },
+    {
+     "en": "The moon sometimes shines through the trees",
+     "tr": "Ay bazen ağaçların arasından parlar"
+    },
+    {
+     "en": "I usually drink coffee in the morning",
+     "tr": "Genellikle sabah kahve içiyorum"
+    },
+    {
+     "en": "She often cooks dinner for her family",
+     "tr": "Sık sık ailesi için akşam yemeği pişirir"
+    },
+    {
+     "en": "He rarely stays up past midnight",
+     "tr": "Gece yarısından nadiren kalır"
+    },
+    {
+     "en": "They always go hiking on weekends",
+     "tr": "Her zaman hafta sonları yürüyüşe giderler"
+    },
+    {
+     "en": "We often have picnics in the park",
+     "tr": "Parkta sık sık piknikler var"
+    },
+    {
+     "en": "You should try new things more often",
+     "tr": "Yeni şeyler daha sık denemelisiniz"
+    },
+    {
+     "en": "The cat occasionally catches birds",
+     "tr": "Kedi zaman zaman kuşları yakalar"
+    },
+    {
+     "en": "The dog eagerly waits for its owner to return",
+     "tr": "Köpek hevesle sahibinin geri dönmesini bekler"
+    },
+    {
+     "en": "It rarely rains in the desert",
+     "tr": "Çölde nadiren yağmur yağar"
+    },
+    {
+     "en": "I usually take a bubble bath before bed",
+     "tr": "Yatmadan önce genellikle kabarcık banyosu alırım"
+    },
+    {
+     "en": "She often sings in the shower",
+     "tr": "Sık sık duşta şarkı söyler"
+    },
+    {
+     "en": "He sometimes forgets his own phone number",
+     "tr": "Bazen kendi telefon numarasını unutur"
+    },
+    {
+     "en": "They always go for a bike ride in the afternoon",
+     "tr": "Öğleden sonra her zaman bisiklete binerler"
+    },
+    {
+     "en": "We frequently visit our friends in the city",
+     "tr": "Şehirdeki arkadaşlarımızı sık sık ziyaret ediyoruz"
+    },
+    {
+     "en": "You often feel a sense of peace in the countryside",
+     "tr": "Kırsal kesimde sık sık bir barış duygusu hissedersiniz"
+    },
+    {
+     "en": "The sun sets beautifully over the mountains",
+     "tr": "Güneş dağların üzerine güzelce batar"
+    },
+    {
+     "en": "The moon occasionally hides behind the clouds",
+     "tr": "Ay ara sıra bulutların arkasına saklanır"
+    },
+    {
+     "en": "I usually go jogging in the park",
+     "tr": "Genellikle parkta koşmaya gidiyorum"
+    },
+    {
+     "en": "She often dreams of becoming a famous singer",
+     "tr": "Sık sık ünlü bir şarkıcı olmayı hayal eder"
+    },
+    {
+     "en": "He rarely forgets to set his alarm clock",
+     "tr": "Nadiren çalar saatini ayarlamayı unutur"
+    },
+    {
+     "en": "They always go for a walk in the evening",
+     "tr": "Her zaman akşam yürüyüşe giderler"
+    },
+    {
+     "en": "We often go out for dinner on Fridays",
+     "tr": "Sık sık Cuma günleri akşam yemeğine çıkıyoruz"
+    },
+    {
+     "en": "You should try to be more organized",
+     "tr": "Daha organize olmaya çalışmalısınız"
+    }
+   ]
+}

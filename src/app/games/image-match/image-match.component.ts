@@ -90,9 +90,9 @@ export class ImageMatchComponent implements OnInit {
       this.messageInfo = "Doğru"
       this.setSelectedWord();
       this.userInput = "";
-      this.showCard = true;
+      this.showCard = false;
       setTimeout(() => {
-        this.showCard = false;
+        this.showCard = true;
       }, 400);
     } else {
       this.showInfo = false;

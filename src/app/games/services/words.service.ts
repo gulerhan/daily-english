@@ -12,6 +12,11 @@ export class WordsService {
     const url = `../../../assets/words/${level}-Words.json`;
     return this.http.get<WordsResponse>(url);
   }
+
+  getLevelSentences(level:string) :Observable <SentencesResponse> {
+    const url = `../../../assets/sentences/${level}-sentences.json`;
+    return this.http.get<SentencesResponse>(url);
+  }
 }
 
 
@@ -22,4 +27,8 @@ export interface DEWord {
 
 export interface WordsResponse{
   words: DEWord[]
+}
+
+export interface SentencesResponse{
+  sentences: DEWord[]
 }

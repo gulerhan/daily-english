@@ -9,10 +9,9 @@ import { AppRoutingModule } from './app-routing.module';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderMenuComponent } from './header-menu/header-menu.component';
 import { HttpClientModule } from '@angular/common/http';
-import { WordMatchComponent } from './games/word-match/word-match.component';
 
 @NgModule({
-  declarations: [AppComponent,HeaderMenuComponent,WordMatchComponent],
+  declarations: [AppComponent,HeaderMenuComponent],
   imports: [BrowserAnimationsModule, IonicModule.forRoot(), AppRoutingModule,HttpClientModule],
   providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy }],
   bootstrap: [AppComponent],
